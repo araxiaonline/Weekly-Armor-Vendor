@@ -32,10 +32,10 @@ VALUES
 
 `(class, item_id, name, item_set_id, set_name)`: Specifies the columns into which data will be inserted:
 
-class: Class identifier for the armor set. (Warrior, Mage, Rogue, etc.) <br>
+`class:` Class identifier for the armor set. (Warrior, Mage, Rogue, etc.) <br>
 
-item_id: Unique identifier for the armor item.  (The Items listed in the "Armor Set")<br>
-name: Name of the armor item.<br>
-item_set_id: Identifier for the armor set. (Each armor set has its own unique number, 551, 250, 689, etc.)<br>
-set_name: Name of the armor set.<br>
-VALUES: Indicates that the subsequent values correspond to the columns listed above.
+`item_id:` Unique identifier for the armor item.  (The Items listed in the "Armor Set")<br>
+`name:` Name of the armor item.<br>
+`item_set_id:` Identifier for the armor set. (Each armor set has its own unique number, 551, 250, 689, etc.)<br>
+`set_name:` Name of the armor set.<br>
+`VALUES:` Indicates that the subsequent values correspond to the columns listed above.
