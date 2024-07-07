@@ -13,4 +13,15 @@ INSERT INTO araxia_world.black_market_armor_sets (class, item_id, name, item_set
     (11, 23280, 'Knight-Lieutenant''s Dragonhide Grips', 551, 'Lieutenant Commander''s Refuge'),
     (11, 23281, 'Knight-Lieutenant''s Dragonhide Treads', 551, 'Lieutenant Commander''s Refuge'),
     (11, 23308, 'Lieutenant Commander''s Dragonhide Headguard', 551, 'Lieutenant Commander''s Refuge'),
-    (11, 23309, 'Lieutenant Commander''s Dragonhide Shoulders', 551, 'Lieutenant Commander''s Refuge');
+    (11, 23309, 'Lieutenant Commander''s Dragonhide Shoulders', 551, 'Lieutenant Commander''s Refuge');```
+
+
+### Explanation of SQL Code
+
+The provided SQL code inserts data into a table named `black_market_armor_sets` in the `araxia_world` schema:
+
+```sql
+INSERT INTO araxia_world.black_market_armor_sets
+(class, item_id, name, item_set_id, set_name)
+VALUES
+(11, 23294, 'Knight-Captain''s Dragonhide Chestpiece', 551, 'Lieutenant Commander''s Refuge');
