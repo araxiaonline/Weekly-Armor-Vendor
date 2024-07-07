@@ -28,9 +28,9 @@ VALUES
 (11, 23294, 'Knight-Captain''s Dragonhide Chestpiece', 551, 'Lieutenant Commander''s Refuge');
 ``` 
 
-INSERT INTO araxia_world.black_market_armor_sets: Specifies the table where data will be inserted.
+`INSERT INTO araxia_world.black_market_armor_sets`: Specifies the table where data will be inserted.
 
-(class, item_id, name, item_set_id, set_name): Specifies the columns into which data will be inserted:
+`(class, item_id, name, item_set_id, set_name)`: Specifies the columns into which data will be inserted:
 
 class: Class identifier for the armor set.
 item_id: Unique identifier for the armor item.
@@ -39,15 +39,7 @@ item_set_id: Identifier for the armor set.
 set_name: Name of the armor set.
 VALUES: Indicates that the subsequent values correspond to the columns listed above.
 
-Each set of values in parentheses represents a row of data that will be inserted into the table. For example:
 
-
-
-
-Here's the provided text formatted in Markdown for GitHub:
-
-markdown
-Copy code
 ### Explanation of SQL Code
 
 The provided SQL code inserts data into a table named `black_market_armor_sets` in the `araxia_world` schema:
@@ -71,9 +63,9 @@ VALUES: Indicates that the subsequent values correspond to the columns listed ab
 
 Each set of values in parentheses represents a row of data that will be inserted into the table. For example:
 
-sql
-Copy code
-(11, 23294, 'Knight-Captain''s Dragonhide Chestpiece', 551, 'Lieutenant Commander''s Refuge')
+
+```sql(11, 23294, 'Knight-Captain''s Dragonhide Chestpiece', 551, 'Lieutenant Commander''s Refuge')
+```
 Inserts data where:
 
 class is 11
