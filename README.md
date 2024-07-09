@@ -2,7 +2,7 @@
 
 Adds a Vendor who sells 1 Armor per class and rotates them out weekly.
 
-The SQL table's ( 'black_market_armor_sets' 'black_market_current_set' ) is created in your "World" folder. The Lua script for the NPC handles randomly getting the Armor sets and allows players to purchase them for 100 Araxia Tokens.
+The SQL table's (`black_market_armor_sets` `black_market_current_set`) is created in your "World" folder. The Lua script for the NPC handles randomly getting the Armor sets and allows players to purchase them for 100 Araxia Tokens.
 
 
 One table for all the armor sets and one table for the 
@@ -22,7 +22,7 @@ INSERT INTO araxia_world.black_market_armor_sets (class, item_id, name, item_set
 
 ### Explanation of SQL Code
 
-The provided SQL code inserts data into a table named `black_market_armor_sets` in the `araxia_world` schema:
+The provided SQL code inserts data into a table named `black_market_armor_sets` in the `acore_world` schema:
 
 ```sql
 INSERT INTO acore_world.black_market_armor_sets
