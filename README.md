@@ -6,7 +6,8 @@ The SQL table's (`black_market_armor_sets` `black_market_current_set`) is create
 
 
 One table for all the armor sets and one table for the current sets (resets weekly).
-
+<br>
+<br>
 ### Step 1: Create `black_market_armor_sets` Table and populate it
 (A. Create `black_market_armor_sets` first and populate it, you can use the SQL provided in this repo.)
 
@@ -23,9 +24,10 @@ CREATE TABLE IF NOT EXISTS `black_market_armor_sets` (
 <br>
 <br>
 
-###Step 2: Populate `black_market_armor_sets` Table
+### Step 2: Populate `black_market_armor_sets` Table
 
 EXAMPLE:
+
 ```sql
 INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES
     (11, 23294, 'Knight-Captain''s Dragonhide Chestpiece', 551, 'Lieutenant Commander''s Refuge'),
