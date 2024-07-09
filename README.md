@@ -100,6 +100,7 @@ CALL UpdateBlackMarketSets();
 ```
 
 <br>
+
 ## Lua Script for the NPC
 Here’s the Lua script that interacts with the above SQL tables. Make sure this script is correctly placed in your server’s Lua scripts directory.
 
