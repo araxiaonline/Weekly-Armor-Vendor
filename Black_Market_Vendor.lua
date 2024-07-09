@@ -6,13 +6,13 @@ local UPDATE_INTERVAL = 604800 -- 1 week in seconds
 -- Class names and icons for the menu
 local CLASS_NAMES_AND_ICONS = {
     [11] = {name = "Druid", icon = "Interface\\icons\\classicon_druid"},
-    [3] = {name = "Hunter", icon = "Interface\\icons\\classicon_hunter"},
+    [3] = {name = "Hunter", icon = "Interface\\icons\\ability_impalingbolt"},
     [8] = {name = "Mage", icon = "Interface\\icons\\classicon_mage"},
     [2] = {name = "Paladin", icon = "Interface\\icons\\classicon_paladin"},
     [5] = {name = "Priest", icon = "Interface\\icons\\classicon_priest"},
-    [4] = {name = "Rogue", icon = "Interface\\icons\\classicon_rogue"},
+    [4] = {name = "Rogue", icon = "Interface\\icons\\ability_rogue_deadlybrew"},
     [7] = {name = "Shaman", icon = "Interface\\icons\\classicon_shaman"},
-    [9] = {name = "Warlock", icon = "Interface\\icons\\classicon_warlock"},
+    [9] = {name = "Warlock", icon = "Interface\\icons\\spell_shadow_possession"},
     [1] = {name = "Warrior", icon = "Interface\\icons\\classicon_warrior"},
     [6] = {name = "Death Knight", icon = "Interface\\icons\\spell_deathknight_classicon"}
 }
@@ -22,19 +22,18 @@ local selectedSets = {}
 -- Function to update the selectedSets table with random sets weekly
 local function UpdateBlackMarketSets()
     selectedSets = {}
-    for classId in pairs(CLASS_NAMES_AND_ICONS) do
-        local query = WorldDBQuery("SELECT DISTINCT item_set_id, set_name FROM black_market_armor_sets WHERE class = " .. classId .. " ORDER BY RAND() LIMIT 1")
-        if query then
-            local item_set_id = query:GetInt32(0)
-            local set_name = query:GetString(1)
-            selectedSets[classId] = { item_set_id = item_set_id, set_name = set_name }
-        end
+    local query = WorldDBQuery("SELECT class, item_set_id, set_name FROM black_market_current_set")
+    if query then
+        repeat
+            local class = query:GetInt32(0)
+            local item_set_id = query:GetInt32(1)
+            local set_name = query:GetString(2)
+            selectedSets[class] = { item_set_id = item_set_id, set_name = set_name }
+        until not query:NextRow()
     end
 end
 
--- Schedule the update function to run weekly
-CreateLuaEvent(UpdateBlackMarketSets, UPDATE_INTERVAL, 0)
-UpdateBlackMarketSets() -- Run immediately on script load
+UpdateBlackMarketSets()
 
 -- Function to handle the NPC's gossip menu
 local function BlackMarket_OnGossipHello(event, player, creature)
