@@ -44,7 +44,7 @@ INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`
     (3, 23307, 'Lieutenant Commander''s Chain Shoulders', 550, 'Lieutenant Commander''s Pursuance');
 ```
 
-##Step 3: Create `black_market_current_set` Table<br>
+## Step 3: Create `black_market_current_set` Table
 This table will hold the current week's selected armor sets for each class.
 
 ```sql
@@ -56,7 +56,7 @@ CREATE TABLE IF NOT EXISTS `black_market_current_set` (
 );
 ```
 
-##Step 4: Create the Stored Procedure<br>
+## Step 4: Create the Stored Procedure
 The stored procedure will update the `black_market_current_set` table with random sets each week.
 
 ```sql
@@ -77,7 +77,7 @@ BEGIN
 END;
 ```
 
-##Step 5: Create the Event Scheduler<br>
+## Step 5: Create the Event Scheduler
 Set up the event scheduler to call the stored procedure every week.
 
 ```sql
@@ -92,14 +92,14 @@ DO
 ```
 
 
-##Step 6: Test the Stored Procedure Manually<br>
+## Step 6: Test the Stored Procedure Manually
 Manually call the stored procedure to ensure it works as expected.
 
 ```sql
 CALL UpdateBlackMarketSets();
 ```
 
-
+<br>
 ## Lua Script for the NPC
 Here’s the Lua script that interacts with the above SQL tables. Make sure this script is correctly placed in your server’s Lua scripts directory.
 
