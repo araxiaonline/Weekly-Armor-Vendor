@@ -1,3 +1,5 @@
+--Made by Manmadedrummer for Araxia Server
+
 local BLACK_MARKET_NPC_ID = 101111 -- Replace with your NPC's ID
 local ARAXIA_TOKEN_ID = 910001 -- ID of Araxia Tokens
 local SET_COST = 100 -- Cost of each armor set in Araxia Tokens
