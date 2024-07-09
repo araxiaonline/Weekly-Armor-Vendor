@@ -1,6 +1,5 @@
 -- Insert Armor Sets
 
-
 --[[	Lieutenant Commander's SETS]]
 
 
@@ -100,11 +99,7 @@ VALUES
 (1, 23315, 'Lieutenant Commander''s Plate Shoulders', 545, 'Lieutenant Commander''s Battlearmor');
 
 
-
-
 --[[Level 60 Low Tier Set ]]
-
-
 
 
 
@@ -195,10 +190,8 @@ INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`
 (1, 23243, 'Champion''s Plate Shoulders', 537, 'Champion''s Battlearmor');
 
 
-
-
-
 --[[Level 60 High Tier Set ]]
+
 
 
 -- Insert Armor Sets for Druid: Field Marshal's Sanctuary Item Set 397
