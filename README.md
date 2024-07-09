@@ -7,7 +7,7 @@ The SQL table's (`black_market_armor_sets` `black_market_current_set`) is create
 
 One table for all the armor sets and one table for the current sets (resets weekly).
 
-##Step 1: Create black_market_armor_sets Table an dpopulate it
+##Step 1: Create black_market_armor_sets Table and populate it<br>
 (A. Create `black_market_armor_sets` first and populate it, you can use the SQL provided in this repo.)
 
 ```sql
@@ -40,7 +40,7 @@ INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`
     (3, 23307, 'Lieutenant Commander''s Chain Shoulders', 550, 'Lieutenant Commander''s Pursuance');
 ```
 
-##Step 3: Create `black_market_current_set` Table
+##Step 3: Create `black_market_current_set` Table<br>
 This table will hold the current week's selected armor sets for each class.
 
 ```sql
@@ -52,7 +52,7 @@ CREATE TABLE IF NOT EXISTS `black_market_current_set` (
 );
 ```
 
-##Step 4: Create the Stored Procedure
+##Step 4: Create the Stored Procedure<br>
 The stored procedure will update the `black_market_current_set` table with random sets each week.
 
 ```sql
@@ -73,7 +73,7 @@ BEGIN
 END;
 ```
 
-##Step 5: Create the Event Scheduler
+##Step 5: Create the Event Scheduler<br>
 Set up the event scheduler to call the stored procedure every week.
 
 ```sql
@@ -88,7 +88,7 @@ DO
 ```
 
 
-##Step 6: Test the Stored Procedure Manually
+##Step 6: Test the Stored Procedure Manually<br>
 Manually call the stored procedure to ensure it works as expected.
 
 ```sql
