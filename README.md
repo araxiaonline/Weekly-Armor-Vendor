@@ -1,6 +1,6 @@
 # Black-Market-Vendor
 
-Adds a Vendor who sells 1 Armor per class and rotates them out weekly.
+Adds a Vendor who sells 1 Armor Set per class and rotates them out weekly.
 
 The SQL table's (`black_market_armor_sets` `black_market_current_set`) is created in your "World" folder. The Lua script for the NPC handles randomly getting the Armor sets and allows players to purchase them for 100 Araxia Tokens (Item ID: 910001).
 
