@@ -106,7 +106,7 @@ Here’s the Lua script that interacts with the above SQL tables. Make sure this
 
 ```lua
 local BLACK_MARKET_NPC_ID = 101111 -- Replace with your NPC's ID
-local ARAXIA_TOKEN_ID = 910001 -- ID of Araxia Tokens
+local ARAXIA_TOKEN_ID = 910001 -- ID Tokens or Currency
 local SET_COST = 100 -- Cost of each armor set in Araxia Tokens
 local UPDATE_INTERVAL = 604800 -- 1 week in seconds
 
