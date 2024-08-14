@@ -2469,3 +2469,2529 @@ INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`
 (11, 41666, 'Deadly Gladiator''s Dragonhide Legguards', 63, 'Deadly Gladiator''s Sanctuary'),
 (11, 41714, 'Deadly Gladiator''s Dragonhide Spaulders', 63, 'Deadly Gladiator''s Sanctuary'),
 (11, 41660, 'Deadly Gladiator''s Dragonhide Robes', 63, 'Deadly Gladiator''s Sanctuary');
+
+-- Insert Armor Sets for Druid: Savage Gladiator's Refuge (Restoration) 774
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(11, 41268, 'Savage Gladiator''s Kodohide Gloves', 774, 'Savage Gladiator''s Refuge'),
+(11, 41269, 'Savage Gladiator''s Kodohide Helm', 774, 'Savage Gladiator''s Refuge'),
+(11, 41270, 'Savage Gladiator''s Kodohide Legguards', 774, 'Savage Gladiator''s Refuge'),
+(11, 41271, 'Savage Gladiator''s Kodohide Spaulders', 774, 'Savage Gladiator''s Refuge'),
+(11, 41272, 'Savage Gladiator''s Kodohide Robes', 774, 'Savage Gladiator''s Refuge');
+
+-- Insert Armor Sets for Druid: Hateful Gladiator's Refuge (Restoration) 45
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(11, 41284, 'Hateful Gladiator''s Kodohide Gloves', 45, 'Hateful Gladiator''s Refuge'),
+(11, 41319, 'Hateful Gladiator''s Kodohide Helm', 45, 'Hateful Gladiator''s Refuge'),
+(11, 41296, 'Hateful Gladiator''s Kodohide Legguards', 45, 'Hateful Gladiator''s Refuge'),
+(11, 41273, 'Hateful Gladiator''s Kodohide Spaulders', 45, 'Hateful Gladiator''s Refuge'),
+(11, 41308, 'Hateful Gladiator''s Kodohide Robes', 45, 'Hateful Gladiator''s Refuge');
+
+-- Insert Armor Sets for Druid: Deadly Gladiator's Refuge (Restoration) 61
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(11, 41286, 'Deadly Gladiator''s Kodohide Gloves', 61, 'Deadly Gladiator''s Refuge'),
+(11, 41320, 'Deadly Gladiator''s Kodohide Helm', 61, 'Deadly Gladiator''s Refuge'),
+(11, 41297, 'Deadly Gladiator''s Kodohide Legguards', 61, 'Deadly Gladiator''s Refuge'),
+(11, 41274, 'Deadly Gladiator''s Kodohide Spaulders', 61, 'Deadly Gladiator''s Refuge'),
+(11, 41309, 'Deadly Gladiator''s Kodohide Robes', 61, 'Deadly Gladiator''s Refuge');
+
+-- Insert Armor Sets for Hunter: Savage Gladiator's Pursuit 771
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(3, 41084, 'Savage Gladiator''s Chain Armor', 771, 'Savage Gladiator''s Pursuit'),
+(3, 41140, 'Savage Gladiator''s Chain Gauntlets', 771, 'Savage Gladiator''s Pursuit'),
+(3, 41154, 'Savage Gladiator''s Chain Helm', 771, 'Savage Gladiator''s Pursuit'),
+(3, 41202, 'Savage Gladiator''s Chain Leggings', 771, 'Savage Gladiator''s Pursuit'),
+(3, 41214, 'Savage Gladiator''s Chain Spaulders', 771, 'Savage Gladiator''s Pursuit');
+
+-- Insert Armor Sets for Hunter: Hateful Gladiator's Pursuit 42
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(3, 41085, 'Hateful Gladiator''s Chain Armor', 42, 'Hateful Gladiator''s Pursuit'),
+(3, 41141, 'Hateful Gladiator''s Chain Gauntlets', 42, 'Hateful Gladiator''s Pursuit'),
+(3, 41155, 'Hateful Gladiator''s Chain Helm', 42, 'Hateful Gladiator''s Pursuit'),
+(3, 41203, 'Hateful Gladiator''s Chain Leggings', 42, 'Hateful Gladiator''s Pursuit'),
+(3, 41215, 'Hateful Gladiator''s Chain Spaulders', 42, 'Hateful Gladiator''s Pursuit');
+
+-- Insert Armor Sets for Hunter: Deadly Gladiator's Pursuit 58
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(3, 41086, 'Deadly Gladiator''s Chain Armor', 58, 'Deadly Gladiator''s Pursuit'),
+(3, 41142, 'Deadly Gladiator''s Chain Gauntlets', 58, 'Deadly Gladiator''s Pursuit'),
+(3, 41156, 'Deadly Gladiator''s Chain Helm', 58, 'Deadly Gladiator''s Pursuit'),
+(3, 41204, 'Deadly Gladiator''s Chain Leggings', 58, 'Deadly Gladiator''s Pursuit'),
+(3, 41216, 'Deadly Gladiator''s Chain Spaulders', 58, 'Deadly Gladiator''s Pursuit');
+
+-- Insert Armor Sets for Mage: Savage Gladiator's Regalia 775
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(8, 41962, 'Savage Gladiator''s Silk Amice', 775, 'Savage Gladiator''s Regalia'),
+(8, 41943, 'Savage Gladiator''s Silk Cowl', 775, 'Savage Gladiator''s Regalia'),
+(8, 41968, 'Savage Gladiator''s Silk Handguards', 775, 'Savage Gladiator''s Regalia'),
+(8, 41949, 'Savage Gladiator''s Silk Raiment', 775, 'Savage Gladiator''s Regalia'),
+(8, 41956, 'Savage Gladiator''s Silk Trousers', 775, 'Savage Gladiator''s Regalia');
+
+-- Insert Armor Sets for Mage: Hateful Gladiator's Regalia 46
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(8, 41963, 'Hateful Gladiator''s Silk Amice', 46, 'Hateful Gladiator''s Regalia'),
+(8, 41944, 'Hateful Gladiator''s Silk Cowl', 46, 'Hateful Gladiator''s Regalia'),
+(8, 41969, 'Hateful Gladiator''s Silk Handguards', 46, 'Hateful Gladiator''s Regalia'),
+(8, 41950, 'Hateful Gladiator''s Silk Raiment', 46, 'Hateful Gladiator''s Regalia'),
+(8, 41957, 'Hateful Gladiator''s Silk Trousers', 46, 'Hateful Gladiator''s Regalia');
+
+-- Insert Armor Sets for Mage: Deadly Gladiator's Regalia 62
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(8, 41964, 'Deadly Gladiator''s Silk Amice', 62, 'Deadly Gladiator''s Regalia'),
+(8, 41945, 'Deadly Gladiator''s Silk Cowl', 62, 'Deadly Gladiator''s Regalia'),
+(8, 41970, 'Deadly Gladiator''s Silk Handguards', 62, 'Deadly Gladiator''s Regalia'),
+(8, 41951, 'Deadly Gladiator''s Silk Raiment', 62, 'Deadly Gladiator''s Regalia'),
+(8, 41958, 'Deadly Gladiator''s Silk Trousers', 62, 'Deadly Gladiator''s Regalia');
+
+-- Insert Armor Sets for Paladin: Savage Gladiator's Redemption (Holy) 773
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(2, 40898, 'Savage Gladiator''s Ornamented Chestguard', 773, 'Savage Gladiator''s Redemption'),
+(2, 40918, 'Savage Gladiator''s Ornamented Gloves', 773, 'Savage Gladiator''s Redemption'),
+(2, 40930, 'Savage Gladiator''s Ornamented Headcover', 773, 'Savage Gladiator''s Redemption'),
+(2, 40936, 'Savage Gladiator''s Ornamented Legplates', 773, 'Savage Gladiator''s Redemption'),
+(2, 40960, 'Savage Gladiator''s Ornamented Spaulders', 773, 'Savage Gladiator''s Redemption');
+
+-- Insert Armor Sets for Paladin: Hateful Gladiator's Redemption (Holy) 44
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(2, 40904, 'Hateful Gladiator''s Ornamented Chestguard', 44, 'Hateful Gladiator''s Redemption'),
+(2, 40925, 'Hateful Gladiator''s Ornamented Gloves', 44, 'Hateful Gladiator''s Redemption'),
+(2, 40931, 'Hateful Gladiator''s Ornamented Headcover', 44, 'Hateful Gladiator''s Redemption'),
+(2, 40937, 'Hateful Gladiator''s Ornamented Legplates', 44, 'Hateful Gladiator''s Redemption'),
+(2, 40961, 'Hateful Gladiator''s Ornamented Spaulders', 44, 'Hateful Gladiator''s Redemption');
+
+-- Insert Armor Sets for Paladin: Deadly Gladiator's Redemption (Holy) 60
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `name`, `item_set_id`, `set_name`) VALUES 
+(2, 40905, 'Deadly Gladiator''s Ornamented Chestguard', 60, 'Deadly Gladiator''s Redemption'),
+(2, 40926, 'Deadly Gladiator''s Ornamented Gloves', 60, 'Deadly Gladiator''s Redemption'),
+(2, 40932, 'Deadly Gladiator''s Ornamented Headcover', 60, 'Deadly Gladiator''s Redemption'),
+(2, 40938, 'Deadly Gladiator''s Ornamented Legplates', 60, 'Deadly Gladiator''s Redemption'),
+(2, 40962, 'Deadly Gladiator''s Ornamented Spaulders', 60, 'Deadly Gladiator''s Redemption');
+
+-- Insert Armor Sets for Paladin: Savage Gladiator's Vindication (Retribution) Item Set 766
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 42630, 766, 'Savage Gladiator\'s Scaled Chestpiece', 'Savage Gladiator\'s Vindication'),
+(2, 42631, 766, 'Savage Gladiator\'s Scaled Gauntlets', 'Savage Gladiator\'s Vindication'),
+(2, 42632, 766, 'Savage Gladiator\'s Scaled Helm', 'Savage Gladiator\'s Vindication'),
+(2, 42633, 766, 'Savage Gladiator\'s Scaled Legguards', 'Savage Gladiator\'s Vindication'),
+(2, 42634, 766, 'Savage Gladiator\'s Scaled Shoulders', 'Savage Gladiator\'s Vindication');
+
+-- Insert Armor Sets for Paladin: Hateful Gladiator's Vindication (Retribution) Item Set 50
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40782, 50, 'Hateful Gladiator\'s Scaled Chestpiece', 'Hateful Gladiator\'s Vindication'),
+(2, 40802, 50, 'Hateful Gladiator\'s Scaled Gauntlets', 'Hateful Gladiator\'s Vindication'),
+(2, 40821, 50, 'Hateful Gladiator\'s Scaled Helm', 'Hateful Gladiator\'s Vindication'),
+(2, 40842, 50, 'Hateful Gladiator\'s Scaled Legguards', 'Hateful Gladiator\'s Vindication'),
+(2, 40861, 50, 'Hateful Gladiator\'s Scaled Shoulders', 'Hateful Gladiator\'s Vindication');
+
+-- Insert Armor Sets for Paladin: Deadly Gladiator's Vindication (Retribution) Item Set 66
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40785, 66, 'Deadly Gladiator\'s Scaled Chestpiece', 'Deadly Gladiator\'s Vindication'),
+(2, 40805, 66, 'Deadly Gladiator\'s Scaled Gauntlets', 'Deadly Gladiator\'s Vindication'),
+(2, 40825, 66, 'Deadly Gladiator\'s Scaled Helm', 'Deadly Gladiator\'s Vindication'),
+(2, 40846, 66, 'Deadly Gladiator\'s Scaled Legguards', 'Deadly Gladiator\'s Vindication'),
+(2, 40864, 66, 'Deadly Gladiator\'s Scaled Shoulders', 'Deadly Gladiator\'s Vindication');
+
+-- Insert Armor Sets for Priest: Savage Gladiator's Investiture (Holy) Item Set 777
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 42703, 777, 'Gladiator\'s Mooncloth Gloves', 'Savage Gladiator\'s Investiture'),
+(5, 42704, 777, 'Gladiator\'s Mooncloth Hood', 'Savage Gladiator\'s Investiture'),
+(5, 42705, 777, 'Gladiator\'s Mooncloth Leggings', 'Savage Gladiator\'s Investiture'),
+(5, 42706, 777, 'Gladiator\'s Mooncloth Mantle', 'Savage Gladiator\'s Investiture'),
+(5, 42707, 777, 'Gladiator\'s Mooncloth Robe', 'Savage Gladiator\'s Investiture');
+
+-- Insert Armor Sets for Priest: Hateful Gladiator's Investiture (Holy) Item Set 41
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41872, 41, 'Hateful Gladiator\'s Mooncloth Gloves', 'Hateful Gladiator\'s Investiture'),
+(5, 41852, 41, 'Hateful Gladiator\'s Mooncloth Hood', 'Hateful Gladiator\'s Investiture'),
+(5, 41862, 41, 'Hateful Gladiator\'s Mooncloth Leggings', 'Hateful Gladiator\'s Investiture'),
+(5, 41867, 41, 'Hateful Gladiator\'s Mooncloth Mantle', 'Hateful Gladiator\'s Investiture'),
+(5, 41857, 41, 'Hateful Gladiator\'s Mooncloth Robe', 'Hateful Gladiator\'s Investiture');
+
+-- Insert Armor Sets for Priest: Deadly Gladiator's Investiture (Holy) Item Set 57
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41873, 57, 'Deadly Gladiator\'s Mooncloth Gloves', 'Deadly Gladiator\'s Investiture'),
+(5, 41853, 57, 'Deadly Gladiator\'s Mooncloth Hood', 'Deadly Gladiator\'s Investiture'),
+(5, 41863, 57, 'Deadly Gladiator\'s Mooncloth Leggings', 'Deadly Gladiator\'s Investiture'),
+(5, 41868, 57, 'Deadly Gladiator\'s Mooncloth Mantle', 'Deadly Gladiator\'s Investiture'),
+(5, 41858, 57, 'Deadly Gladiator\'s Mooncloth Robe', 'Deadly Gladiator\'s Investiture');
+
+-- Insert Armor Sets for Priest: Savage Gladiator's Raiment (Shadow) Item Set 772
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41937, 772, 'Savage Gladiator\'s Satin Gloves', 'Savage Gladiator\'s Raiment'),
+(5, 41912, 772, 'Savage Gladiator\'s Satin Hood', 'Savage Gladiator\'s Raiment'),
+(5, 41924, 772, 'Savage Gladiator\'s Satin Leggings', 'Savage Gladiator\'s Raiment'),
+(5, 41930, 772, 'Savage Gladiator\'s Satin Mantle', 'Savage Gladiator\'s Raiment'),
+(5, 41918, 772, 'Savage Gladiator\'s Satin Robe', 'Savage Gladiator\'s Raiment');
+
+-- Insert Armor Sets for Priest: Hateful Gladiator's Raiment (Shadow) Item Set 43
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41938, 43, 'Hateful Gladiator\'s Satin Gloves', 'Hateful Gladiator\'s Raiment'),
+(5, 41913, 43, 'Hateful Gladiator\'s Satin Hood', 'Hateful Gladiator\'s Raiment'),
+(5, 41925, 43, 'Hateful Gladiator\'s Satin Leggings', 'Hateful Gladiator\'s Raiment'),
+(5, 41931, 43, 'Hateful Gladiator\'s Satin Mantle', 'Hateful Gladiator\'s Raiment'),
+(5, 41919, 43, 'Hateful Gladiator\'s Satin Robe', 'Hateful Gladiator\'s Raiment');
+
+-- Insert Armor Sets for Priest: Deadly Gladiator's Raiment (Shadow) Item Set 59
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41939, 59, 'Deadly Gladiator\'s Satin Gloves', 'Deadly Gladiator\'s Raiment'),
+(5, 41914, 59, 'Deadly Gladiator\'s Satin Hood', 'Deadly Gladiator\'s Raiment'),
+(5, 41926, 59, 'Deadly Gladiator\'s Satin Leggings', 'Deadly Gladiator\'s Raiment'),
+(5, 41933, 59, 'Deadly Gladiator\'s Satin Mantle', 'Deadly Gladiator\'s Raiment'),
+(5, 41920, 59, 'Deadly Gladiator\'s Satin Robe', 'Deadly Gladiator\'s Raiment');
+
+-- Insert Armor Sets for Rogue: Savage Gladiator's Vestments Item Set 778
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 41643, 778, 'Savage Gladiator\'s Leather Gloves', 'Savage Gladiator\'s Vestments'),
+(4, 41644, 778, 'Savage Gladiator\'s Leather Helm', 'Savage Gladiator\'s Vestments'),
+(4, 41645, 778, 'Savage Gladiator\'s Leather Legguards', 'Savage Gladiator\'s Vestments'),
+(4, 41646, 778, 'Savage Gladiator\'s Leather Spaulders', 'Savage Gladiator\'s Vestments'),
+(4, 41647, 778, 'Savage Gladiator\'s Leather Tunic', 'Savage Gladiator\'s Vestments');
+
+-- Insert Armor Sets for Rogue: Hateful Gladiator's Vestments Item Set 49
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 41765, 49, 'Hateful Gladiator\'s Leather Gloves', 'Hateful Gladiator\'s Vestments'),
+(4, 41670, 49, 'Hateful Gladiator\'s Leather Helm', 'Hateful Gladiator\'s Vestments'),
+(4, 41653, 49, 'Hateful Gladiator\'s Leather Legguards', 'Hateful Gladiator\'s Vestments'),
+(4, 41681, 49, 'Hateful Gladiator\'s Leather Spaulders', 'Hateful Gladiator\'s Vestments'),
+(4, 41648, 49, 'Hateful Gladiator\'s Leather Tunic', 'Hateful Gladiator\'s Vestments');
+
+-- Insert Armor Sets for Rogue: Deadly Gladiator's Vestments Item Set 65
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 41766, 65, 'Deadly Gladiator\'s Leather Gloves', 'Deadly Gladiator\'s Vestments'),
+(4, 41671, 65, 'Deadly Gladiator\'s Leather Helm', 'Deadly Gladiator\'s Vestments'),
+(4, 41654, 65, 'Deadly Gladiator\'s Leather Legguards', 'Deadly Gladiator\'s Vestments'),
+(4, 41682, 65, 'Deadly Gladiator\'s Leather Spaulders', 'Deadly Gladiator\'s Vestments'),
+(4, 41649, 65, 'Deadly Gladiator\'s Leather Tunic', 'Deadly Gladiator\'s Vestments');
+
+-- Insert Armor Sets for Shaman: Savage Gladiator's Thunderfist (Elemental) Item Set 777
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40987, 777, 'Savage Gladiator\'s Mail Armor', 'Savage Gladiator\'s Thunderfist'),
+(7, 41004, 777, 'Savage Gladiator\'s Mail Gauntlets', 'Savage Gladiator\'s Thunderfist'),
+(7, 41016, 777, 'Savage Gladiator\'s Mail Helm', 'Savage Gladiator\'s Thunderfist'),
+(7, 41030, 777, 'Savage Gladiator\'s Mail Leggings', 'Savage Gladiator\'s Thunderfist'),
+(7, 41041, 777, 'Savage Gladiator\'s Mail Spaulders', 'Savage Gladiator\'s Thunderfist');
+
+-- Insert Armor Sets for Shaman: Hateful Gladiator's Thunderfist (Elemental) Item Set 48
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40989, 48, 'Hateful Gladiator\'s Mail Armor', 'Hateful Gladiator\'s Thunderfist'),
+(7, 41005, 48, 'Hateful Gladiator\'s Mail Gauntlets', 'Hateful Gladiator\'s Thunderfist'),
+(7, 41017, 48, 'Hateful Gladiator\'s Mail Helm', 'Hateful Gladiator\'s Thunderfist'),
+(7, 41031, 48, 'Hateful Gladiator\'s Mail Leggings', 'Hateful Gladiator\'s Thunderfist'),
+(7, 41042, 48, 'Hateful Gladiator\'s Mail Spaulders', 'Hateful Gladiator\'s Thunderfist');
+
+-- Insert Armor Sets for Shaman: Deadly Gladiator's Thunderfist (Elemental) Item Set 64
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40991, 64, 'Deadly Gladiator\'s Mail Armor', 'Deadly Gladiator\'s Thunderfist'),
+(7, 41006, 64, 'Deadly Gladiator\'s Mail Gauntlets', 'Deadly Gladiator\'s Thunderfist'),
+(7, 41018, 64, 'Deadly Gladiator\'s Mail Helm', 'Deadly Gladiator\'s Thunderfist'),
+(7, 41032, 64, 'Deadly Gladiator\'s Mail Leggings', 'Deadly Gladiator\'s Thunderfist'),
+(7, 41043, 64, 'Deadly Gladiator\'s Mail Spaulders', 'Deadly Gladiator\'s Thunderfist');
+
+-- Insert Armor Sets for Shaman: Savage Gladiator's Earthshaker (Enhancement) Item Set 768
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 41078, 768, 'Savage Gladiator\'s Linked Armor', 'Savage Gladiator\'s Earthshaker'),
+(7, 41134, 768, 'Savage Gladiator\'s Linked Gauntlets', 'Savage Gladiator\'s Earthshaker'),
+(7, 41148, 768, 'Savage Gladiator\'s Linked Helm', 'Savage Gladiator\'s Earthshaker'),
+(7, 41160, 768, 'Savage Gladiator\'s Linked Leggings', 'Savage Gladiator\'s Earthshaker'),
+(7, 41208, 768, 'Savage Gladiator\'s Linked Spaulders', 'Savage Gladiator\'s Earthshaker');
+
+-- Insert Armor Sets for Shaman: Hateful Gladiator's Earthshaker (Enhancement) Item Set 39
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 41079, 39, 'Hateful Gladiator\'s Linked Armor', 'Hateful Gladiator\'s Earthshaker'),
+(7, 41135, 39, 'Hateful Gladiator\'s Linked Gauntlets', 'Hateful Gladiator\'s Earthshaker'),
+(7, 41149, 39, 'Hateful Gladiator\'s Linked Helm', 'Hateful Gladiator\'s Earthshaker'),
+(7, 41162, 39, 'Hateful Gladiator\'s Linked Leggings', 'Hateful Gladiator\'s Earthshaker'),
+(7, 41209, 39, 'Hateful Gladiator\'s Linked Spaulders', 'Hateful Gladiator\'s Earthshaker');
+
+-- Insert Armor Sets for Shaman: Deadly Gladiator's Earthshaker (Enhancement) Item Set 55
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 41080, 55, 'Deadly Gladiator\'s Linked Armor', 'Deadly Gladiator\'s Earthshaker'),
+(7, 41136, 55, 'Deadly Gladiator\'s Linked Gauntlets', 'Deadly Gladiator\'s Earthshaker'),
+(7, 41150, 55, 'Deadly Gladiator\'s Linked Helm', 'Deadly Gladiator\'s Earthshaker'),
+(7, 41198, 55, 'Deadly Gladiator\'s Linked Leggings', 'Deadly Gladiator\'s Earthshaker'),
+(7, 41210, 55, 'Deadly Gladiator\'s Linked Spaulders', 'Deadly Gladiator\'s Earthshaker');
+
+-- Insert Armor Sets for Shaman: Savage Gladiator's Wartide (Restoration) Item Set 780
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40986, 780, 'Savage Gladiator\'s Ringmail Armor', 'Savage Gladiator\'s Wartide'),
+(7, 40998, 780, 'Savage Gladiator\'s Ringmail Gauntlets', 'Savage Gladiator\'s Wartide'),
+(7, 41010, 780, 'Savage Gladiator\'s Ringmail Helm', 'Savage Gladiator\'s Wartide'),
+(7, 41023, 780, 'Savage Gladiator\'s Ringmail Leggings', 'Savage Gladiator\'s Wartide'),
+(7, 41024, 780, 'Savage Gladiator\'s Ringmail Spaulders', 'Savage Gladiator\'s Wartide');
+
+-- Insert Armor Sets for Shaman: Hateful Gladiator's Wartide (Restoration) Item Set 51
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40988, 51, 'Hateful Gladiator\'s Ringmail Armor', 'Hateful Gladiator\'s Wartide'),
+(7, 40999, 51, 'Hateful Gladiator\'s Ringmail Gauntlets', 'Hateful Gladiator\'s Wartide'),
+(7, 41011, 51, 'Hateful Gladiator\'s Ringmail Helm', 'Hateful Gladiator\'s Wartide'),
+(7, 41025, 51, 'Hateful Gladiator\'s Ringmail Leggings', 'Hateful Gladiator\'s Wartide'),
+(7, 41036, 51, 'Hateful Gladiator\'s Ringmail Spaulders', 'Hateful Gladiator\'s Wartide');
+
+-- Insert Armor Sets for Shaman: Deadly Gladiator's Wartide (Restoration) Item Set 67 
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40990, 67, 'Deadly Gladiator\'s Ringmail Armor', 'Deadly Gladiator\'s Wartide'),
+(7, 41000, 67, 'Deadly Gladiator\'s Ringmail Gauntlets', 'Deadly Gladiator\'s Wartide'),
+(7, 41012, 67, 'Deadly Gladiator\'s Ringmail Helm', 'Deadly Gladiator\'s Wartide'),
+(7, 41026, 67, 'Deadly Gladiator\'s Ringmail Leggings', 'Deadly Gladiator\'s Wartide'),
+(7, 41037, 67, 'Deadly Gladiator\'s Ringmail Spaulders', 'Deadly Gladiator\'s Wartide');
+
+-- Insert Armor Sets for Warlock: Savage Gladiator's Felshroud Item Set 769
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 42008, 769, 'Savage Gladiator\'s Felweave Amice', 'Savage Gladiator\'s Felshroud'),
+(9, 41990, 769, 'Savage Gladiator\'s Felweave Cowl', 'Savage Gladiator\'s Felshroud'),
+(9, 42014, 769, 'Savage Gladiator\'s Felweave Handguards', 'Savage Gladiator\'s Felshroud'),
+(9, 41996, 769, 'Savage Gladiator\'s Felweave Raiment', 'Savage Gladiator\'s Felshroud'),
+(9, 42002, 769, 'Savage Gladiator\'s Felweave Trousers', 'Savage Gladiator\'s Felshroud');
+
+-- Insert Armor Sets for Warlock: Hateful Gladiator's Felshroud Item Set 40
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 42009, 40, 'Hateful Gladiator\'s Felweave Amice', 'Hateful Gladiator\'s Felshroud'),
+(9, 41991, 40, 'Hateful Gladiator\'s Felweave Cowl', 'Hateful Gladiator\'s Felshroud'),
+(9, 42015, 40, 'Hateful Gladiator\'s Felweave Handguards', 'Hateful Gladiator\'s Felshroud'),
+(9, 42001, 40, 'Hateful Gladiator\'s Felweave Raiment', 'Hateful Gladiator\'s Felshroud'),
+(9, 42003, 40, 'Hateful Gladiator\'s Felweave Trousers', 'Hateful Gladiator\'s Felshroud');
+
+-- Insert Armor Sets for Warlock: Deadly Gladiator's Felshroud Item Set 56
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 42010, 56, 'Deadly Gladiator\'s Felweave Amice', 'Deadly Gladiator\'s Felshroud'),
+(9, 41992, 56, 'Deadly Gladiator\'s Felweave Cowl', 'Deadly Gladiator\'s Felshroud'),
+(9, 42016, 56, 'Deadly Gladiator\'s Felweave Handguards', 'Deadly Gladiator\'s Felshroud'),
+(9, 41997, 56, 'Deadly Gladiator\'s Felweave Raiment', 'Deadly Gladiator\'s Felshroud'),
+(9, 42004, 56, 'Deadly Gladiator\'s Felweave Trousers', 'Deadly Gladiator\'s Felshroud');
+
+-- Insert Armor Sets for Warrior: Savage Gladiator's Battlegear Item Set 766
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 40778, 766, 'Savage Gladiator\'s Plate Chestpiece', 'Savage Gladiator\'s Battlegear'),
+(1, 40797, 766, 'Savage Gladiator\'s Plate Gauntlets', 'Savage Gladiator\'s Battlegear'),
+(1, 40816, 766, 'Savage Gladiator\'s Plate Helm', 'Savage Gladiator\'s Battlegear'),
+(1, 40836, 766, 'Savage Gladiator\'s Plate Legguards', 'Savage Gladiator\'s Battlegear'),
+(1, 40856, 766, 'Savage Gladiator\'s Plate Shoulders', 'Savage Gladiator\'s Battlegear');
+
+-- Insert Armor Sets for Warrior: Hateful Gladiator's Battlegear Item Set 37
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 40783, 37, 'Hateful Gladiator\'s Plate Chestpiece', 'Hateful Gladiator\'s Battlegear'),
+(1, 40801, 37, 'Hateful Gladiator\'s Plate Gauntlets', 'Hateful Gladiator\'s Battlegear'),
+(1, 40819, 37, 'Hateful Gladiator\'s Plate Helm', 'Hateful Gladiator\'s Battlegear'),
+(1, 40840, 37, 'Hateful Gladiator\'s Plate Legguards', 'Hateful Gladiator\'s Battlegear'),
+(1, 40859, 37, 'Hateful Gladiator\'s Plate Shoulders', 'Hateful Gladiator\'s Battlegear');
+
+-- Insert Armor Sets for Warrior: Deadly Gladiator's Battlegear Item Set 53
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 40786, 53, 'Deadly Gladiator\'s Plate Chestpiece', 'Deadly Gladiator\'s Battlegear'),
+(1, 40804, 53, 'Deadly Gladiator\'s Plate Gauntlets', 'Deadly Gladiator\'s Battlegear'),
+(1, 40823, 53, 'Deadly Gladiator\'s Plate Helm', 'Deadly Gladiator\'s Battlegear'),
+(1, 40844, 53, 'Deadly Gladiator\'s Plate Legguards', 'Deadly Gladiator\'s Battlegear'),
+(1, 40862, 53, 'Deadly Gladiator\'s Plate Shoulders', 'Deadly Gladiator\'s Battlegear');
+
+
+
+
+--[[ Season 6 Sets ]]
+
+
+
+
+-- Insert Armor Sets for Druid: Furious Gladiator's Sanctuary (Feral) Item Set 98
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 41773, 98, 'Furious Gladiator\'s Dragonhide Gloves', 'Furious Gladiator\'s Sanctuary'),
+(11, 41678, 98, 'Furious Gladiator\'s Dragonhide Helm', 'Furious Gladiator\'s Sanctuary'),
+(11, 41667, 98, 'Furious Gladiator\'s Dragonhide Legguards', 'Furious Gladiator\'s Sanctuary'),
+(11, 41715, 98, 'Furious Gladiator\'s Dragonhide Spaulders', 'Furious Gladiator\'s Sanctuary'),
+(11, 41661, 98, 'Furious Gladiator\'s Dragonhide Robes', 'Furious Gladiator\'s Sanctuary');
+
+-- Insert Armor Sets for Druid: Furious Gladiator's Wildhide (Balance) Item Set 103
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 41293, 103, 'Furious Gladiator\'s Wyrmhide Gloves', 'Furious Gladiator\'s Wildhide'),
+(11, 41327, 103, 'Furious Gladiator\'s Wyrmhide Helm', 'Furious Gladiator\'s Wildhide'),
+(11, 41304, 103, 'Furious Gladiator\'s Wyrmhide Legguards', 'Furious Gladiator\'s Wildhide'),
+(11, 41281, 103, 'Furious Gladiator\'s Wyrmhide Spaulders', 'Furious Gladiator\'s Wildhide'),
+(11, 41316, 103, 'Furious Gladiator\'s Wyrmhide Robes', 'Furious Gladiator\'s Wildhide');
+
+-- Insert Armor Sets for Druid: Furious Gladiator's Refuge (Restoration) Item Set 96
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 41287, 96, 'Furious Gladiator\'s Kodohide Gloves', 'Furious Gladiator\'s Refuge'),
+(11, 41321, 96, 'Furious Gladiator\'s Kodohide Helm', 'Furious Gladiator\'s Refuge'),
+(11, 41298, 96, 'Furious Gladiator\'s Kodohide Legguards', 'Furious Gladiator\'s Refuge'),
+(11, 41275, 96, 'Furious Gladiator\'s Kodohide Spaulders', 'Furious Gladiator\'s Refuge'),
+(11, 41310, 96, 'Furious Gladiator\'s Kodohide Robes', 'Furious Gladiator\'s Refuge');
+
+-- Insert Armor Sets for Hunter: Furious Gladiator's Pursuit Item Set 93
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 41087, 93, 'Furious Gladiator\'s Chain Armor', 'Furious Gladiator\'s Pursuit'),
+(3, 41143, 93, 'Furious Gladiator\'s Chain Gauntlets', 'Furious Gladiator\'s Pursuit'),
+(3, 41157, 93, 'Furious Gladiator\'s Chain Helm', 'Furious Gladiator\'s Pursuit'),
+(3, 41205, 93, 'Furious Gladiator\'s Chain Leggings', 'Furious Gladiator\'s Pursuit'),
+(3, 41217, 93, 'Furious Gladiator\'s Chain Spaulders', 'Furious Gladiator\'s Pursuit');
+
+-- Insert Armor Sets for Mage: Furious Gladiator's Regalia Item Set 97
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 41965, 97, 'Furious Gladiator\'s Silk Amice', 'Furious Gladiator\'s Regalia'),
+(8, 41946, 97, 'Furious Gladiator\'s Silk Cowl', 'Furious Gladiator\'s Regalia'),
+(8, 41971, 97, 'Furious Gladiator\'s Silk Handguards', 'Furious Gladiator\'s Regalia'),
+(8, 41953, 97, 'Furious Gladiator\'s Silk Raiment', 'Furious Gladiator\'s Regalia'),
+(8, 41959, 97, 'Furious Gladiator\'s Silk Trousers', 'Furious Gladiator\'s Regalia');
+
+-- Insert Armor Sets for Paladin: Furious Gladiator's Vindication (Retribution) Item Set 101
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40788, 101, 'Furious Gladiator\'s Scaled Chestpiece', 'Furious Gladiator\'s Vindication'),
+(2, 40808, 101, 'Furious Gladiator\'s Scaled Gauntlets', 'Furious Gladiator\'s Vindication'),
+(2, 40828, 101, 'Furious Gladiator\'s Scaled Helm', 'Furious Gladiator\'s Vindication'),
+(2, 40849, 101, 'Furious Gladiator\'s Scaled Legguards', 'Furious Gladiator\'s Vindication'),
+(2, 40869, 101, 'Furious Gladiator\'s Scaled Shoulders', 'Furious Gladiator\'s Vindication');
+
+-- Insert Armor Sets for Paladin: Furious Gladiator's Redemption (Holy) Item Set 95
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40907, 95, 'Furious Gladiator\'s Ornamented Chestguard', 'Furious Gladiator\'s Redemption'),
+(2, 40927, 95, 'Furious Gladiator\'s Ornamented Gloves', 'Furious Gladiator\'s Redemption'),
+(2, 40933, 95, 'Furious Gladiator\'s Ornamented Headcover', 'Furious Gladiator\'s Redemption'),
+(2, 40939, 95, 'Furious Gladiator\'s Ornamented Legplates', 'Furious Gladiator\'s Redemption'),
+(2, 40963, 95, 'Furious Gladiator\'s Ornamented Spaulders', 'Furious Gladiator\'s Redemption');
+
+-- Insert Armor Sets for Priest: Furious Gladiator's Raiment (Shadow) Item Set 94
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41940, 94, 'Furious Gladiator\'s Satin Gloves', 'Furious Gladiator\'s Raiment'),
+(5, 41915, 94, 'Furious Gladiator\'s Satin Hood', 'Furious Gladiator\'s Raiment'),
+(5, 41927, 94, 'Furious Gladiator\'s Satin Leggings', 'Furious Gladiator\'s Raiment'),
+(5, 41934, 94, 'Furious Gladiator\'s Satin Mantle', 'Furious Gladiator\'s Raiment'),
+(5, 41921, 94, 'Furious Gladiator\'s Satin Robe', 'Furious Gladiator\'s Raiment');
+
+-- Insert Armor Sets for Priest: Furious Gladiator's Investiture (Holy) Item Set 92
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41874, 92, 'Furious Gladiator\'s Mooncloth Gloves', 'Furious Gladiator\'s Investiture'),
+(5, 41854, 92, 'Furious Gladiator\'s Mooncloth Hood', 'Furious Gladiator\'s Investiture'),
+(5, 41864, 92, 'Furious Gladiator\'s Mooncloth Leggings', 'Furious Gladiator\'s Investiture'),
+(5, 41869, 92, 'Furious Gladiator\'s Mooncloth Mantle', 'Furious Gladiator\'s Investiture'),
+(5, 41859, 92, 'Furious Gladiator\'s Mooncloth Robe', 'Furious Gladiator\'s Investiture');
+
+-- Insert Armor Sets for Rogue: Furious Gladiator's Vestments Item Set 100
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 41767, 100, 'Furious Gladiator\'s Leather Gloves', 'Furious Gladiator\'s Vestments'),
+(4, 41672, 100, 'Furious Gladiator\'s Leather Helm', 'Furious Gladiator\'s Vestments'),
+(4, 41655, 100, 'Furious Gladiator\'s Leather Legguards', 'Furious Gladiator\'s Vestments'),
+(4, 41683, 100, 'Furious Gladiator\'s Leather Spaulders', 'Furious Gladiator\'s Vestments'),
+(4, 41650, 100, 'Furious Gladiator\'s Leather Tunic', 'Furious Gladiator\'s Vestments');
+
+-- Insert Armor Sets for Shaman: Furious Gladiator's Earthshaker Item Set 90
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 41081, 90, 'Furious Gladiator\'s Linked Armor', 'Furious Gladiator\'s Earthshaker'),
+(7, 41137, 90, 'Furious Gladiator\'s Linked Gauntlets', 'Furious Gladiator\'s Earthshaker'),
+(7, 41151, 90, 'Furious Gladiator\'s Linked Helm', 'Furious Gladiator\'s Earthshaker'),
+(7, 41199, 90, 'Furious Gladiator\'s Linked Leggings', 'Furious Gladiator\'s Earthshaker'),
+(7, 41211, 90, 'Furious Gladiator\'s Linked Spaulders', 'Furious Gladiator\'s Earthshaker');
+
+-- Insert Armor Sets for Shaman: Furious Gladiator's Thunderfist Item Set 99
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40993, 99, 'Furious Gladiator\'s Mail Armor', 'Furious Gladiator\'s Thunderfist'),
+(7, 41007, 99, 'Furious Gladiator\'s Mail Gauntlets', 'Furious Gladiator\'s Thunderfist'),
+(7, 41019, 99, 'Furious Gladiator\'s Mail Helm', 'Furious Gladiator\'s Thunderfist'),
+(7, 41033, 99, 'Furious Gladiator\'s Mail Leggings', 'Furious Gladiator\'s Thunderfist'),
+(7, 41044, 99, 'Furious Gladiator\'s Mail Spaulders', 'Furious Gladiator\'s Thunderfist');
+
+-- Insert Armor Sets for Shaman: Furious Gladiator's Wartide Item Set 102
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40992, 102, 'Furious Gladiator\'s Ringmail Armor', 'Furious Gladiator\'s Wartide'),
+(7, 41001, 102, 'Furious Gladiator\'s Ringmail Gauntlets', 'Furious Gladiator\'s Wartide'),
+(7, 41013, 102, 'Furious Gladiator\'s Ringmail Helm', 'Furious Gladiator\'s Wartide'),
+(7, 41027, 102, 'Furious Gladiator\'s Ringmail Leggings', 'Furious Gladiator\'s Wartide'),
+(7, 41038, 102, 'Furious Gladiator\'s Ringmail Spaulders', 'Furious Gladiator\'s Wartide');
+
+-- Insert Armor Sets for Warlock: Furious Gladiator's Felshroud Item Set 91
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 42011, 91, 'Furious Gladiator\'s Felweave Amice', 'Furious Gladiator\'s Felshroud'),
+(9, 41993, 91, 'Furious Gladiator\'s Felweave Cowl', 'Furious Gladiator\'s Felshroud'),
+(9, 42017, 91, 'Furious Gladiator\'s Felweave Handguards', 'Furious Gladiator\'s Felshroud'),
+(9, 41998, 91, 'Furious Gladiator\'s Felweave Raiment', 'Furious Gladiator\'s Felshroud'),
+(9, 42005, 91, 'Furious Gladiator\'s Felweave Trousers', 'Furious Gladiator\'s Felshroud');
+
+-- Insert Armor Sets for Warrior: Furious Gladiator's Battlegear Item Set 88
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 40789, 88, 'Furious Gladiator\'s Plate Chestpiece', 'Furious Gladiator\'s Battlegear'),
+(1, 40807, 88, 'Furious Gladiator\'s Plate Gauntlets', 'Furious Gladiator\'s Battlegear'),
+(1, 40826, 88, 'Furious Gladiator\'s Plate Helm', 'Furious Gladiator\'s Battlegear'),
+(1, 40847, 88, 'Furious Gladiator\'s Plate Legguards', 'Furious Gladiator\'s Battlegear'),
+(1, 40866, 88, 'Furious Gladiator\'s Plate Shoulders', 'Furious Gladiator\'s Battlegear');
+
+
+
+
+
+--[[ Season 7 Sets ]]
+
+
+
+
+
+-- Insert Armor Sets for Druid: Relentless Gladiator's Sanctuary (Feral) Item Set 222
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 41774, 222, 'Relentless Gladiator\'s Dragonhide Gloves', 'Relentless Gladiator\'s Sanctuary'),
+(11, 41679, 222, 'Relentless Gladiator\'s Dragonhide Helm', 'Relentless Gladiator\'s Sanctuary'),
+(11, 41668, 222, 'Relentless Gladiator\'s Dragonhide Legguards', 'Relentless Gladiator\'s Sanctuary'),
+(11, 41716, 222, 'Relentless Gladiator\'s Dragonhide Spaulders', 'Relentless Gladiator\'s Sanctuary'),
+(11, 41662, 222, 'Relentless Gladiator\'s Dragonhide Robes', 'Relentless Gladiator\'s Sanctuary');
+
+-- Insert Armor Sets for Druid: Relentless Gladiator's Wildhide (Balance) Item Set 221
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 41294, 221, 'Relentless Gladiator\'s Wyrmhide Gloves', 'Relentless Gladiator\'s Wildhide'),
+(11, 41328, 221, 'Relentless Gladiator\'s Wyrmhide Helm', 'Relentless Gladiator\'s Wildhide'),
+(11, 41305, 221, 'Relentless Gladiator\'s Wyrmhide Legguards', 'Relentless Gladiator\'s Wildhide'),
+(11, 41282, 221, 'Relentless Gladiator\'s Wyrmhide Spaulders', 'Relentless Gladiator\'s Wildhide'),
+(11, 41317, 221, 'Relentless Gladiator\'s Wyrmhide Robes', 'Relentless Gladiator\'s Wildhide');
+
+-- Insert Armor Sets for Druid: Relentless Gladiator's Refuge (Restoration) Item Set 2203
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 41288, 2203, 'Relentless Gladiator\'s Kodohide Gloves', 'Relentless Gladiator\'s Refuge'),
+(11, 41322, 2203, 'Relentless Gladiator\'s Kodohide Helm', 'Relentless Gladiator\'s Refuge'),
+(11, 41299, 2203, 'Relentless Gladiator\'s Kodohide Legguards', 'Relentless Gladiator\'s Refuge'),
+(11, 41276, 2203, 'Relentless Gladiator\'s Kodohide Spaulders', 'Relentless Gladiator\'s Refuge'),
+(11, 41311, 2203, 'Relentless Gladiator\'s Kodohide Robes', 'Relentless Gladiator\'s Refuge');
+
+-- Insert Armor Sets for Hunter: Relentless Gladiator's Pursuit Item Set 219
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 41088, 219, 'Relentless Gladiator\'s Chain Armor', 'Relentless Gladiator\'s Pursuit'),
+(3, 41144, 219, 'Relentless Gladiator\'s Chain Gauntlets', 'Relentless Gladiator\'s Pursuit'),
+(3, 41158, 219, 'Relentless Gladiator\'s Chain Helm', 'Relentless Gladiator\'s Pursuit'),
+(3, 41206, 219, 'Relentless Gladiator\'s Chain Leggings', 'Relentless Gladiator\'s Pursuit'),
+(3, 41218, 219, 'Relentless Gladiator\'s Chain Spaulders', 'Relentless Gladiator\'s Pursuit');
+
+-- Insert Armor Sets for Mage: Relentless Gladiator's Regalia Item Set 226
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 41966, 226, 'Relentless Gladiator\'s Silk Amice', 'Relentless Gladiator\'s Regalia'),
+(8, 41947, 226, 'Relentless Gladiator\'s Silk Cowl', 'Relentless Gladiator\'s Regalia'),
+(8, 41972, 226, 'Relentless Gladiator\'s Silk Handguards', 'Relentless Gladiator\'s Regalia'),
+(8, 41954, 226, 'Relentless Gladiator\'s Silk Raiment', 'Relentless Gladiator\'s Regalia'),
+(8, 41960, 226, 'Relentless Gladiator\'s Silk Trousers', 'Relentless Gladiator\'s Regalia');
+
+-- Insert Armor Sets for Paladin: Relentless Gladiator's Vindication (Retribution) Item Set 213
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40792, 213, 'Relentless Gladiator\'s Scaled Chestpiece', 'Relentless Gladiator\'s Vindication'),
+(2, 40812, 213, 'Relentless Gladiator\'s Scaled Gauntlets', 'Relentless Gladiator\'s Vindication'),
+(2, 40831, 213, 'Relentless Gladiator\'s Scaled Helm', 'Relentless Gladiator\'s Vindication'),
+(2, 40852, 213, 'Relentless Gladiator\'s Scaled Legguards', 'Relentless Gladiator\'s Vindication'),
+(2, 40872, 213, 'Relentless Gladiator\'s Scaled Shoulders', 'Relentless Gladiator\'s Vindication');
+
+-- Insert Armor Sets for Paladin: Relentless Gladiator's Redemption (Holy) Item Set 214
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40910, 214, 'Relentless Gladiator\'s Ornamented Chestguard', 'Relentless Gladiator\'s Redemption'),
+(2, 40928, 214, 'Relentless Gladiator\'s Ornamented Gloves', 'Relentless Gladiator\'s Redemption'),
+(2, 40934, 214, 'Relentless Gladiator\'s Ornamented Headcover', 'Relentless Gladiator\'s Redemption'),
+(2, 40940, 214, 'Relentless Gladiator\'s Ornamented Legplates', 'Relentless Gladiator\'s Redemption'),
+(2, 40964, 214, 'Relentless Gladiator\'s Ornamented Spaulders', 'Relentless Gladiator\'s Redemption');
+
+-- Insert Armor Sets for Priest: Relentless Gladiator's Raiment (Shadow) Item Set 225
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41941, 225, 'Relentless Gladiator\'s Satin Gloves', 'Relentless Gladiator\'s Raiment'),
+(5, 41916, 225, 'Relentless Gladiator\'s Satin Hood', 'Relentless Gladiator\'s Raiment'),
+(5, 41928, 225, 'Relentless Gladiator\'s Satin Leggings', 'Relentless Gladiator\'s Raiment'),
+(5, 41935, 225, 'Relentless Gladiator\'s Satin Mantle', 'Relentless Gladiator\'s Raiment'),
+(5, 41922, 225, 'Relentless Gladiator\'s Satin Robe', 'Relentless Gladiator\'s Raiment');
+
+-- Insert Armor Sets for Priest: Relentless Gladiator's Investiture (Holy) Item Set 224
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 41875, 224, 'Relentless Gladiator\'s Mooncloth Gloves', 'Relentless Gladiator\'s Investiture'),
+(5, 41855, 224, 'Relentless Gladiator\'s Mooncloth Hood', 'Relentless Gladiator\'s Investiture'),
+(5, 41865, 224, 'Relentless Gladiator\'s Mooncloth Leggings', 'Relentless Gladiator\'s Investiture'),
+(5, 41870, 224, 'Relentless Gladiator\'s Mooncloth Mantle', 'Relentless Gladiator\'s Investiture'),
+(5, 41860, 224, 'Relentless Gladiator\'s Mooncloth Robe', 'Relentless Gladiator\'s Investiture');
+
+-- Insert Armor Sets for Rogue: Relentless Gladiator's Vestments Item Set 223
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 41768, 223, 'Relentless Gladiator\'s Leather Gloves', 'Relentless Gladiator\'s Vestments'),
+(4, 41673, 223, 'Relentless Gladiator\'s Leather Helm', 'Relentless Gladiator\'s Vestments'),
+(4, 41656, 223, 'Relentless Gladiator\'s Leather Legguards', 'Relentless Gladiator\'s Vestments'),
+(4, 41684, 223, 'Relentless Gladiator\'s Leather Spaulders', 'Relentless Gladiator\'s Vestments'),
+(4, 41651, 223, 'Relentless Gladiator\'s Leather Tunic', 'Relentless Gladiator\'s Vestments');
+
+-- Insert Armor Sets for Shaman: Relentless Gladiator's Earthshaker Item Set 217
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 41082, 217, 'Relentless Gladiator\'s Linked Armor', 'Relentless Gladiator\'s Earthshaker'),
+(7, 41138, 217, 'Relentless Gladiator\'s Linked Gauntlets', 'Relentless Gladiator\'s Earthshaker'),
+(7, 41152, 217, 'Relentless Gladiator\'s Linked Helm', 'Relentless Gladiator\'s Earthshaker'),
+(7, 41200, 217, 'Relentless Gladiator\'s Linked Leggings', 'Relentless Gladiator\'s Earthshaker'),
+(7, 41212, 217, 'Relentless Gladiator\'s Linked Spaulders', 'Relentless Gladiator\'s Earthshaker');
+
+-- Insert Armor Sets for Shaman: Relentless Gladiator's Thunderfist Item Set 216
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40995, 216, 'Relentless Gladiator\'s Mail Armor', 'Relentless Gladiator\'s Thunderfist'),
+(7, 41008, 216, 'Relentless Gladiator\'s Mail Gauntlets', 'Relentless Gladiator\'s Thunderfist'),
+(7, 41020, 216, 'Relentless Gladiator\'s Mail Helm', 'Relentless Gladiator\'s Thunderfist'),
+(7, 41034, 216, 'Relentless Gladiator\'s Mail Leggings', 'Relentless Gladiator\'s Thunderfist'),
+(7, 41045, 216, 'Relentless Gladiator\'s Mail Spaulders', 'Relentless Gladiator\'s Thunderfist');
+
+-- Insert Armor Sets for Shaman: Relentless Gladiator's Wartide Item Set 218
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40994, 218, 'Relentless Gladiator\'s Ringmail Armor', 'Relentless Gladiator\'s Wartide'),
+(7, 41002, 218, 'Relentless Gladiator\'s Ringmail Gauntlets', 'Relentless Gladiator\'s Wartide'),
+(7, 41014, 218, 'Relentless Gladiator\'s Ringmail Helm', 'Relentless Gladiator\'s Wartide'),
+(7, 41028, 218, 'Relentless Gladiator\'s Ringmail Leggings', 'Relentless Gladiator\'s Wartide'),
+(7, 41039, 218, 'Relentless Gladiator\'s Ringmail Spaulders', 'Relentless Gladiator\'s Wartide');
+
+-- Insert Armor Sets for Warlock: Relentless Gladiator's Felshroud Item Set 227
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 42012, 227, 'Relentless Gladiator\'s Felweave Amice', 'Relentless Gladiator\'s Felshroud'),
+(9, 41994, 227, 'Relentless Gladiator\'s Felweave Cowl', 'Relentless Gladiator\'s Felshroud'),
+(9, 42018, 227, 'Relentless Gladiator\'s Felweave Handguards', 'Relentless Gladiator\'s Felshroud'),
+(9, 41999, 227, 'Relentless Gladiator\'s Felweave Raiment', 'Relentless Gladiator\'s Felshroud'),
+(9, 42006, 227, 'Relentless Gladiator\'s Felweave Trousers', 'Relentless Gladiator\'s Felshroud');
+
+-- Insert Armor Sets for Warrior: Relentless Gladiator's Battlegear Item Set 212
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 40790, 212, 'Relentless Gladiator\'s Plate Chestpiece', 'Relentless Gladiator\'s Battlegear'),
+(1, 40810, 212, 'Relentless Gladiator\'s Plate Gauntlets', 'Relentless Gladiator\'s Battlegear'),
+(1, 40829, 212, 'Relentless Gladiator\'s Plate Helm', 'Relentless Gladiator\'s Battlegear'),
+(1, 40850, 212, 'Relentless Gladiator\'s Plate Legguards', 'Relentless Gladiator\'s Battlegear'),
+(1, 40870, 212, 'Relentless Gladiator\'s Plate Shoulders', 'Relentless Gladiator\'s Battlegear');
+
+
+
+
+
+--[[ Season 8 Sets ]]
+
+
+
+
+
+-- Insert Armor Sets for Druid: Wrathful Gladiator's Sanctuary (Feral) Item Set 276
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51426, 276, 'Wrathful Gladiator\'s Dragonhide Gloves', 'Wrathful Gladiator\'s Sanctuary'),
+(11, 51427, 276, 'Wrathful Gladiator\'s Dragonhide Helm', 'Wrathful Gladiator\'s Sanctuary'),
+(11, 51428, 276, 'Wrathful Gladiator\'s Dragonhide Legguards', 'Wrathful Gladiator\'s Sanctuary'),
+(11, 51430, 276, 'Wrathful Gladiator\'s Dragonhide Spaulders', 'Wrathful Gladiator\'s Sanctuary'),
+(11, 51425, 276, 'Wrathful Gladiator\'s Dragonhide Robes', 'Wrathful Gladiator\'s Sanctuary');
+
+-- Insert Armor Sets for Druid: Wrathful Gladiator's Wildhide (Balance) Item Set 275
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51434, 275, 'Wrathful Gladiator\'s Wyrmhide Gloves', 'Wrathful Gladiator\'s Wildhide'),
+(11, 51435, 275, 'Wrathful Gladiator\'s Wyrmhide Helm', 'Wrathful Gladiator\'s Wildhide'),
+(11, 51436, 275, 'Wrathful Gladiator\'s Wyrmhide Legguards', 'Wrathful Gladiator\'s Wildhide'),
+(11, 51438, 275, 'Wrathful Gladiator\'s Wyrmhide Spaulders', 'Wrathful Gladiator\'s Wildhide'),
+(11, 51433, 275, 'Wrathful Gladiator\'s Wyrmhide Robes', 'Wrathful Gladiator\'s Wildhide');
+
+-- Insert Armor Sets for Druid: Wrathful Gladiator's Refuge (Restoration) Item Set 274
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51420, 274, 'Wrathful Gladiator\'s Kodohide Gloves', 'Wrathful Gladiator\'s Refuge'),
+(11, 51421, 274, 'Wrathful Gladiator\'s Kodohide Helm', 'Wrathful Gladiator\'s Refuge'),
+(11, 51422, 274, 'Wrathful Gladiator\'s Kodohide Legguards', 'Wrathful Gladiator\'s Refuge'),
+(11, 51424, 274, 'Wrathful Gladiator\'s Kodohide Spaulders', 'Wrathful Gladiator\'s Refuge'),
+(11, 51419, 274, 'Wrathful Gladiator\'s Kodohide Robes', 'Wrathful Gladiator\'s Refuge');
+
+-- Insert Armor Sets for Hunter: Wrathful Gladiator's Pursuit Item Set 273
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 51458, 273, 'Wrathful Gladiator\'s Chain Armor', 'Wrathful Gladiator\'s Pursuit'),
+(3, 51459, 273, 'Wrathful Gladiator\'s Chain Gauntlets', 'Wrathful Gladiator\'s Pursuit'),
+(3, 51460, 273, 'Wrathful Gladiator\'s Chain Helm', 'Wrathful Gladiator\'s Pursuit'),
+(3, 51461, 273, 'Wrathful Gladiator\'s Chain Leggings', 'Wrathful Gladiator\'s Pursuit'),
+(3, 51462, 273, 'Wrathful Gladiator\'s Chain Spaulders', 'Wrathful Gladiator\'s Pursuit');
+
+-- Insert Armor Sets for Mage: Wrathful Gladiator's Regalia Item Set 280
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 51467, 280, 'Wrathful Gladiator\'s Silk Amice', 'Wrathful Gladiator\'s Regalia'),
+(8, 51465, 280, 'Wrathful Gladiator\'s Silk Cowl', 'Wrathful Gladiator\'s Regalia'),
+(8, 51464, 280, 'Wrathful Gladiator\'s Silk Handguards', 'Wrathful Gladiator\'s Regalia'),
+(8, 51463, 280, 'Wrathful Gladiator\'s Silk Raiment', 'Wrathful Gladiator\'s Regalia'),
+(8, 51466, 280, 'Wrathful Gladiator\'s Silk Trousers', 'Wrathful Gladiator\'s Regalia');
+
+-- Insert Armor Sets for Paladin: Wrathful Gladiator's Vindication (Retribution) Item Set 267
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51474, 267, 'Wrathful Gladiator\'s Scaled Chestpiece', 'Wrathful Gladiator\'s Vindication'),
+(2, 51475, 267, 'Wrathful Gladiator\'s Scaled Gauntlets', 'Wrathful Gladiator\'s Vindication'),
+(2, 51476, 267, 'Wrathful Gladiator\'s Scaled Helm', 'Wrathful Gladiator\'s Vindication'),
+(2, 51477, 267, 'Wrathful Gladiator\'s Scaled Legguards', 'Wrathful Gladiator\'s Vindication'),
+(2, 51479, 267, 'Wrathful Gladiator\'s Scaled Shoulders', 'Wrathful Gladiator\'s Vindication');
+
+-- Insert Armor Sets for Paladin: Wrathful Gladiator's Redemption (Holy) Item Set 268
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51468, 268, 'Wrathful Gladiator\'s Ornamented Chestguard', 'Wrathful Gladiator\'s Redemption'),
+(2, 51469, 268, 'Wrathful Gladiator\'s Ornamented Gloves', 'Wrathful Gladiator\'s Redemption'),
+(2, 51470, 268, 'Wrathful Gladiator\'s Ornamented Headcover', 'Wrathful Gladiator\'s Redemption'),
+(2, 51471, 268, 'Wrathful Gladiator\'s Ornamented Legplates', 'Wrathful Gladiator\'s Redemption'),
+(2, 51473, 268, 'Wrathful Gladiator\'s Ornamented Spaulders', 'Wrathful Gladiator\'s Redemption');
+
+-- Insert Armor Sets for Priest: Wrathful Gladiator's Raiment (Shadow) Item Set 279
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 51488, 279, 'Wrathful Gladiator\'s Satin Gloves', 'Wrathful Gladiator\'s Raiment'),
+(5, 51489, 279, 'Wrathful Gladiator\'s Satin Hood', 'Wrathful Gladiator\'s Raiment'),
+(5, 51490, 279, 'Wrathful Gladiator\'s Satin Leggings', 'Wrathful Gladiator\'s Raiment'),
+(5, 51491, 279, 'Wrathful Gladiator\'s Satin Mantle', 'Wrathful Gladiator\'s Raiment'),
+(5, 51487, 279, 'Wrathful Gladiator\'s Satin Robe', 'Wrathful Gladiator\'s Raiment');
+
+-- Insert Armor Sets for Priest: Wrathful Gladiator's Investiture (Holy) Item Set 278
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 51483, 278, 'Wrathful Gladiator\'s Mooncloth Gloves', 'Wrathful Gladiator\'s Investiture'),
+(5, 51484, 278, 'Wrathful Gladiator\'s Mooncloth Hood', 'Wrathful Gladiator\'s Investiture'),
+(5, 51485, 278, 'Wrathful Gladiator\'s Mooncloth Leggings', 'Wrathful Gladiator\'s Investiture'),
+(5, 51486, 278, 'Wrathful Gladiator\'s Mooncloth Mantle', 'Wrathful Gladiator\'s Investiture'),
+(5, 51482, 278, 'Wrathful Gladiator\'s Mooncloth Robe', 'Wrathful Gladiator\'s Investiture');
+
+-- Insert Armor Sets for Rogue: Wrathful Gladiator's Vestments Item Set 277
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 51493, 277, 'Wrathful Gladiator\'s Leather Gloves', 'Wrathful Gladiator\'s Vestments'),
+(4, 51494, 277, 'Wrathful Gladiator\'s Leather Helm', 'Wrathful Gladiator\'s Vestments'),
+(4, 51495, 277, 'Wrathful Gladiator\'s Leather Legguards', 'Wrathful Gladiator\'s Vestments'),
+(4, 51496, 277, 'Wrathful Gladiator\'s Leather Spaulders', 'Wrathful Gladiator\'s Vestments'),
+(4, 51492, 277, 'Wrathful Gladiator\'s Leather Tunic', 'Wrathful Gladiator\'s Vestments');
+
+-- Insert Armor Sets for Shaman: Wrathful Gladiator's Earthshaker Item Set 271
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 51503, 271, 'Wrathful Gladiator\'s Linked Armor', 'Wrathful Gladiator\'s Earthshaker'),
+(7, 51504, 271, 'Wrathful Gladiator\'s Linked Gauntlets', 'Wrathful Gladiator\'s Earthshaker'),
+(7, 51505, 271, 'Wrathful Gladiator\'s Linked Helm', 'Wrathful Gladiator\'s Earthshaker'),
+(7, 51506, 271, 'Wrathful Gladiator\'s Linked Leggings', 'Wrathful Gladiator\'s Earthshaker'),
+(7, 51508, 271, 'Wrathful Gladiator\'s Linked Spaulders', 'Wrathful Gladiator\'s Earthshaker');
+
+-- Insert Armor Sets for Shaman: Wrathful Gladiator's Thunderfist Item Set 270
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 51509, 270, 'Wrathful Gladiator\'s Mail Armor', 'Wrathful Gladiator\'s Thunderfist'),
+(7, 51510, 270, 'Wrathful Gladiator\'s Mail Gauntlets', 'Wrathful Gladiator\'s Thunderfist'),
+(7, 51511, 270, 'Wrathful Gladiator\'s Mail Helm', 'Wrathful Gladiator\'s Thunderfist'),
+(7, 51512, 270, 'Wrathful Gladiator\'s Mail Leggings', 'Wrathful Gladiator\'s Thunderfist'),
+(7, 51514, 270, 'Wrathful Gladiator\'s Mail Spaulders', 'Wrathful Gladiator\'s Thunderfist');
+
+-- Insert Armor Sets for Shaman: Wrathful Gladiator's Wartide Item Set 272
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 51497, 272, 'Wrathful Gladiator\'s Ringmail Armor', 'Wrathful Gladiator\'s Wartide'),
+(7, 51498, 272, 'Wrathful Gladiator\'s Ringmail Gauntlets', 'Wrathful Gladiator\'s Wartide'),
+(7, 51499, 272, 'Wrathful Gladiator\'s Ringmail Helm', 'Wrathful Gladiator\'s Wartide'),
+(7, 51500, 272, 'Wrathful Gladiator\'s Ringmail Leggings', 'Wrathful Gladiator\'s Wartide'),
+(7, 51502, 272, 'Wrathful Gladiator\'s Ringmail Spaulders', 'Wrathful Gladiator\'s Wartide');
+
+-- Insert Armor Sets for Warlock: Wrathful Gladiator's Felshroud Item Set 281
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51540, 281, 'Wrathful Gladiator\'s Felweave Amice', 'Wrathful Gladiator\'s Felshroud'),
+(9, 51538, 281, 'Wrathful Gladiator\'s Felweave Cowl', 'Wrathful Gladiator\'s Felshroud'),
+(9, 51537, 281, 'Wrathful Gladiator\'s Felweave Handguards', 'Wrathful Gladiator\'s Felshroud'),
+(9, 51536, 281, 'Wrathful Gladiator\'s Felweave Raiment', 'Wrathful Gladiator\'s Felshroud'),
+(9, 51539, 281, 'Wrathful Gladiator\'s Felweave Trousers', 'Wrathful Gladiator\'s Felshroud');
+
+-- Insert Armor Sets for Warrior: Wrathful Gladiator's Battlegear Item Set 266
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 51541, 266, 'Wrathful Gladiator\'s Plate Chestpiece', 'Wrathful Gladiator\'s Battlegear'),
+(1, 51542, 266, 'Wrathful Gladiator\'s Plate Gauntlets', 'Wrathful Gladiator\'s Battlegear'),
+(1, 51543, 266, 'Wrathful Gladiator\'s Plate Helm', 'Wrathful Gladiator\'s Battlegear'),
+(1, 51544, 266, 'Wrathful Gladiator\'s Plate Legguards', 'Wrathful Gladiator\'s Battlegear'),
+(1, 51545, 266, 'Wrathful Gladiator\'s Plate Shoulders', 'Wrathful Gladiator\'s Battlegear');
+
+
+
+
+
+--[[ Tier 7 Sets ]]
+
+
+
+
+
+-- Insert Armor Sets for Death Knight: Scourgeborne Battlegear Item Set 792
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 43809, 792, 'Scourgeborne Battleplate', 'Scourgeborne Battlegear'),
+(6, 43813, 792, 'Scourgeborne Gauntlets', 'Scourgeborne Battlegear'),
+(6, 43815, 792, 'Scourgeborne Helmet', 'Scourgeborne Battlegear'),
+(6, 43817, 792, 'Scourgeborne Legplates', 'Scourgeborne Battlegear'),
+(6, 43819, 792, 'Scourgeborne Shoulderplates', 'Scourgeborne Battlegear');
+
+-- Insert Armor Sets for Death Knight: Valorous Scourgeborne Battlegear Item Set 23
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 40550, 23, 'Valorous Scourgeborne Battleplate', 'Valorous Scourgeborne Battlegear'),
+(6, 40552, 23, 'Valorous Scourgeborne Gauntlets', 'Valorous Scourgeborne Battlegear'),
+(6, 40554, 23, 'Valorous Scourgeborne Helmet', 'Valorous Scourgeborne Battlegear'),
+(6, 40556, 23, 'Valorous Scourgeborne Legplates', 'Valorous Scourgeborne Battlegear'),
+(6, 40557, 23, 'Valorous Scourgeborne Shoulderplates', 'Valorous Scourgeborne Battlegear');
+
+-- Insert Armor Sets for Death Knight: Heroes' Scourgeborne Plate Item Set 753
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 39623, 753, 'Heroes\' Scourgeborne Chestguard', 'Heroes\' Scourgeborne Plate'),
+(6, 39625, 753, 'Heroes\' Scourgeborne Faceguard', 'Heroes\' Scourgeborne Plate'),
+(6, 39624, 753, 'Heroes\' Scourgeborne Handguards', 'Heroes\' Scourgeborne Plate'),
+(6, 39626, 753, 'Heroes\' Scourgeborne Legguards', 'Heroes\' Scourgeborne Plate'),
+(6, 39627, 753, 'Heroes\' Scourgeborne Pauldrons', 'Heroes\' Scourgeborne Plate');
+
+-- Insert Armor Sets for Death Knight: Valorous Scourgeborne Plate Item Set 24
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 40559, 24, 'Valorous Scourgeborne Chestguard', 'Valorous Scourgeborne Plate'),
+(6, 40565, 24, 'Valorous Scourgeborne Faceguard', 'Valorous Scourgeborne Plate'),
+(6, 40563, 24, 'Valorous Scourgeborne Handguards', 'Valorous Scourgeborne Plate'),
+(6, 40567, 24, 'Valorous Scourgeborne Legguards', 'Valorous Scourgeborne Plate'),
+(6, 40568, 24, 'Valorous Scourgeborne Pauldrons', 'Valorous Scourgeborne Plate');
+
+-- Insert Armor Sets for Druid: Heroes' Dreamwalker Garb Item Set 760
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 39545, 760, 'Heroes\' Dreamwalker Cover', 'Heroes\' Dreamwalker Garb'),
+(11, 39544, 760, 'Heroes\' Dreamwalker Gloves', 'Heroes\' Dreamwalker Garb'),
+(11, 39548, 760, 'Heroes\' Dreamwalker Mantle', 'Heroes\' Dreamwalker Garb'),
+(11, 39546, 760, 'Heroes\' Dreamwalker Trousers', 'Heroes\' Dreamwalker Garb'),
+(11, 39547, 760, 'Heroes\' Dreamwalker Vestments', 'Heroes\' Dreamwalker Garb');
+
+-- Insert Armor Sets for Druid: Valorous Dreamwalker Garb Item Set 30
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 40467, 30, 'Valorous Dreamwalker Cover', 'Valorous Dreamwalker Garb'),
+(11, 40466, 30, 'Valorous Dreamwalker Gloves', 'Valorous Dreamwalker Garb'),
+(11, 40470, 30, 'Valorous Dreamwalker Mantle', 'Valorous Dreamwalker Garb'),
+(11, 40468, 30, 'Valorous Dreamwalker Trousers', 'Valorous Dreamwalker Garb'),
+(11, 40469, 30, 'Valorous Dreamwalker Vestments', 'Valorous Dreamwalker Garb');
+
+-- Insert Armor Sets for Druid: Heroes' Dreamwalker Battlegear Item Set 758
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 39557, 758, 'Heroes\' Dreamwalker Handgrips', 'Heroes\' Dreamwalker Battlegear'),
+(11, 39553, 758, 'Heroes\' Dreamwalker Headguard', 'Heroes\' Dreamwalker Battlegear'),
+(11, 39555, 758, 'Heroes\' Dreamwalker Legguards', 'Heroes\' Dreamwalker Battlegear'),
+(11, 39554, 758, 'Heroes\' Dreamwalker Raiments', 'Heroes\' Dreamwalker Battlegear'),
+(11, 39556, 758, 'Heroes\' Dreamwalker Shoulderpads', 'Heroes\' Dreamwalker Battlegear');
+
+-- Insert Armor Sets for Druid: Valorous Dreamwalker Battlegear Item Set 28
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 40472, 28, 'Valorous Dreamwalker Handgrips', 'Valorous Dreamwalker Battlegear'),
+(11, 40473, 28, 'Valorous Dreamwalker Headguard', 'Valorous Dreamwalker Battlegear'),
+(11, 40493, 28, 'Valorous Dreamwalker Legguards', 'Valorous Dreamwalker Battlegear'),
+(11, 40471, 28, 'Valorous Dreamwalker Raiments', 'Valorous Dreamwalker Battlegear'),
+(11, 40494, 28, 'Valorous Dreamwalker Shoulderpads', 'Valorous Dreamwalker Battlegear');
+
+-- Insert Armor Sets for Druid: Heroes' Dreamwalker Regalia Item Set 759
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 39543, 759, 'Heroes\' Dreamwalker Handguards', 'Heroes\' Dreamwalker Regalia'),
+(11, 39531, 759, 'Heroes\' Dreamwalker Headpiece', 'Heroes\' Dreamwalker Regalia'),
+(11, 39539, 759, 'Heroes\' Dreamwalker Leggings', 'Heroes\' Dreamwalker Regalia'),
+(11, 39542, 759, 'Heroes\' Dreamwalker Spaulders', 'Heroes\' Dreamwalker Regalia'),
+(11, 39538, 759, 'Heroes\' Dreamwalker Robe', 'Heroes\' Dreamwalker Regalia');
+
+-- Insert Armor Sets for Druid: Valorous Dreamwalker Regalia Item Set 29
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 40460, 29, 'Valorous Dreamwalker Handguards', 'Valorous Dreamwalker Regalia'),
+(11, 40461, 29, 'Valorous Dreamwalker Headpiece', 'Valorous Dreamwalker Regalia'),
+(11, 40462, 29, 'Valorous Dreamwalker Leggings', 'Valorous Dreamwalker Regalia'),
+(11, 40465, 29, 'Valorous Dreamwalker Spaulders', 'Valorous Dreamwalker Regalia'),
+(11, 40463, 29, 'Valorous Dreamwalker Robe', 'Valorous Dreamwalker Regalia');
+
+-- Insert Armor Sets for Hunter: Heroes' Cryptstalker Battlegear Item Set 754
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 39582, 754, 'Heroes\' Cryptstalker Handguards', 'Heroes\' Cryptstalker Battlegear'),
+(3, 39578, 754, 'Heroes\' Cryptstalker Headpiece', 'Heroes\' Cryptstalker Battlegear'),
+(3, 39580, 754, 'Heroes\' Cryptstalker Legguards', 'Heroes\' Cryptstalker Battlegear'),
+(3, 39581, 754, 'Heroes\' Cryptstalker Spaulders', 'Heroes\' Cryptstalker Battlegear'),
+(3, 39579, 754, 'Heroes\' Cryptstalker Tunic', 'Heroes\' Cryptstalker Battlegear');
+
+-- Insert Armor Sets for Hunter: Valorous Cryptstalker Battlegear Item Set 25
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 40504, 25, 'Valorous Cryptstalker Handguards', 'Valorous Cryptstalker Battlegear'),
+(3, 40505, 25, 'Valorous Cryptstalker Headpiece', 'Valorous Cryptstalker Battlegear'),
+(3, 40506, 25, 'Valorous Cryptstalker Legguards', 'Valorous Cryptstalker Battlegear'),
+(3, 40507, 25, 'Valorous Cryptstalker Spaulders', 'Valorous Cryptstalker Battlegear'),
+(3, 40503, 25, 'Valorous Cryptstalker Tunic', 'Valorous Cryptstalker Battlegear');
+
+-- Insert Armor Sets for Mage: Heroes' Frostfire Garb Item Set 763
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 39491, 763, 'Heroes\' Frostfire Circlet', 'Heroes\' Frostfire Garb'),
+(8, 39495, 763, 'Heroes\' Frostfire Gloves', 'Heroes\' Frostfire Garb'),
+(8, 39493, 763, 'Heroes\' Frostfire Leggings', 'Heroes\' Frostfire Garb'),
+(8, 39492, 763, 'Heroes\' Frostfire Robe', 'Heroes\' Frostfire Garb'),
+(8, 39494, 763, 'Heroes\' Frostfire Shoulderpads', 'Heroes\' Frostfire Garb');
+
+-- Insert Armor Sets for Mage: Valorous Frostfire Garb Item Set 33
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 40416, 33, 'Valorous Frostfire Circlet', 'Valorous Frostfire Garb'),
+(8, 40415, 33, 'Valorous Frostfire Gloves', 'Valorous Frostfire Garb'),
+(8, 40417, 33, 'Valorous Frostfire Leggings', 'Valorous Frostfire Garb'),
+(8, 40418, 33, 'Valorous Frostfire Robe', 'Valorous Frostfire Garb'),
+(8, 40419, 33, 'Valorous Frostfire Shoulderpads', 'Valorous Frostfire Garb');
+
+-- Insert Armor Sets for Paladin: Heroes' Redemption Regalia Item Set 750
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 39632, 750, 'Heroes\' Redemption Gloves', 'Heroes\' Redemption Regalia'),
+(2, 39630, 750, 'Heroes\' Redemption Greaves', 'Heroes\' Redemption Regalia'),
+(2, 39628, 750, 'Heroes\' Redemption Headpiece', 'Heroes\' Redemption Regalia'),
+(2, 39631, 750, 'Heroes\' Redemption Spaulders', 'Heroes\' Redemption Regalia'),
+(2, 39629, 750, 'Heroes\' Redemption Tunic', 'Heroes\' Redemption Regalia');
+
+-- Insert Armor Sets for Paladin: Valorous Redemption Regalia Item Set 21
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40570, 21, 'Valorous Redemption Gloves', 'Valorous Redemption Regalia'),
+(2, 40572, 21, 'Valorous Redemption Greaves', 'Valorous Redemption Regalia'),
+(2, 40571, 21, 'Valorous Redemption Headpiece', 'Valorous Redemption Regalia'),
+(2, 40573, 21, 'Valorous Redemption Spaulders', 'Valorous Redemption Regalia'),
+(2, 40569, 21, 'Valorous Redemption Tunic', 'Valorous Redemption Regalia');
+
+-- Insert Armor Sets for Paladin: Heroes' Redemption Plate Item Set 751
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 39638, 751, 'Heroes\' Redemption Breastplate', 'Heroes\' Redemption Plate'),
+(2, 39640, 751, 'Heroes\' Redemption Faceguard', 'Heroes\' Redemption Plate'),
+(2, 39639, 751, 'Heroes\' Redemption Handguards', 'Heroes\' Redemption Plate'),
+(2, 39641, 751, 'Heroes\' Redemption Legguards', 'Heroes\' Redemption Plate'),
+(2, 39642, 751, 'Heroes\' Redemption Shoulderguards', 'Heroes\' Redemption Plate');
+
+-- Insert Armor Sets for Paladin: Valorous Redemption Plate Item Set 22
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40579, 22, 'Valorous Redemption Breastplate', 'Valorous Redemption Plate'),
+(2, 40581, 22, 'Valorous Redemption Faceguard', 'Valorous Redemption Plate'),
+(2, 40580, 22, 'Valorous Redemption Handguards', 'Valorous Redemption Plate'),
+(2, 40583, 22, 'Valorous Redemption Legguards', 'Valorous Redemption Plate'),
+(2, 40584, 22, 'Valorous Redemption Shoulderguards', 'Valorous Redemption Plate');
+
+-- Insert Armor Sets for Paladin: Heroes' Redemption Battlegear Item Set 749
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 39633, 749, 'Heroes\' Redemption Chestpiece', 'Heroes\' Redemption Battlegear'),
+(2, 39634, 749, 'Heroes\' Redemption Gauntlets', 'Heroes\' Redemption Battlegear'),
+(2, 39635, 749, 'Heroes\' Redemption Helm', 'Heroes\' Redemption Battlegear'),
+(2, 39636, 749, 'Heroes\' Redemption Legplates', 'Heroes\' Redemption Battlegear'),
+(2, 39637, 749, 'Heroes\' Redemption Shoulderplates', 'Heroes\' Redemption Battlegear');
+
+-- Insert Armor Sets for Paladin: Valorous Redemption Battlegear Item Set 20
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 40574, 20, 'Valorous Redemption Chestpiece', 'Valorous Redemption Battlegear'),
+(2, 40575, 20, 'Valorous Redemption Gauntlets', 'Valorous Redemption Battlegear'),
+(2, 40576, 20, 'Valorous Redemption Helm', 'Valorous Redemption Battlegear'),
+(2, 40577, 20, 'Valorous Redemption Legplates', 'Valorous Redemption Battlegear'),
+(2, 40578, 20, 'Valorous Redemption Shoulderplates', 'Valorous Redemption Battlegear');
+
+-- Insert Armor Sets for Priest: Heroes' Regalia of Faith Item Set 764
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 39514, 764, 'Heroes\' Crown of Faith', 'Heroes\' Regalia of Faith'),
+(5, 39519, 764, 'Heroes\' Gloves of Faith', 'Heroes\' Regalia of Faith'),
+(5, 39517, 764, 'Heroes\' Leggings of Faith', 'Heroes\' Regalia of Faith'),
+(5, 39515, 764, 'Heroes\' Robe of Faith', 'Heroes\' Regalia of Faith'),
+(5, 39518, 764, 'Heroes\' Shoulderpads of Faith', 'Heroes\' Regalia of Faith');
+
+-- Insert Armor Sets for Priest: Valorous Regalia of Faith Item Set 34
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 40447, 34, 'Valorous Crown of Faith', 'Valorous Regalia of Faith'),
+(5, 40445, 34, 'Valorous Gloves of Faith', 'Valorous Regalia of Faith'),
+(5, 40448, 34, 'Valorous Leggings of Faith', 'Valorous Regalia of Faith'),
+(5, 40449, 34, 'Valorous Robe of Faith', 'Valorous Regalia of Faith'),
+(5, 40450, 34, 'Valorous Shoulderpads of Faith', 'Valorous Regalia of Faith');
+
+-- Insert Armor Sets for Priest: Heroes' Garb of Faith Item Set 765
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 39521, 765, 'Heroes\' Circlet of Faith', 'Heroes\' Garb of Faith'),
+(5, 39530, 765, 'Heroes\' Handwraps of Faith', 'Heroes\' Garb of Faith'),
+(5, 39529, 765, 'Heroes\' Mantle of Faith', 'Heroes\' Garb of Faith'),
+(5, 39528, 765, 'Heroes\' Pants of Faith', 'Heroes\' Garb of Faith'),
+(5, 39523, 765, 'Heroes\' Raiments of Faith', 'Heroes\' Garb of Faith');
+
+-- Insert Armor Sets for Priest: Valorous Garb of Faith Item Set 35
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 40456, 35, 'Valorous Circlet of Faith', 'Valorous Garb of Faith'),
+(5, 40454, 35, 'Valorous Handwraps of Faith', 'Valorous Garb of Faith'),
+(5, 40459, 35, 'Valorous Mantle of Faith', 'Valorous Garb of Faith'),
+(5, 40457, 35, 'Valorous Pants of Faith', 'Valorous Garb of Faith'),
+(5, 40458, 35, 'Valorous Raiments of Faith', 'Valorous Garb of Faith');
+
+-- Insert Armor Sets for Rogue: Heroes' Bonescythe Battlegear Item Set 761
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 39558, 761, 'Heroes\' Bonescythe Breastplate', 'Heroes\' Bonescythe Battlegear'),
+(4, 39560, 761, 'Heroes\' Bonescythe Gauntlets', 'Heroes\' Bonescythe Battlegear'),
+(4, 39561, 761, 'Heroes\' Bonescythe Helmet', 'Heroes\' Bonescythe Battlegear'),
+(4, 39564, 761, 'Heroes\' Bonescythe Legplates', 'Heroes\' Bonescythe Battlegear'),
+(4, 39565, 761, 'Heroes\' Bonescythe Pauldrons', 'Heroes\' Bonescythe Battlegear');
+
+-- Insert Armor Sets for Rogue: Valorous Bonescythe Battlegear Item Set 31
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 40495, 31, 'Valorous Bonescythe Breastplate', 'Valorous Bonescythe Battlegear'),
+(4, 40496, 31, 'Valorous Bonescythe Gauntlets', 'Valorous Bonescythe Battlegear'),
+(4, 40499, 31, 'Valorous Bonescythe Helmet', 'Valorous Bonescythe Battlegear'),
+(4, 40500, 31, 'Valorous Bonescythe Legplates', 'Valorous Bonescythe Battlegear'),
+(4, 40502, 31, 'Valorous Bonescythe Pauldrons', 'Valorous Bonescythe Battlegear');
+
+-- Insert Armor Sets for Shaman: Heroes' Earthshatter Garb Item Set 756
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 39593, 756, 'Heroes\' Earthshatter Gloves', 'Heroes\' Earthshatter Garb'),
+(7, 39592, 756, 'Heroes\' Earthshatter Hauberk', 'Heroes\' Earthshatter Garb'),
+(7, 39594, 756, 'Heroes\' Earthshatter Helm', 'Heroes\' Earthshatter Garb'),
+(7, 39595, 756, 'Heroes\' Earthshatter Kilt', 'Heroes\' Earthshatter Garb'),
+(7, 39596, 756, 'Heroes\' Earthshatter Shoulderpads', 'Heroes\' Earthshatter Garb');
+
+-- Insert Armor Sets for Shaman: Valorous Earthshatter Garb Item Set 26
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40515, 26, 'Valorous Earthshatter Gloves', 'Valorous Earthshatter Garb'),
+(7, 40514, 26, 'Valorous Earthshatter Hauberk', 'Valorous Earthshatter Garb'),
+(7, 40516, 26, 'Valorous Earthshatter Helm', 'Valorous Earthshatter Garb'),
+(7, 40517, 26, 'Valorous Earthshatter Kilt', 'Valorous Earthshatter Garb'),
+(7, 40518, 26, 'Valorous Earthshatter Shoulderpads', 'Valorous Earthshatter Garb');
+
+-- Insert Armor Sets for Shaman: Heroes' Earthshatter Battlegear Item Set 755
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 39597, 755, 'Heroes\' Earthshatter Chestguard', 'Heroes\' Earthshatter Battlegear'),
+(7, 39602, 755, 'Heroes\' Earthshatter Faceguard', 'Heroes\' Earthshatter Battlegear'),
+(7, 39601, 755, 'Heroes\' Earthshatter Grips', 'Heroes\' Earthshatter Battlegear'),
+(7, 39604, 755, 'Heroes\' Earthshatter Shoulderguards', 'Heroes\' Earthshatter Battlegear'),
+(7, 39603, 755, 'Heroes\' Earthshatter War-Kilt', 'Heroes\' Earthshatter Battlegear');
+
+-- Insert Armor Sets for Shaman: Valorous Earthshatter Battlegear Item Set 36
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40523, 36, 'Valorous Earthshatter Chestguard', 'Valorous Earthshatter Battlegear'),
+(7, 40521, 36, 'Valorous Earthshatter Faceguard', 'Valorous Earthshatter Battlegear'),
+(7, 40520, 36, 'Valorous Earthshatter Grips', 'Valorous Earthshatter Battlegear'),
+(7, 40524, 36, 'Valorous Earthshatter Shoulderguards', 'Valorous Earthshatter Battlegear'),
+(7, 40522, 36, 'Valorous Earthshatter War-Kilt', 'Valorous Earthshatter Battlegear');
+
+-- Insert Armor Sets for Shaman: Heroes' Earthshatter Regalia Item Set 757
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 39591, 757, 'Heroes\' Earthshatter Handguards', 'Heroes\' Earthshatter Regalia'),
+(7, 39583, 757, 'Heroes\' Earthshatter Headpiece', 'Heroes\' Earthshatter Regalia'),
+(7, 39589, 757, 'Heroes\' Earthshatter Legguards', 'Heroes\' Earthshatter Regalia'),
+(7, 39590, 757, 'Heroes\' Earthshatter Spaulders', 'Heroes\' Earthshatter Regalia'),
+(7, 39588, 757, 'Heroes\' Earthshatter Tunic', 'Heroes\' Earthshatter Regalia');
+
+-- Insert Armor Sets for Shaman: Valorous Earthshatter Regalia Item Set 27
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 40509, 27, 'Valorous Earthshatter Handguards', 'Valorous Earthshatter Regalia'),
+(7, 40510, 27, 'Valorous Earthshatter Headpiece', 'Valorous Earthshatter Regalia'),
+(7, 40512, 27, 'Valorous Earthshatter Legguards', 'Valorous Earthshatter Regalia'),
+(7, 40513, 27, 'Valorous Earthshatter Spaulders', 'Valorous Earthshatter Regalia'),
+(7, 40508, 27, 'Valorous Earthshatter Tunic', 'Valorous Earthshatter Regalia');
+
+-- Insert Armor Sets for Warlock: Heroes' Plagueheart Garb Item Set 762
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 39496, 762, 'Heroes\' Plagueheart Circlet', 'Heroes\' Plagueheart Garb'),
+(9, 39500, 762, 'Heroes\' Plagueheart Gloves', 'Heroes\' Plagueheart Garb'),
+(9, 39498, 762, 'Heroes\' Plagueheart Leggings', 'Heroes\' Plagueheart Garb'),
+(9, 39497, 762, 'Heroes\' Plagueheart Robe', 'Heroes\' Plagueheart Garb'),
+(9, 39499, 762, 'Heroes\' Plagueheart Shoulderpads', 'Heroes\' Plagueheart Garb');
+
+-- Insert Armor Sets for Warlock: Valorous Plagueheart Garb Item Set 32
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 40421, 32, 'Valorous Plagueheart Circlet', 'Valorous Plagueheart Garb'),
+(9, 40420, 32, 'Valorous Plagueheart Gloves', 'Valorous Plagueheart Garb'),
+(9, 40422, 32, 'Valorous Plagueheart Leggings', 'Valorous Plagueheart Garb'),
+(9, 40423, 32, 'Valorous Plagueheart Robe', 'Valorous Plagueheart Garb'),
+(9, 40424, 32, 'Valorous Plagueheart Shoulderpads', 'Valorous Plagueheart Garb');
+
+-- Insert Armor Sets for Warrior: Heroes' Dreadnaught Battlegear Item Set 748
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 39606, 748, 'Heroes\' Dreadnaught Battleplate', 'Heroes\' Dreadnaught Battlegear'),
+(1, 39605, 748, 'Heroes\' Dreadnaught Helmet', 'Heroes\' Dreadnaught Battlegear'),
+(1, 39607, 748, 'Heroes\' Dreadnaught Legplates', 'Heroes\' Dreadnaught Battlegear'),
+(1, 39609, 748, 'Heroes\' Dreadnaught Gauntlets', 'Heroes\' Dreadnaught Battlegear'),
+(1, 39608, 748, 'Heroes\' Dreadnaught Shoulderplates', 'Heroes\' Dreadnaught Battlegear');
+
+-- Insert Armor Sets for Warrior: Valorous Dreadnaught Battlegear Item Set 19
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 40525, 19, 'Valorous Dreadnaught Battleplate', 'Valorous Dreadnaught Battlegear'),
+(1, 40528, 19, 'Valorous Dreadnaught Helmet', 'Valorous Dreadnaught Battlegear'),
+(1, 40529, 19, 'Valorous Dreadnaught Legplates', 'Valorous Dreadnaught Battlegear'),
+(1, 40527, 19, 'Valorous Dreadnaught Gauntlets', 'Valorous Dreadnaught Battlegear'),
+(1, 40530, 19, 'Valorous Dreadnaught Shoulderplates', 'Valorous Dreadnaught Battlegear');
+
+-- Insert Armor Sets for Warrior: Heroes' Dreadnaught Plate Item Set 747
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 39611, 747, 'Heroes\' Dreadnaught Breastplate', 'Heroes\' Dreadnaught Plate'),
+(1, 39610, 747, 'Heroes\' Dreadnaught Greathelm', 'Heroes\' Dreadnaught Plate'),
+(1, 39622, 747, 'Heroes\' Dreadnaught Handguards', 'Heroes\' Dreadnaught Plate'),
+(1, 39612, 747, 'Heroes\' Dreadnaught Legguards', 'Heroes\' Dreadnaught Plate'),
+(1, 39613, 747, 'Heroes\' Dreadnaught Pauldrons', 'Heroes\' Dreadnaught Plate');
+
+-- Insert Armor Sets for Warrior: Valorous Dreadnaught Plate Item Set 18
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 40544, 18, 'Valorous Dreadnaught Breastplate', 'Valorous Dreadnaught Plate'),
+(1, 40546, 18, 'Valorous Dreadnaught Greathelm', 'Valorous Dreadnaught Plate'),
+(1, 40545, 18, 'Valorous Dreadnaught Handguards', 'Valorous Dreadnaught Plate'),
+(1, 40547, 18, 'Valorous Dreadnaught Legguards', 'Valorous Dreadnaught Plate'),
+(1, 40548, 18, 'Valorous Dreadnaught Pauldrons', 'Valorous Dreadnaught Plate');
+
+
+
+
+
+--[[ Tier 8 Sets ]]
+
+
+
+
+-- Insert Armor Sets for Valorous Darkruned Battlegear Item Set 796
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 45340, 796, 'Valorous Darkruned Battleplate', 'Valorous Darkruned Battlegear'),
+(6, 45341, 796, 'Valorous Darkruned Gauntlets', 'Valorous Darkruned Battlegear'),
+(6, 45342, 796, 'Valorous Darkruned Helmet', 'Valorous Darkruned Battlegear'),
+(6, 45343, 796, 'Valorous Darkruned Legplates', 'Valorous Darkruned Battlegear'),
+(6, 45344, 796, 'Valorous Darkruned Shoulderplates', 'Valorous Darkruned Battlegear');
+
+-- Insert Armor Sets for Conqueror's Darkruned Battlegear Item Set 83
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 46111, 83, 'Conqueror\'s Darkruned Battleplate', 'Conqueror\'s Darkruned Battlegear'),
+(6, 46113, 83, 'Conqueror\'s Darkruned Gauntlets', 'Conqueror\'s Darkruned Battlegear'),
+(6, 46115, 83, 'Conqueror\'s Darkruned Helmet', 'Conqueror\'s Darkruned Battlegear'),
+(6, 46116, 83, 'Conqueror\'s Darkruned Legplates', 'Conqueror\'s Darkruned Battlegear'),
+(6, 46117, 83, 'Conqueror\'s Darkruned Shoulderplates', 'Conqueror\'s Darkruned Battlegear');
+
+-- Insert Armor Sets for Valorous Darkruned Plate Item Set 797
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 45335, 797, 'Valorous Darkruned Chestguard', 'Valorous Darkruned Plate'),
+(6, 45336, 797, 'Valorous Darkruned Faceguard', 'Valorous Darkruned Plate'),
+(6, 45337, 797, 'Valorous Darkruned Handguards', 'Valorous Darkruned Plate'),
+(6, 45338, 797, 'Valorous Darkruned Legguards', 'Valorous Darkruned Plate'),
+(6, 45339, 797, 'Valorous Darkruned Pauldrons', 'Valorous Darkruned Plate');
+
+-- Insert Armor Sets for Conqueror's Darkruned Plate Item Set 84
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 46118, 84, 'Conqueror\'s Darkruned Chestguard', 'Conqueror\'s Darkruned Plate'),
+(6, 46120, 84, 'Conqueror\'s Darkruned Faceguard', 'Conqueror\'s Darkruned Plate'),
+(6, 46119, 84, 'Conqueror\'s Darkruned Handguards', 'Conqueror\'s Darkruned Plate'),
+(6, 46121, 84, 'Conqueror\'s Darkruned Legguards', 'Conqueror\'s Darkruned Plate'),
+(6, 46122, 84, 'Conqueror\'s Darkruned Pauldrons', 'Conqueror\'s Darkruned Plate');
+
+-- Insert Armor Sets for Valorous Nightsong Battlegear Item Set 827
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 45355, 827, 'Valorous Nightsong Handgrips', 'Valorous Nightsong Battlegear'),
+(11, 45356, 827, 'Valorous Nightsong Headguard', 'Valorous Nightsong Battlegear'),
+(11, 45357, 827, 'Valorous Nightsong Legguards', 'Valorous Nightsong Battlegear'),
+(11, 45358, 827, 'Valorous Nightsong Raiments', 'Valorous Nightsong Battlegear'),
+(11, 45359, 827, 'Valorous Nightsong Shoulderpads', 'Valorous Nightsong Battlegear');
+
+-- Insert Armor Sets for Conqueror's Nightsong Battlegear Item Set 76
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 46158, 76, 'Conqueror\'s Nightsong Handgrips', 'Conqueror\'s Nightsong Battlegear'),
+(11, 46161, 76, 'Conqueror\'s Nightsong Headguard', 'Conqueror\'s Nightsong Battlegear'),
+(11, 46160, 76, 'Conqueror\'s Nightsong Legguards', 'Conqueror\'s Nightsong Battlegear'),
+(11, 46159, 76, 'Conqueror\'s Nightsong Raiments', 'Conqueror\'s Nightsong Battlegear'),
+(11, 46157, 76, 'Conqueror\'s Nightsong Shoulderpads', 'Conqueror\'s Nightsong Battlegear');
+
+-- Insert Armor Sets for Valorous Nightsong Regalia Item Set 791
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 45345, 791, 'Valorous Nightsong Handguards', 'Valorous Nightsong Regalia'),
+(11, 45346, 791, 'Valorous Nightsong Headpiece', 'Valorous Nightsong Regalia'),
+(11, 45347, 791, 'Valorous Nightsong Leggings', 'Valorous Nightsong Regalia'),
+(11, 45348, 791, 'Valorous Nightsong Robe', 'Valorous Nightsong Regalia'),
+(11, 45349, 791, 'Valorous Nightsong Spaulders', 'Valorous Nightsong Regalia');
+
+-- Insert Armor Sets for Conqueror's Nightsong Regalia Item Set 827
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 46260, 827, 'Conqueror\'s Nightsong Handguards', 'Conqueror\'s Nightsong Regalia'),
+(11, 46262, 827, 'Conqueror\'s Nightsong Headpiece', 'Conqueror\'s Nightsong Regalia'),
+(11, 46265, 827, 'Conqueror\'s Nightsong Leggings', 'Conqueror\'s Nightsong Regalia'),
+(11, 46267, 827, 'Conqueror\'s Nightsong Robe', 'Conqueror\'s Nightsong Regalia'),
+(11, 46269, 827, 'Conqueror\'s Nightsong Spaulders', 'Conqueror\'s Nightsong Regalia');
+
+-- Insert Armor Sets for Valorous Scourgestalker Battlegear Item Set 800
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 45360, 800, 'Valorous Scourgestalker Handguards', 'Valorous Scourgestalker Battlegear'),
+(3, 45361, 800, 'Valorous Scourgestalker Headpiece', 'Valorous Scourgestalker Battlegear'),
+(3, 45362, 800, 'Valorous Scourgestalker Legguards', 'Valorous Scourgestalker Battlegear'),
+(3, 45363, 800, 'Valorous Scourgestalker Spaulders', 'Valorous Scourgestalker Battlegear'),
+(3, 45364, 800, 'Valorous Scourgestalker Tunic', 'Valorous Scourgestalker Battlegear');
+
+-- Insert Armor Sets for Conqueror's Scourgestalker Battlegear Item Set 87
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 46142, 87, 'Conqueror\'s Scourgestalker Handguards', 'Conqueror\'s Scourgestalker Battlegear'),
+(3, 46143, 87, 'Conqueror\'s Scourgestalker Headpiece', 'Conqueror\'s Scourgestalker Battlegear'),
+(3, 46144, 87, 'Conqueror\'s Scourgestalker Legguards', 'Conqueror\'s Scourgestalker Battlegear'),
+(3, 46145, 87, 'Conqueror\'s Scourgestalker Spaulders', 'Conqueror\'s Scourgestalker Battlegear'),
+(3, 46141, 87, 'Conqueror\'s Scourgestalker Tunic', 'Conqueror\'s Scourgestalker Battlegear');
+
+-- Insert Armor Sets for Valorous Kirin Tor Garb Item Set 798
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 45365, 798, 'Valorous Kirin Tor Hood', 'Valorous Kirin Tor Garb'),
+(8, 45367, 798, 'Valorous Kirin Tor Leggings', 'Valorous Kirin Tor Garb'),
+(8, 45369, 798, 'Valorous Kirin Tor Shoulderpads', 'Valorous Kirin Tor Garb'),
+(8, 45368, 798, 'Valorous Kirin Tor Tunic', 'Valorous Kirin Tor Garb'),
+(8, 46131, 798, 'Valorous Kirin Tor Gauntlets', 'Valorous Kirin Tor Garb');
+
+-- Insert Armor Sets for Conqueror's Kirin Tor Garb Item Set 85
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 46132, 85, 'Conqueror\'s Kirin Tor Gauntlets', 'Conqueror\'s Kirin Tor Garb'),
+(8, 46129, 85, 'Conqueror\'s Kirin Tor Hood', 'Conqueror\'s Kirin Tor Garb'),
+(8, 46133, 85, 'Conqueror\'s Kirin Tor Leggings', 'Conqueror\'s Kirin Tor Garb'),
+(8, 46134, 85, 'Conqueror\'s Kirin Tor Shoulderpads', 'Conqueror\'s Kirin Tor Garb'),
+(8, 46130, 85, 'Conqueror\'s Kirin Tor Tunic', 'Conqueror\'s Kirin Tor Garb');
+
+-- Insert Armor Sets for Valorous Aegis Regalia Item Set 784
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 45370, 784, 'Valorous Aegis Gloves', 'Valorous Aegis Regalia'),
+(2, 45371, 784, 'Valorous Aegis Greaves', 'Valorous Aegis Regalia'),
+(2, 45372, 784, 'Valorous Aegis Headpiece', 'Valorous Aegis Regalia'),
+(2, 45373, 784, 'Valorous Aegis Spaulders', 'Valorous Aegis Regalia'),
+(2, 45374, 784, 'Valorous Aegis Tunic', 'Valorous Aegis Regalia');
+
+-- Insert Armor Sets for Conqueror's Aegis Regalia Item Set 71
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 46179, 71, 'Conqueror\'s Aegis Gloves', 'Conqueror\'s Aegis Regalia'),
+(2, 46181, 71, 'Conqueror\'s Aegis Greaves', 'Conqueror\'s Aegis Regalia'),
+(2, 46180, 71, 'Conqueror\'s Aegis Headpiece', 'Conqueror\'s Aegis Regalia'),
+(2, 46182, 71, 'Conqueror\'s Aegis Spaulders', 'Conqueror\'s Aegis Regalia'),
+(2, 46178, 71, 'Conqueror\'s Aegis Tunic', 'Conqueror\'s Aegis Regalia');
+
+-- Insert Armor Sets for Valorous Aegis Plate Item Set 783
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 45381, 783, 'Valorous Aegis Breastplate', 'Valorous Aegis Plate'),
+(2, 45382, 783, 'Valorous Aegis Faceguard', 'Valorous Aegis Plate'),
+(2, 45383, 783, 'Valorous Aegis Handguards', 'Valorous Aegis Plate'),
+(2, 45384, 783, 'Valorous Aegis Legguards', 'Valorous Aegis Plate'),
+(2, 45385, 783, 'Valorous Aegis Shoulderguards', 'Valorous Aegis Plate');
+
+-- Insert Armor Sets for Conqueror's Aegis Plate Item Set 70
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 46173, 70, 'Conqueror\'s Aegis Breastplate', 'Conqueror\'s Aegis Plate'),
+(2, 46175, 70, 'Conqueror\'s Aegis Faceguard', 'Conqueror\'s Aegis Plate'),
+(2, 46174, 70, 'Conqueror\'s Aegis Handguards', 'Conqueror\'s Aegis Plate'),
+(2, 46176, 70, 'Conqueror\'s Aegis Legguards', 'Conqueror\'s Aegis Plate'),
+(2, 46177, 70, 'Conqueror\'s Aegis Shoulderguards', 'Conqueror\'s Aegis Plate');
+
+-- Insert Armor Sets for Valorous Aegis Battlegear Item Set 782
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 45375, 782, 'Valorous Aegis Battleplate', 'Valorous Aegis Battlegear'),
+(2, 45376, 782, 'Valorous Aegis Gauntlets', 'Valorous Aegis Battlegear'),
+(2, 45377, 782, 'Valorous Aegis Helm', 'Valorous Aegis Battlegear'),
+(2, 45379, 782, 'Valorous Aegis Legplates', 'Valorous Aegis Battlegear'),
+(2, 45380, 782, 'Valorous Aegis Shoulderplates', 'Valorous Aegis Battlegear');
+
+-- Insert Armor Sets for Conqueror's Aegis Battlegear Item Set 69
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 46154, 69, 'Conqueror\'s Aegis Battleplate', 'Conqueror\'s Aegis Battlegear'),
+(2, 46155, 69, 'Conqueror\'s Aegis Gauntlets', 'Conqueror\'s Aegis Battlegear'),
+(2, 46156, 69, 'Conqueror\'s Aegis Helm', 'Conqueror\'s Aegis Battlegear'),
+(2, 46153, 69, 'Conqueror\'s Aegis Legplates', 'Conqueror\'s Aegis Battlegear'),
+(2, 46152, 69, 'Conqueror\'s Aegis Shoulderplates', 'Conqueror\'s Aegis Battlegear');
+
+-- Insert Armor Sets for Valorous Sanctification Regalia Item Set 795
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 45386, 795, 'Valorous Cowl of Sanctification', 'Valorous Sanctification Regalia'),
+(5, 45387, 795, 'Valorous Gloves of Sanctification', 'Valorous Sanctification Regalia'),
+(5, 45388, 795, 'Valorous Leggings of Sanctification', 'Valorous Sanctification Regalia'),
+(5, 45389, 795, 'Valorous Robe of Sanctification', 'Valorous Sanctification Regalia'),
+(5, 45390, 795, 'Valorous Shoulderpads of Sanctification', 'Valorous Sanctification Regalia');
+
+-- Insert Armor Sets for Conqueror's Sanctification Regalia Item Set 82
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 46197, 82, 'Conqueror\'s Cowl of Sanctification', 'Conqueror\'s Sanctification Regalia'),
+(5, 46188, 82, 'Conqueror\'s Gloves of Sanctification', 'Conqueror\'s Sanctification Regalia'),
+(5, 46195, 82, 'Conqueror\'s Leggings of Sanctification', 'Conqueror\'s Sanctification Regalia'),
+(5, 46193, 82, 'Conqueror\'s Robe of Sanctification', 'Conqueror\'s Sanctification Regalia'),
+(5, 46190, 82, 'Conqueror\'s Shoulderpads of Sanctification', 'Conqueror\'s Sanctification Regalia');
+
+-- Insert Armor Sets for Valorous Sanctification Garb Item Set 794
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 45391, 794, 'Valorous Circlet of Sanctification', 'Valorous Sanctification Garb'),
+(5, 45392, 794, 'Valorous Handwraps of Sanctification', 'Valorous Sanctification Garb'),
+(5, 45393, 794, 'Valorous Mantle of Sanctification', 'Valorous Sanctification Garb'),
+(5, 45394, 794, 'Valorous Pants of Sanctification', 'Valorous Sanctification Garb'),
+(5, 45395, 794, 'Valorous Raiments of Sanctification', 'Valorous Sanctification Garb');
+
+-- Insert Armor Sets for Conqueror's Sanctification Garb Item Set 81
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 46172, 81, 'Conqueror\'s Circlet of Sanctification', 'Conqueror\'s Sanctification Garb'),
+(5, 46163, 81, 'Conqueror\'s Handwraps of Sanctification', 'Conqueror\'s Sanctification Garb'),
+(5, 46165, 81, 'Conqueror\'s Mantle of Sanctification', 'Conqueror\'s Sanctification Garb'),
+(5, 46170, 81, 'Conqueror\'s Pants of Sanctification', 'Conqueror\'s Sanctification Garb'),
+(5, 46168, 81, 'Conqueror\'s Raiments of Sanctification', 'Conqueror\'s Sanctification Garb');
+
+-- Insert Armor Sets for Valorous Terrorblade Battlegear Item Set 788
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 45396, 788, 'Valorous Terrorblade Breastplate', 'Valorous Terrorblade Battlegear'),
+(4, 45397, 788, 'Valorous Terrorblade Gauntlets', 'Valorous Terrorblade Battlegear'),
+(4, 45398, 788, 'Valorous Terrorblade Helmet', 'Valorous Terrorblade Battlegear'),
+(4, 45399, 788, 'Valorous Terrorblade Legplates', 'Valorous Terrorblade Battlegear'),
+(4, 45400, 788, 'Valorous Terrorblade Pauldrons', 'Valorous Terrorblade Battlegear');
+
+-- Insert Armor Sets for Conqueror's Terrorblade Battlegear Item Set 75
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 46123, 75, 'Conqueror\'s Terrorblade Breastplate', 'Conqueror\'s Terrorblade Battlegear'),
+(4, 46124, 75, 'Conqueror\'s Terrorblade Gauntlets', 'Conqueror\'s Terrorblade Battlegear'),
+(4, 46125, 75, 'Conqueror\'s Terrorblade Helmet', 'Conqueror\'s Terrorblade Battlegear'),
+(4, 46126, 75, 'Conqueror\'s Terrorblade Legplates', 'Conqueror\'s Terrorblade Battlegear'),
+(4, 46127, 75, 'Conqueror\'s Terrorblade Pauldrons', 'Conqueror\'s Terrorblade Battlegear');
+
+-- Insert Armor Sets for Valorous Worldbreaker Garb Item Set 786
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 45406, 786, 'Valorous Worldbreaker Gloves', 'Valorous Worldbreaker Garb'),
+(7, 45411, 786, 'Valorous Worldbreaker Hauberk', 'Valorous Worldbreaker Garb'),
+(7, 45408, 786, 'Valorous Worldbreaker Helm', 'Valorous Worldbreaker Garb'),
+(7, 45409, 786, 'Valorous Worldbreaker Kilt', 'Valorous Worldbreaker Garb'),
+(7, 45410, 786, 'Valorous Worldbreaker Shoulderpads', 'Valorous Worldbreaker Garb');
+
+-- Insert Armor Sets for Conqueror's Worldbreaker Garb Item Set 73
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 46207, 73, 'Conqueror\'s Worldbreaker Gloves', 'Conqueror\'s Worldbreaker Garb'),
+(7, 46206, 73, 'Conqueror\'s Worldbreaker Hauberk', 'Conqueror\'s Worldbreaker Garb'),
+(7, 46209, 73, 'Conqueror\'s Worldbreaker Helm', 'Conqueror\'s Worldbreaker Garb'),
+(7, 46210, 73, 'Conqueror\'s Worldbreaker Kilt', 'Conqueror\'s Worldbreaker Garb'),
+(7, 46211, 73, 'Conqueror\'s Worldbreaker Shoulderpads', 'Conqueror\'s Worldbreaker Garb');
+
+-- Insert Armor Sets for Valorous Worldbreaker Battlegear Item Set 785
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 45413, 785, 'Valorous Worldbreaker Chestguard', 'Valorous Worldbreaker Battlegear'),
+(7, 45412, 785, 'Valorous Worldbreaker Faceguard', 'Valorous Worldbreaker Battlegear'),
+(7, 45414, 785, 'Valorous Worldbreaker Grips', 'Valorous Worldbreaker Battlegear'),
+(7, 45415, 785, 'Valorous Worldbreaker Shoulderguards', 'Valorous Worldbreaker Battlegear'),
+(7, 45416, 785, 'Valorous Worldbreaker War-Kilt', 'Valorous Worldbreaker Battlegear');
+
+-- Insert Armor Sets for Conqueror's Worldbreaker Battlegear Item Set 72
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 46205, 72, 'Conqueror\'s Worldbreaker Chestguard', 'Conqueror\'s Worldbreaker Battlegear'),
+(7, 46212, 72, 'Conqueror\'s Worldbreaker Faceguard', 'Conqueror\'s Worldbreaker Battlegear'),
+(7, 46200, 72, 'Conqueror\'s Worldbreaker Grips', 'Conqueror\'s Worldbreaker Battlegear'),
+(7, 46203, 72, 'Conqueror\'s Worldbreaker Shoulderguards', 'Conqueror\'s Worldbreaker Battlegear'),
+(7, 46208, 72, 'Conqueror\'s Worldbreaker War-Kilt', 'Conqueror\'s Worldbreaker Battlegear');
+
+-- Insert Armor Sets for Valorous Worldbreaker Regalia Item Set 787
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 45401, 787, 'Valorous Worldbreaker Handguards', 'Valorous Worldbreaker Regalia'),
+(7, 45402, 787, 'Valorous Worldbreaker Headpiece', 'Valorous Worldbreaker Regalia'),
+(7, 45403, 787, 'Valorous Worldbreaker Legguards', 'Valorous Worldbreaker Regalia'),
+(7, 45404, 787, 'Valorous Worldbreaker Spaulders', 'Valorous Worldbreaker Regalia'),
+(7, 45405, 787, 'Valorous Worldbreaker Tunic', 'Valorous Worldbreaker Regalia');
+
+-- Insert Armor Sets for Conqueror's Worldbreaker Regalia Item Set 74
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 46199, 74, 'Conqueror\'s Worldbreaker Handguards', 'Conqueror\'s Worldbreaker Regalia'),
+(7, 46201, 74, 'Conqueror\'s Worldbreaker Headpiece', 'Conqueror\'s Worldbreaker Regalia'),
+(7, 46202, 74, 'Conqueror\'s Worldbreaker Legguards', 'Conqueror\'s Worldbreaker Regalia'),
+(7, 46204, 74, 'Conqueror\'s Worldbreaker Spaulders', 'Conqueror\'s Worldbreaker Regalia'),
+(7, 46198, 74, 'Conqueror\'s Worldbreaker Tunic', 'Conqueror\'s Worldbreaker Regalia');
+
+-- Insert Armor Sets for Valorous Deathbringer Garb Item Set 799
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 45417, 799, 'Valorous Deathbringer Hood', 'Valorous Deathbringer Garb'),
+(9, 45419, 799, 'Valorous Deathbringer Gloves', 'Valorous Deathbringer Garb'),
+(9, 45420, 799, 'Valorous Deathbringer Leggings', 'Valorous Deathbringer Garb'),
+(9, 45421, 799, 'Valorous Deathbringer Robe', 'Valorous Deathbringer Garb'),
+(9, 45422, 799, 'Valorous Deathbringer Shoulderpads', 'Valorous Deathbringer Garb');
+
+-- Insert Armor Sets for Conqueror's Deathbringer Garb Item Set 86
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 46135, 86, 'Conqueror\'s Deathbringer Gloves', 'Conqueror\'s Deathbringer Garb'),
+(9, 46140, 86, 'Conqueror\'s Deathbringer Hood', 'Conqueror\'s Deathbringer Garb'),
+(9, 46139, 86, 'Conqueror\'s Deathbringer Leggings', 'Conqueror\'s Deathbringer Garb'),
+(9, 46137, 86, 'Conqueror\'s Deathbringer Robe', 'Conqueror\'s Deathbringer Garb'),
+(9, 46136, 86, 'Conqueror\'s Deathbringer Shoulderpads', 'Conqueror\'s Deathbringer Garb');
+
+-- Insert Armor Sets for Valorous Siegebreaker Battlegear Item Set 792
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 45429, 792, 'Valorous Siegebreaker Battleplate', 'Valorous Siegebreaker Battlegear'),
+(1, 45430, 792, 'Valorous Siegebreaker Gauntlets', 'Valorous Siegebreaker Battlegear'),
+(1, 45431, 792, 'Valorous Siegebreaker Helmet', 'Valorous Siegebreaker Battlegear'),
+(1, 45432, 792, 'Valorous Siegebreaker Legplates', 'Valorous Siegebreaker Battlegear'),
+(1, 45433, 792, 'Valorous Siegebreaker Shoulderplates', 'Valorous Siegebreaker Battlegear');
+
+-- Insert Armor Sets for Conqueror's Siegebreaker Battlegear Item Set 79
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 46146, 79, 'Conqueror\'s Siegebreaker Battleplate', 'Conqueror\'s Siegebreaker Battlegear'),
+(1, 46148, 79, 'Conqueror\'s Siegebreaker Gauntlets', 'Conqueror\'s Siegebreaker Battlegear'),
+(1, 46151, 79, 'Conqueror\'s Siegebreaker Helmet', 'Conqueror\'s Siegebreaker Battlegear'),
+(1, 46150, 79, 'Conqueror\'s Siegebreaker Legplates', 'Conqueror\'s Siegebreaker Battlegear'),
+(1, 46149, 79, 'Conqueror\'s Siegebreaker Shoulderplates', 'Conqueror\'s Siegebreaker Battlegear');
+
+-- Insert Armor Sets for Valorous Siegebreaker Plate Item Set 793
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 45424, 793, 'Valorous Siegebreaker Breastplate', 'Valorous Siegebreaker Plate'),
+(1, 45425, 793, 'Valorous Siegebreaker Greathelm', 'Valorous Siegebreaker Plate'),
+(1, 45426, 793, 'Valorous Siegebreaker Handguards', 'Valorous Siegebreaker Plate'),
+(1, 45427, 793, 'Valorous Siegebreaker Legguards', 'Valorous Siegebreaker Plate'),
+(1, 45248, 793, 'Valorous Siegebreaker Pauldrons', 'Valorous Siegebreaker Plate');
+
+-- Insert Armor Sets for Conqueror's Siegebreaker Plate Item Set 80
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 46162, 80, 'Conqueror\'s Siegebreaker Breastplate', 'Conqueror\'s Siegebreaker Plate'),
+(1, 46166, 80, 'Conqueror\'s Siegebreaker Greathelm', 'Conqueror\'s Siegebreaker Plate'),
+(1, 46164, 80, 'Conqueror\'s Siegebreaker Handguards', 'Conqueror\'s Siegebreaker Plate'),
+(1, 46169, 80, 'Conqueror\'s Siegebreaker Legguards', 'Conqueror\'s Siegebreaker Plate'),
+(1, 46167, 80, 'Conqueror\'s Siegebreaker Pauldrons', 'Conqueror\'s Siegebreaker Plate');
+
+
+
+
+
+--[[ Tier 9 Sets ]]
+
+
+
+-- Insert Armor Sets for Conqueror's Thassarian's Battlegear Item Set 871
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 48472, 871, 'Thassarian\'s Helmet of Conquest', 'Conqueror\'s Thassarian\'s Battlegear'),
+(6, 48474, 871, 'Thassarian\'s Battleplate of Conquest', 'Conqueror\'s Thassarian\'s Battlegear'),
+(6, 48476, 871, 'Thassarian\'s Legplates of Conquest', 'Conqueror\'s Thassarian\'s Battlegear'),
+(6, 48478, 871, 'Thassarian\'s Shoulderplates of Conquest', 'Conqueror\'s Thassarian\'s Battlegear'),
+(6, 48480, 871, 'Thassarian\'s Gauntlets of Conquest', 'Conqueror\'s Thassarian\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Thassarian's Battlegear Item Set 164
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 48481, 164, 'Thassarian\'s Battleplate of Triumph', 'Triumphant Thassarian\'s Battlegear'),
+(6, 48482, 164, 'Thassarian\'s Gauntlets of Triumph', 'Triumphant Thassarian\'s Battlegear'),
+(6, 48483, 164, 'Thassarian\'s Helmet of Triumph', 'Triumphant Thassarian\'s Battlegear'),
+(6, 48484, 164, 'Thassarian\'s Legplates of Triumph', 'Triumphant Thassarian\'s Battlegear'),
+(6, 48485, 164, 'Thassarian\'s Shoulderplates of Triumph', 'Triumphant Thassarian\'s Battlegear');
+
+-- Insert Armor Sets for Thassarian's Plate Item Set 831
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 48531, 831, 'Thassarian\'s Chestguard of Conquest', 'Thassarian\'s Plate'),
+(6, 48529, 831, 'Thassarian\'s Faceguard of Conquest', 'Thassarian\'s Plate'),
+(6, 48537, 831, 'Thassarian\'s Handguards of Conquest', 'Thassarian\'s Plate'),
+(6, 48533, 831, 'Thassarian\'s Legguards of Conquest', 'Thassarian\'s Plate'),
+(6, 48535, 831, 'Thassarian\'s Pauldrons of Conquest', 'Thassarian\'s Plate');
+
+-- Insert Armor Sets for Triumphant Thassarian's Plate Item Set 166
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 48538, 166, 'Thassarian\'s Chestguard of Triumph', 'Triumphant Thassarian\'s Plate'),
+(6, 48540, 166, 'Thassarian\'s Faceguard of Triumph', 'Triumphant Thassarian\'s Plate'),
+(6, 48539, 166, 'Thassarian\'s Handguards of Triumph', 'Triumphant Thassarian\'s Plate'),
+(6, 48541, 166, 'Thassarian\'s Legguards of Triumph', 'Triumphant Thassarian\'s Plate'),
+(6, 48541, 166, 'Thassarian\'s Pauldrons of Triumph', 'Triumphant Thassarian\'s Plate');
+
+-- Insert Armor Sets for Koltira's Battlegear Item Set 872
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 48880, 872, 'Koltira\'s Battleplate', 'Koltira\'s Battlegear'),
+(6, 48881, 872, 'Koltira\'s Gauntlets', 'Koltira\'s Battlegear'),
+(6, 48882, 872, 'Koltira\'s Helmet', 'Koltira\'s Battlegear'),
+(6, 48883, 872, 'Koltira\'s Legplates', 'Koltira\'s Battlegear'),
+(6, 48884, 872, 'Koltira\'s Shoulderplates', 'Koltira\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Koltira's Battlegear Item Set 165
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 48500, 165, 'Koltira\'s Battleplate of Triumph', 'Triumphant Koltira\'s Battlegear'),
+(6, 48499, 165, 'Koltira\'s Gauntlets of Triumph', 'Triumphant Koltira\'s Battlegear'),
+(6, 48498, 165, 'Koltira\'s Helmet of Triumph', 'Triumphant Koltira\'s Battlegear'),
+(6, 48497, 165, 'Koltira\'s Legplates of Triumph', 'Triumphant Koltira\'s Battlegear'),
+(6, 48496, 165, 'Koltira\'s Shoulderplates of Triumph', 'Triumphant Koltira\'s Battlegear');
+
+-- Insert Armor Sets for Koltira's Plate Item Set 874
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 48890, 874, 'Koltira\'s Chestguard', 'Koltira\'s Plate'),
+(6, 48891, 874, 'Koltira\'s Faceguard', 'Koltira\'s Plate'),
+(6, 48892, 874, 'Koltira\'s Handguards', 'Koltira\'s Plate'),
+(6, 48893, 874, 'Koltira\'s Legguards', 'Koltira\'s Plate'),
+(6, 48894, 874, 'Koltira\'s Pauldrons', 'Koltira\'s Plate');
+
+-- Insert Armor Sets for Triumphant Koltira's Plate Item Set 167
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 48557, 167, 'Koltira\'s Chestguard of Triumph', 'Triumphant Koltira\'s Plate'),
+(6, 48555, 167, 'Koltira\'s Faceguard of Triumph', 'Triumphant Koltira\'s Plate'),
+(6, 48556, 167, 'Koltira\'s Handguards of Triumph', 'Triumphant Koltira\'s Plate'),
+(6, 48554, 167, 'Koltira\'s Legguards of Triumph', 'Triumphant Koltira\'s Plate'),
+(6, 48553, 167, 'Koltira\'s Pauldrons of Triumph', 'Triumphant Koltira\'s Plate');
+
+-- Insert Armor Sets for Malfurion's Garb of Conquest Item Set 851
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48102, 851, 'Malfurion\'s Headpiece of Conquest', 'Malfurion\'s Garb of Conquest'),
+(11, 48129, 851, 'Malfurion\'s Robe of Conquest', 'Malfurion\'s Garb of Conquest'),
+(11, 48130, 851, 'Malfurion\'s Leggings of Conquest', 'Malfurion\'s Garb of Conquest'),
+(11, 48131, 851, 'Malfurion\'s Spaulders of Conquest', 'Malfurion\'s Garb of Conquest'),
+(11, 48132, 851, 'Malfurion\'s Handguards of Conquest', 'Malfurion\'s Garb of Conquest');
+
+-- Insert Armor Sets for Triumphant Malfurion's Garb Item Set 182
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48142, 182, 'Malfurion\'s Handguards of Triumph', 'Triumphant Malfurion\'s Garb'),
+(11, 48141, 182, 'Malfurion\'s Headpiece of Triumph', 'Triumphant Malfurion\'s Garb'),
+(11, 48140, 182, 'Malfurion\'s Leggings of Triumph', 'Triumphant Malfurion\'s Garb'),
+(11, 48139, 182, 'Malfurion\'s Robe of Triumph', 'Triumphant Malfurion\'s Garb'),
+(11, 48138, 182, 'Malfurion\'s Spaulders of Triumph', 'Triumphant Malfurion\'s Garb');
+
+-- Insert Armor Sets for Malfurion's Battlegear Item Set 813
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48213, 813, 'Malfurion\'s Handgrips of Conquest', 'Malfurion\'s Battlegear'),
+(11, 48214, 813, 'Malfurion\'s Headguard of Conquest', 'Malfurion\'s Battlegear'),
+(11, 48215, 813, 'Malfurion\'s Legguards of Conquest', 'Malfurion\'s Battlegear'),
+(11, 48216, 813, 'Malfurion\'s Raiments of Conquest', 'Malfurion\'s Battlegear'),
+(11, 48217, 813, 'Malfurion\'s Shoulderpads of Conquest', 'Malfurion\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Malfurion's Battlegear Item Set 148
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48212, 148, 'Malfurion\'s Handgrips of Triumph', 'Triumphant Malfurion\'s Battlegear'),
+(11, 48211, 148, 'Malfurion\'s Headguard of Triumph', 'Triumphant Malfurion\'s Battlegear'),
+(11, 48210, 148, 'Malfurion\'s Legguards of Triumph', 'Triumphant Malfurion\'s Battlegear'),
+(11, 48209, 148, 'Malfurion\'s Raiments of Triumph', 'Triumphant Malfurion\'s Battlegear'),
+(11, 48208, 148, 'Malfurion\'s Shoulderpads of Triumph', 'Triumphant Malfurion\'s Battlegear');
+
+-- Insert Armor Sets for Runetotem's Garb Item Set 852
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48769, 852, 'Runetotem\'s Handguards', 'Runetotem\'s Garb'),
+(11, 48770, 852, 'Runetotem\'s Headpiece', 'Runetotem\'s Garb'),
+(11, 48771, 852, 'Runetotem\'s Leggings', 'Runetotem\'s Garb'),
+(11, 48772, 852, 'Runetotem\'s Robe', 'Runetotem\'s Garb'),
+(11, 48773, 852, 'Runetotem\'s Spaulders', 'Runetotem\'s Garb');
+
+-- Insert Armor Sets for Triumphant Runetotem's Garb Item Set 145
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48152, 145, 'Runetotem\'s Handguards of Triumph', 'Triumphant Runetotem\'s Garb'),
+(11, 48151, 145, 'Runetotem\'s Headpiece of Triumph', 'Triumphant Runetotem\'s Garb'),
+(11, 48150, 145, 'Runetotem\'s Leggings of Triumph', 'Triumphant Runetotem\'s Garb'),
+(11, 48149, 145, 'Runetotem\'s Robe of Triumph', 'Triumphant Runetotem\'s Garb'),
+(11, 48148, 145, 'Runetotem\'s Spaulders of Triumph', 'Triumphant Runetotem\'s Garb');
+
+-- Insert Armor Sets for Runetotem's Battlegear Item Set 856
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48794, 856, 'Runetotem\'s Handgrips', 'Runetotem\'s Battlegear'),
+(11, 48795, 856, 'Runetotem\'s Headguard', 'Runetotem\'s Battlegear'),
+(11, 48796, 856, 'Runetotem\'s Legguards', 'Runetotem\'s Battlegear'),
+(11, 48797, 856, 'Runetotem\'s Raiments', 'Runetotem\'s Battlegear'),
+(11, 48798, 856, 'Runetotem\'s Shoulderpads', 'Runetotem\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Runetotem's Battlegear Item Set 149
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48193, 149, 'Runetotem\'s Handgrips of Triumph', 'Triumphant Runetotem\'s Battlegear'),
+(11, 48194, 149, 'Runetotem\'s Headguard of Triumph', 'Triumphant Runetotem\'s Battlegear'),
+(11, 48195, 149, 'Runetotem\'s Legguards of Triumph', 'Triumphant Runetotem\'s Battlegear'),
+(11, 48196, 149, 'Runetotem\'s Raiments of Triumph', 'Triumphant Runetotem\'s Battlegear'),
+(11, 48197, 149, 'Runetotem\'s Shoulderpads of Triumph', 'Triumphant Runetotem\'s Battlegear');
+
+-- Insert Armor Sets for Runetotem's Regalia Item Set 854
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48781, 854, 'Runetotem\'s Cover', 'Runetotem\'s Regalia'),
+(11, 48782, 854, 'Runetotem\'s Gloves', 'Runetotem\'s Regalia'),
+(11, 48783, 854, 'Runetotem\'s Mantle', 'Runetotem\'s Regalia'),
+(11, 48784, 854, 'Runetotem\'s Trousers', 'Runetotem\'s Regalia'),
+(11, 48785, 854, 'Runetotem\'s Vestments', 'Runetotem\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Runetotem's Regalia Item Set 147
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 48181, 147, 'Runetotem\'s Cover of Triumph', 'Triumphant Runetotem\'s Regalia'),
+(11, 48182, 147, 'Runetotem\'s Gloves of Triumph', 'Triumphant Runetotem\'s Regalia'),
+(11, 48178, 147, 'Runetotem\'s Mantle of Triumph', 'Triumphant Runetotem\'s Regalia'),
+(11, 48180, 147, 'Runetotem\'s Trousers of Triumph', 'Triumphant Runetotem\'s Regalia'),
+(11, 48179, 147, 'Runetotem\'s Vestments of Triumph', 'Triumphant Runetotem\'s Regalia');
+
+-- Insert Armor Sets for Windrunner's Battlegear Item Set 859
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 48819, 859, 'Windrunner\'s Handguards', 'Windrunner\'s Battlegear'),
+(3, 48820, 859, 'Windrunner\'s Headpiece', 'Windrunner\'s Battlegear'),
+(3, 48821, 859, 'Windrunner\'s Legguards', 'Windrunner\'s Battlegear'),
+(3, 48822, 859, 'Windrunner\'s Spaulders', 'Windrunner\'s Battlegear'),
+(3, 48823, 859, 'Windrunner\'s Tunic', 'Windrunner\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Windrunner's Battlegear Item Set 152
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 48256, 152, 'Windrunner\'s Handguards of Triumph', 'Triumphant Windrunner\'s Battlegear'),
+(3, 48257, 152, 'Windrunner\'s Headpiece of Triumph', 'Triumphant Windrunner\'s Battlegear'),
+(3, 48258, 152, 'Windrunner\'s Legguards of Triumph', 'Triumphant Windrunner\'s Battlegear'),
+(3, 48259, 152, 'Windrunner\'s Spaulders of Triumph', 'Triumphant Windrunner\'s Battlegear'),
+(3, 48255, 152, 'Windrunner\'s Tunic of Triumph', 'Triumphant Windrunner\'s Battlegear');
+
+-- Insert Armor Sets for Windrunner's Pursuit Item Set 860
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 48814, 860, 'Windrunner\'s Handguards', 'Windrunner\'s Pursuit'),
+(3, 48815, 860, 'Windrunner\'s Headpiece', 'Windrunner\'s Pursuit'),
+(3, 48816, 860, 'Windrunner\'s Legguards', 'Windrunner\'s Pursuit'),
+(3, 48817, 860, 'Windrunner\'s Spaulders', 'Windrunner\'s Pursuit'),
+(3, 48818, 860, 'Windrunner\'s Tunic', 'Windrunner\'s Pursuit');
+
+-- Insert Armor Sets for Triumphant Windrunner's Pursuit Item Set 153
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 48273, 153, 'Windrunner\'s Handguards of Triumph', 'Triumphant Windrunner\'s Pursuit'),
+(3, 48272, 153, 'Windrunner\'s Headpiece of Triumph', 'Triumphant Windrunner\'s Pursuit'),
+(3, 48271, 153, 'Windrunner\'s Legguards of Triumph', 'Triumphant Windrunner\'s Pursuit'),
+(3, 48270, 153, 'Windrunner\'s Spaulders of Triumph', 'Triumphant Windrunner\'s Pursuit'),
+(3, 48274, 153, 'Windrunner\'s Tunic of Triumph', 'Triumphant Windrunner\'s Pursuit');
+
+-- Insert Armor Sets for Khadgar's Regalia Item Set 843
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 48725, 843, 'Khadgar\'s Gauntlets', 'Khadgar\'s Regalia'),
+(8, 48726, 843, 'Khadgar\'s Hood', 'Khadgar\'s Regalia'),
+(8, 48727, 843, 'Khadgar\'s Leggings', 'Khadgar\'s Regalia'),
+(8, 48728, 843, 'Khadgar\'s Robe', 'Khadgar\'s Regalia'),
+(8, 48729, 843, 'Khadgar\'s Shoulderpads', 'Khadgar\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Khadgar's Regalia Item Set 136
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 47753, 136, 'Khadgar\'s Gauntlets of Triumph', 'Triumphant Khadgar\'s Regalia'),
+(8, 47754, 136, 'Khadgar\'s Hood of Triumph', 'Triumphant Khadgar\'s Regalia'),
+(8, 47755, 136, 'Khadgar\'s Leggings of Triumph', 'Triumphant Khadgar\'s Regalia'),
+(8, 47756, 136, 'Khadgar\'s Robe of Triumph', 'Triumphant Khadgar\'s Regalia'),
+(8, 47757, 136, 'Khadgar\'s Shoulderpads of Triumph', 'Triumphant Khadgar\'s Regalia');
+
+-- Insert Armor Sets for Sunstrider's Regalia Item Set 844
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 48730, 844, 'Sunstrider\'s Gauntlets', 'Sunstrider\'s Regalia'),
+(8, 48731, 844, 'Sunstrider\'s Hood', 'Sunstrider\'s Regalia'),
+(8, 48762, 844, 'Sunstrider\'s Leggings', 'Sunstrider\'s Regalia'),
+(8, 48733, 844, 'Sunstrider\'s Robe', 'Sunstrider\'s Regalia'),
+(8, 48734, 844, 'Sunstrider\'s Shoulderpads', 'Sunstrider\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Sunstrider's Regalia Item Set 137
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 47772, 137, 'Sunstrider\'s Gauntlets of Triumph', 'Triumphant Sunstrider\'s Regalia'),
+(8, 47771, 137, 'Sunstrider\'s Hood of Triumph', 'Triumphant Sunstrider\'s Regalia'),
+(8, 47770, 137, 'Sunstrider\'s Leggings of Triumph', 'Triumphant Sunstrider\'s Regalia'),
+(8, 47769, 137, 'Sunstrider\'s Robe of Triumph', 'Triumphant Sunstrider\'s Regalia'),
+(8, 47768, 137, 'Sunstrider\'s Shoulderpads of Triumph', 'Triumphant Sunstrider\'s Regalia');
+
+-- Insert Armor Sets for Turalyon's Garb Item Set 875
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48904, 875, 'Turalyon\'s Gloves', 'Turalyon\'s Garb'),
+(2, 48903, 875, 'Turalyon\'s Greaves', 'Turalyon\'s Garb'),
+(2, 48902, 875, 'Turalyon\'s Headpiece', 'Turalyon\'s Garb'),
+(2, 48901, 875, 'Turalyon\'s Spaulders', 'Turalyon\'s Garb'),
+(2, 48900, 875, 'Turalyon\'s Tunic', 'Turalyon\'s Garb');
+
+-- Insert Armor Sets for Triumphant Turalyon's Garb Item Set 168
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48576, 168, 'Turalyon\'s Gloves of Triumph', 'Triumphant Turalyon\'s Garb'),
+(2, 48578, 168, 'Turalyon\'s Greaves of Triumph', 'Triumphant Turalyon\'s Garb'),
+(2, 48577, 168, 'Turalyon\'s Headpiece of Triumph', 'Triumphant Turalyon\'s Garb'),
+(2, 48579, 168, 'Turalyon\'s Spaulders of Triumph', 'Triumphant Turalyon\'s Garb'),
+(2, 48575, 168, 'Turalyon\'s Tunic of Triumph', 'Triumphant Turalyon\'s Garb');
+
+-- Insert Armor Sets for Turalyon's Plate Item Set 879
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48927, 879, 'Turalyon\'s Breastplate', 'Turalyon\'s Plate'),
+(2, 48928, 879, 'Turalyon\'s Faceguard', 'Turalyon\'s Plate'),
+(2, 48929, 879, 'Turalyon\'s Handguards', 'Turalyon\'s Plate'),
+(2, 48930, 879, 'Turalyon\'s Legguards', 'Turalyon\'s Plate'),
+(2, 48931, 879, 'Turalyon\'s Shoulderguards', 'Turalyon\'s Plate');
+
+-- Insert Armor Sets for Triumphant Turalyon's Plate Item Set 172
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48641, 172, 'Turalyon\'s Breastplate of Triumph', 'Triumphant Turalyon\'s Plate'),
+(2, 48639, 172, 'Turalyon\'s Faceguard of Triumph', 'Triumphant Turalyon\'s Plate'),
+(2, 48640, 172, 'Turalyon\'s Handguards of Triumph', 'Triumphant Turalyon\'s Plate'),
+(2, 48638, 172, 'Turalyon\'s Legguards of Triumph', 'Triumphant Turalyon\'s Plate'),
+(2, 48637, 172, 'Turalyon\'s Shoulderguards of Triumph', 'Triumphant Turalyon\'s Plate');
+
+-- Insert Armor Sets for Turalyon's Battlegear Item Set 877
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48915, 877, 'Turalyon\'s Battleplate', 'Turalyon\'s Battlegear'),
+(2, 48916, 877, 'Turalyon\'s Gauntlets', 'Turalyon\'s Battlegear'),
+(2, 48917, 877, 'Turalyon\'s Helm', 'Turalyon\'s Battlegear'),
+(2, 48918, 877, 'Turalyon\'s Legplates', 'Turalyon\'s Battlegear'),
+(2, 48919, 877, 'Turalyon\'s Shoulderplates', 'Turalyon\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Turalyon's Battlegear Item Set 170
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48607, 170, 'Turalyon\'s Battleplate of Triumph', 'Triumphant Turalyon\'s Battlegear'),
+(2, 48608, 170, 'Turalyon\'s Gauntlets of Triumph', 'Triumphant Turalyon\'s Battlegear'),
+(2, 48609, 170, 'Turalyon\'s Helm of Triumph', 'Triumphant Turalyon\'s Battlegear'),
+(2, 48610, 170, 'Turalyon\'s Legplates of Triumph', 'Triumphant Turalyon\'s Battlegear'),
+(2, 48611, 170, 'Turalyon\'s Shoulderplates of Triumph', 'Triumphant Turalyon\'s Battlegear');
+
+-- Insert Armor Sets for Liadrin's Garb Item Set 876
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48909, 876, 'Liadrin\'s Gloves', 'Liadrin\'s Garb'),
+(2, 48908, 876, 'Liadrin\'s Greaves', 'Liadrin\'s Garb'),
+(2, 48907, 876, 'Liadrin\'s Headpiece', 'Liadrin\'s Garb'),
+(2, 48906, 876, 'Liadrin\'s Spaulders', 'Liadrin\'s Garb'),
+(2, 48905, 876, 'Liadrin\'s Tunic', 'Liadrin\'s Garb');
+
+-- Insert Armor Sets for Triumphant Liadrin's Garb Item Set 169
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48593, 169, 'Liadrin\'s Gloves of Triumph', 'Triumphant Liadrin\'s Garb'),
+(2, 48591, 169, 'Liadrin\'s Greaves of Triumph', 'Triumphant Liadrin\'s Garb'),
+(2, 48592, 169, 'Liadrin\'s Headpiece of Triumph', 'Triumphant Liadrin\'s Garb'),
+(2, 48590, 169, 'Liadrin\'s Spaulders of Triumph', 'Triumphant Liadrin\'s Garb'),
+(2, 48594, 169, 'Liadrin\'s Tunic of Triumph', 'Triumphant Liadrin\'s Garb');
+
+-- Insert Armor Sets for Liadrin's Plate Item Set 880
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48922, 880, 'Liadrin\'s Breastplate', 'Liadrin\'s Plate'),
+(2, 48923, 880, 'Liadrin\'s Faceguard', 'Liadrin\'s Plate'),
+(2, 48924, 880, 'Liadrin\'s Handguards', 'Liadrin\'s Plate'),
+(2, 48925, 880, 'Liadrin\'s Legguards', 'Liadrin\'s Plate'),
+(2, 48926, 880, 'Liadrin\'s Shoulderguards', 'Liadrin\'s Plate');
+
+-- Insert Armor Sets for Triumphant Liadrin's Plate Item Set 173
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48657, 173, 'Liadrin\'s Breastplate of Triumph', 'Triumphant Liadrin\'s Plate'),
+(2, 48659, 173, 'Liadrin\'s Faceguard of Triumph', 'Triumphant Liadrin\'s Plate'),
+(2, 48658, 173, 'Liadrin\'s Handguards of Triumph', 'Triumphant Liadrin\'s Plate'),
+(2, 48660, 173, 'Liadrin\'s Legguards of Triumph', 'Triumphant Liadrin\'s Plate'),
+(2, 48661, 173, 'Liadrin\'s Shoulderguards of Triumph', 'Triumphant Liadrin\'s Plate');
+
+-- Insert Armor Sets for Liadrin's Battlegear Item Set 878
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48910, 878, 'Liadrin\'s Battleplate', 'Liadrin\'s Battlegear'),
+(2, 48911, 878, 'Liadrin\'s Gauntlets', 'Liadrin\'s Battlegear'),
+(2, 48912, 878, 'Liadrin\'s Helm', 'Liadrin\'s Battlegear'),
+(2, 48913, 878, 'Liadrin\'s Legplates', 'Liadrin\'s Battlegear'),
+(2, 48914, 878, 'Liadrin\'s Shoulderplates', 'Liadrin\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Liadrin's Battlegear Item Set 171
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 48626, 171, 'Liadrin\'s Battleplate of Triumph', 'Triumphant Liadrin\'s Battlegear'),
+(2, 48625, 171, 'Liadrin\'s Gauntlets of Triumph', 'Triumphant Liadrin\'s Battlegear'),
+(2, 48624, 171, 'Liadrin\'s Helm of Triumph', 'Triumphant Liadrin\'s Battlegear'),
+(2, 48623, 171, 'Liadrin\'s Legplates of Triumph', 'Triumphant Liadrin\'s Battlegear'),
+(2, 48622, 171, 'Liadrin\'s Shoulderplates of Triumph', 'Triumphant Liadrin\'s Battlegear');
+
+-- Insert Armor Sets for Velen's Regalia Item Set 849
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 48755, 849, 'Velen\'s Circlet', 'Velen\'s Regalia'),
+(5, 48756, 849, 'Velen\'s Handwraps', 'Velen\'s Regalia'),
+(5, 48757, 849, 'Velen\'s Mantle', 'Velen\'s Regalia'),
+(5, 48758, 849, 'Velen\'s Pants', 'Velen\'s Regalia'),
+(5, 48759, 849, 'Velen\'s Raiments', 'Velen\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Velen's Regalia Item Set 142
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 48078, 142, 'Velen\'s Circlet of Triumph', 'Triumphant Velen\'s Regalia'),
+(5, 48077, 142, 'Velen\'s Handwraps of Triumph', 'Triumphant Velen\'s Regalia'),
+(5, 48081, 142, 'Velen\'s Mantle of Triumph', 'Triumphant Velen\'s Regalia'),
+(5, 48079, 142, 'Velen\'s Pants of Triumph', 'Triumphant Velen\'s Regalia'),
+(5, 48080, 142, 'Velen\'s Raiments of Triumph', 'Triumphant Velen\'s Regalia');
+
+-- Insert Armor Sets for Velen's Raiment Item Set 847
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 48745, 847, 'Velen\'s Cowl', 'Velen\'s Raiment'),
+(5, 48746, 847, 'Velen\'s Gloves', 'Velen\'s Raiment'),
+(5, 48747, 847, 'Velen\'s Leggings', 'Velen\'s Raiment'),
+(5, 48748, 847, 'Velen\'s Robe', 'Velen\'s Raiment'),
+(5, 48749, 847, 'Velen\'s Shoulderpads', 'Velen\'s Raiment');
+
+-- Insert Armor Sets for Triumphant Velen's Raiment Item Set 140
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 47984, 140, 'Velen\'s Cowl of Triumph', 'Triumphant Velen\'s Raiment'),
+(5, 47983, 140, 'Velen\'s Gloves of Triumph', 'Triumphant Velen\'s Raiment'),
+(5, 47985, 140, 'Velen\'s Leggings of Triumph', 'Triumphant Velen\'s Raiment'),
+(5, 47986, 140, 'Velen\'s Robe of Triumph', 'Triumphant Velen\'s Raiment'),
+(5, 47987, 140, 'Velen\'s Shoulderpads of Triumph', 'Triumphant Velen\'s Raiment');
+
+-- Insert Armor Sets for Zabra's Regalia Item Set 850
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 48760, 850, 'Zabra\'s Circlet', 'Zabra\'s Regalia'),
+(5, 48761, 850, 'Zabra\'s Handwraps', 'Zabra\'s Regalia'),
+(5, 48762, 850, 'Zabra\'s Mantle', 'Zabra\'s Regalia'),
+(5, 48763, 850, 'Zabra\'s Pants', 'Zabra\'s Regalia'),
+(5, 48764, 850, 'Zabra\'s Raiments', 'Zabra\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Zabra's Regalia Item Set 143
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 48095, 143, 'Zabra\'s Circlet of Triumph', 'Triumphant Zabra\'s Regalia'),
+(5, 48096, 143, 'Zabra\'s Handwraps of Triumph', 'Triumphant Zabra\'s Regalia'),
+(5, 48092, 143, 'Zabra\'s Mantle of Triumph', 'Triumphant Zabra\'s Regalia'),
+(5, 48094, 143, 'Zabra\'s Pants of Triumph', 'Triumphant Zabra\'s Regalia'),
+(5, 48093, 143, 'Zabra\'s Raiments of Triumph', 'Triumphant Zabra\'s Regalia');
+
+-- Insert Armor Sets for Zabra's Raiment Item Set 848
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 48750, 848, 'Zabra\'s Cowl', 'Zabra\'s Raiment'),
+(5, 48751, 848, 'Zabra\'s Gloves', 'Zabra\'s Raiment'),
+(5, 48752, 848, 'Zabra\'s Leggings', 'Zabra\'s Raiment'),
+(5, 48753, 848, 'Zabra\'s Robe', 'Zabra\'s Raiment'),
+(5, 48754, 848, 'Zabra\'s Shoulderpads', 'Zabra\'s Raiment');
+
+-- Insert Armor Sets for Triumphant Zabra's Raiment Item Set 141
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 48065, 141, 'Zabra\'s Cowl of Triumph', 'Triumphant Zabra\'s Raiment'),
+(5, 48066, 141, 'Zabra\'s Gloves of Triumph', 'Triumphant Zabra\'s Raiment'),
+(5, 48064, 141, 'Zabra\'s Leggings of Triumph', 'Triumphant Zabra\'s Raiment'),
+(5, 48063, 141, 'Zabra\'s Robe of Triumph', 'Triumphant Zabra\'s Raiment'),
+(5, 48062, 141, 'Zabra\'s Shoulderpads of Triumph', 'Triumphant Zabra\'s Raiment');
+
+-- Insert Armor Sets for VanCleef's Battlegear Item Set 857
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48809, 857, 'VanCleef\'s Breastplate', 'VanCleef\'s Battlegear'),
+(4, 48810, 857, 'VanCleef\'s Gauntlets', 'VanCleef\'s Battlegear'),
+(4, 48811, 857, 'VanCleef\'s Helmet', 'VanCleef\'s Battlegear'),
+(4, 48812, 857, 'VanCleef\'s Legplates', 'VanCleef\'s Battlegear'),
+(4, 48813, 857, 'VanCleef\'s Pauldrons', 'VanCleef\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant VanCleef's Battlegear Item Set 150
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48223, 150, 'VanCleef\'s Breastplate of Triumph', 'Triumphant VanCleef\'s Battlegear'),
+(4, 48224, 150, 'VanCleef\'s Gauntlets of Triumph', 'Triumphant VanCleef\'s Battlegear'),
+(4, 48225, 150, 'VanCleef\'s Helmet of Triumph', 'Triumphant VanCleef\'s Battlegear'),
+(4, 48226, 150, 'VanCleef\'s Legplates of Triumph', 'Triumphant VanCleef\'s Battlegear'),
+(4, 48227, 150, 'VanCleef\'s Pauldrons of Triumph', 'Triumphant VanCleef\'s Battlegear');
+
+-- Insert Armor Sets for Garona's Battlegear Item Set 858
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48804, 858, 'Garona\'s Breastplate', 'Garona\'s Battlegear'),
+(4, 48805, 858, 'Garona\'s Gauntlets', 'Garona\'s Battlegear'),
+(4, 48806, 858, 'Garona\'s Helmet', 'Garona\'s Battlegear'),
+(4, 48807, 858, 'Garona\'s Legplates', 'Garona\'s Battlegear'),
+(4, 48808, 858, 'Garona\'s Pauldrons', 'Garona\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Garona's Battlegear Item Set 151
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48242, 151, 'Garona\'s Breastplate of Triumph', 'Triumphant Garona\'s Battlegear'),
+(4, 48241, 151, 'Garona\'s Gauntlets of Triumph', 'Triumphant Garona\'s Battlegear'),
+(4, 48240, 151, 'Garona\'s Helmet of Triumph', 'Triumphant Garona\'s Battlegear'),
+(4, 48239, 151, 'Garona\'s Legplates of Triumph', 'Triumphant Garona\'s Battlegear'),
+(4, 48238, 151, 'Garona\'s Pauldrons of Triumph', 'Triumphant Garona\'s Battlegear');
+
+-- Insert Armor Sets for Conqueror's Nobundo's Garb Item Set 861
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48824, 861, 'Nobundo\'s Handguards', 'Conqueror\'s Nobundo\'s Garb'),
+(7, 48825, 861, 'Nobundo\'s Headpiece', 'Conqueror\'s Nobundo\'s Garb'),
+(7, 48826, 861, 'Nobundo\'s Legguards', 'Conqueror\'s Nobundo\'s Garb'),
+(7, 48827, 861, 'Nobundo\'s Spaulders', 'Conqueror\'s Nobundo\'s Garb'),
+(7, 48828, 861, 'Nobundo\'s Tunic', 'Conqueror\'s Nobundo\'s Garb');
+
+-- Insert Armor Sets for Triumphant Nobundo's Garb Item Set 154
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48286, 154, 'Nobundo\'s Handguards of Triumph', 'Triumphant Nobundo\'s Garb'),
+(7, 48287, 154, 'Nobundo\'s Headpiece of Triumph', 'Triumphant Nobundo\'s Garb'),
+(7, 48288, 154, 'Nobundo\'s Legguards of Triumph', 'Triumphant Nobundo\'s Garb'),
+(7, 48289, 154, 'Nobundo\'s Spaulders of Triumph', 'Triumphant Nobundo\'s Garb'),
+(7, 48285, 154, 'Nobundo\'s Tunic of Triumph', 'Triumphant Nobundo\'s Garb');
+
+-- Insert Armor Sets for Nobundo's Battlegear Item Set 856
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48846, 856, 'Nobundo\'s Chestguard', 'Nobundo\'s Battlegear'),
+(7, 48847, 856, 'Nobundo\'s Faceguard', 'Nobundo\'s Battlegear'),
+(7, 48848, 856, 'Nobundo\'s Grips', 'Nobundo\'s Battlegear'),
+(7, 48849, 856, 'Nobundo\'s Shoulderguards', 'Nobundo\'s Battlegear'),
+(7, 48850, 856, 'Nobundo\'s War-Kilt', 'Nobundo\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Nobundo's Battlegear Item Set 158
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48346, 158, 'Nobundo\'s Chestguard of Triumph', 'Triumphant Nobundo\'s Battlegear'),
+(7, 48348, 158, 'Nobundo\'s Faceguard of Triumph', 'Triumphant Nobundo\'s Battlegear'),
+(7, 48347, 158, 'Nobundo\'s Grips of Triumph', 'Triumphant Nobundo\'s Battlegear'),
+(7, 48350, 158, 'Nobundo\'s Shoulderguards of Triumph', 'Triumphant Nobundo\'s Battlegear'),
+(7, 48349, 158, 'Nobundo\'s War-Kilt of Triumph', 'Triumphant Nobundo\'s Battlegear');
+
+-- Insert Armor Sets for Nobundo's Regalia Item Set 864
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48836, 864, 'Nobundo\'s Gloves', 'Nobundo\'s Regalia'),
+(7, 48837, 864, 'Nobundo\'s Hauberk', 'Nobundo\'s Regalia'),
+(7, 48838, 864, 'Nobundo\'s Helm', 'Nobundo\'s Regalia'),
+(7, 48839, 864, 'Nobundo\'s Kilt', 'Nobundo\'s Regalia'),
+(7, 48840, 864, 'Nobundo\'s Shoulderpads', 'Nobundo\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Nobundo's Regalia Item Set 157
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48317, 157, 'Nobundo\'s Gloves of Triumph', 'Triumphant Nobundo\'s Regalia'),
+(7, 48316, 157, 'Nobundo\'s Hauberk of Triumph', 'Triumphant Nobundo\'s Regalia'),
+(7, 48318, 157, 'Nobundo\'s Helm of Triumph', 'Triumphant Nobundo\'s Regalia'),
+(7, 48319, 157, 'Nobundo\'s Kilt of Triumph', 'Triumphant Nobundo\'s Regalia'),
+(7, 48320, 157, 'Nobundo\'s Shoulderpads of Triumph', 'Triumphant Nobundo\'s Regalia');
+
+-- Insert Armor Sets for Thrall's Garb Item Set 862
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48829, 862, 'Thrall\'s Handguards', 'Thrall\'s Garb'),
+(7, 48830, 862, 'Thrall\'s Headpiece', 'Thrall\'s Garb'),
+(7, 48831, 862, 'Thrall\'s Legguards', 'Thrall\'s Garb'),
+(7, 48832, 862, 'Thrall\'s Spaulders', 'Thrall\'s Garb'),
+(7, 48833, 862, 'Thrall\'s Tunic', 'Thrall\'s Garb');
+
+-- Insert Armor Sets for Triumphant Thrall's Garb Item Set 155
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48301, 155, 'Thrall\'s Handguards of Triumph', 'Triumphant Thrall\'s Garb'),
+(7, 48302, 155, 'Thrall\'s Headpiece of Triumph', 'Triumphant Thrall\'s Garb'),
+(7, 48303, 155, 'Thrall\'s Legguards of Triumph', 'Triumphant Thrall\'s Garb'),
+(7, 48304, 155, 'Thrall\'s Spaulders of Triumph', 'Triumphant Thrall\'s Garb'),
+(7, 48300, 155, 'Thrall\'s Tunic of Triumph', 'Triumphant Thrall\'s Garb');
+
+-- Insert Armor Sets for Thrall's Battlegear Item Set 824
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48370, 824, 'Thrall\'s Shoulderguards of Conquest', 'Thrall\'s Battlegear'),
+(7, 48369, 824, 'Thrall\'s War-Kilt of Conquest', 'Thrall\'s Battlegear'),
+(7, 48368, 824, 'Thrall\'s Faceguard of Conquest', 'Thrall\'s Battlegear'),
+(7, 48367, 824, 'Thrall\'s Grips of Conquest', 'Thrall\'s Battlegear'),
+(7, 48366, 824, 'Thrall\'s Chestguard of Conquest', 'Thrall\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Thrall's Battlegear Item Set 159
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48361, 159, 'Thrall\'s Shoulderguards of Triumph', 'Triumphant Thrall\'s Battlegear'),
+(7, 48362, 159, 'Thrall\'s War-Kilt of Triumph', 'Triumphant Thrall\'s Battlegear'),
+(7, 48363, 159, 'Thrall\'s Faceguard of Triumph', 'Triumphant Thrall\'s Battlegear'),
+(7, 48364, 159, 'Thrall\'s Grips of Triumph', 'Triumphant Thrall\'s Battlegear'),
+(7, 48365, 159, 'Thrall\'s Chestguard of Triumph', 'Triumphant Thrall\'s Battlegear');
+
+-- Insert Armor Sets for Thrall's Regalia Item Set 863
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48841, 863, 'Thrall\'s Gloves', 'Thrall\'s Regalia'),
+(7, 48842, 863, 'Thrall\'s Hauberk', 'Thrall\'s Regalia'),
+(7, 48843, 863, 'Thrall\'s Helm', 'Thrall\'s Regalia'),
+(7, 48844, 863, 'Thrall\'s Kilt', 'Thrall\'s Regalia'),
+(7, 48845, 863, 'Thrall\'s Shoulderpads', 'Thrall\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Thrall's Regalia Item Set 156
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 48334, 156, 'Thrall\'s Gloves of Triumph', 'Triumphant Thrall\'s Regalia'),
+(7, 48335, 156, 'Thrall\'s Hauberk of Triumph', 'Triumphant Thrall\'s Regalia'),
+(7, 48333, 156, 'Thrall\'s Helm of Triumph', 'Triumphant Thrall\'s Regalia'),
+(7, 48332, 156, 'Thrall\'s Kilt of Triumph', 'Triumphant Thrall\'s Regalia'),
+(7, 48331, 156, 'Thrall\'s Shoulderpads of Triumph', 'Triumphant Thrall\'s Regalia');
+
+-- Insert Armor Sets for Kel'Thuzad's Regalia Item Set 846
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 48740, 846, 'Kel\'Thuzad\'s Gloves', 'Kel\'Thuzad\'s Regalia'),
+(8, 48741, 846, 'Kel\'Thuzad\'s Hood', 'Kel\'Thuzad\'s Regalia'),
+(8, 48742, 846, 'Kel\'Thuzad\'s Leggings', 'Kel\'Thuzad\'s Regalia'),
+(8, 48743, 846, 'Kel\'Thuzad\'s Robe', 'Kel\'Thuzad\'s Regalia'),
+(8, 48744, 846, 'Kel\'Thuzad\'s Shoulderpads', 'Kel\'Thuzad\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Kel'Thuzad's Regalia Item Set 139
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 47782, 139, 'Kel\'Thuzad\'s Gloves of Triumph', 'Triumphant Kel\'Thuzad\'s Regalia'),
+(8, 47778, 139, 'Kel\'Thuzad\'s Hood of Triumph', 'Triumphant Kel\'Thuzad\'s Regalia'),
+(8, 47780, 139, 'Kel\'Thuzad\'s Leggings of Triumph', 'Triumphant Kel\'Thuzad\'s Regalia'),
+(8, 47779, 139, 'Kel\'Thuzad\'s Robe of Triumph', 'Triumphant Kel\'Thuzad\'s Regalia'),
+(8, 47781, 139, 'Kel\'Thuzad\'s Shoulderpads of Triumph', 'Triumphant Kel\'Thuzad\'s Regalia');
+
+-- Insert Armor Sets for Gul'dan's Regalia Item Set 845
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 48735, 845, 'Gul\'dan\'s Gloves', 'Gul\'dan\'s Regalia'),
+(8, 48736, 845, 'Gul\'dan\'s Hood', 'Gul\'dan\'s Regalia'),
+(8, 48737, 845, 'Gul\'dan\'s Leggings', 'Gul\'dan\'s Regalia'),
+(8, 48738, 845, 'Gul\'dan\'s Robe', 'Gul\'dan\'s Regalia'),
+(8, 48739, 845, 'Gul\'dan\'s Shoulderpads', 'Gul\'dan\'s Regalia');
+
+-- Insert Armor Sets for Triumphant Gul'dan's Regalia Item Set 138
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 47803, 138, 'Gul\'dan\'s Gloves of Triumph', 'Triumphant Gul\'dan\'s Regalia'),
+(8, 47804, 138, 'Gul\'dan\'s Hood of Triumph', 'Triumphant Gul\'dan\'s Regalia'),
+(8, 47805, 138, 'Gul\'dan\'s Leggings of Triumph', 'Triumphant Gul\'dan\'s Regalia'),
+(8, 47806, 138, 'Gul\'dan\'s Robe of Triumph', 'Triumphant Gul\'dan\'s Regalia'),
+(8, 47807, 138, 'Gul\'dan\'s Shoulderpads of Triumph', 'Triumphant Gul\'dan\'s Regalia');
+
+-- Insert Armor Sets for Wrynn's Battlegear Item Set 867
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48865, 867, 'Wrynn\'s Battleplate', 'Wrynn\'s Battlegear'),
+(4, 48866, 867, 'Wrynn\'s Gauntlets', 'Wrynn\'s Battlegear'),
+(4, 48867, 867, 'Wrynn\'s Helmet', 'Wrynn\'s Battlegear'),
+(4, 48868, 867, 'Wrynn\'s Legplates', 'Wrynn\'s Battlegear'),
+(4, 48869, 867, 'Wrynn\'s Shoulderplates', 'Wrynn\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Wrynn's Battlegear Item Set 160
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48376, 160, 'Wrynn\'s Battleplate of Triumph', 'Triumphant Wrynn\'s Battlegear'),
+(4, 48377, 160, 'Wrynn\'s Gauntlets of Triumph', 'Triumphant Wrynn\'s Battlegear'),
+(4, 48378, 160, 'Wrynn\'s Helmet of Triumph', 'Triumphant Wrynn\'s Battlegear'),
+(4, 48379, 160, 'Wrynn\'s Legplates of Triumph', 'Triumphant Wrynn\'s Battlegear'),
+(4, 48380, 160, 'Wrynn\'s Shoulderplates of Triumph', 'Triumphant Wrynn\'s Battlegear');
+
+-- Insert Armor Sets for Wrynn's Plate Item Set 869
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48875, 869, 'Wrynn\'s Breastplate', 'Wrynn\'s Plate'),
+(4, 48876, 869, 'Wrynn\'s Greathelm', 'Wrynn\'s Plate'),
+(4, 48877, 869, 'Wrynn\'s Handguards', 'Wrynn\'s Plate'),
+(4, 48878, 869, 'Wrynn\'s Legguards', 'Wrynn\'s Plate'),
+(4, 48879, 869, 'Wrynn\'s Pauldrons', 'Wrynn\'s Plate');
+
+-- Insert Armor Sets for Triumphant Wrynn's Plate Item Set 162
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48450, 162, 'Wrynn\'s Breastplate of Triumph', 'Triumphant Wrynn\'s Plate'),
+(4, 48430, 162, 'Wrynn\'s Greathelm of Triumph', 'Triumphant Wrynn\'s Plate'),
+(4, 48452, 162, 'Wrynn\'s Handguards of Triumph', 'Triumphant Wrynn\'s Plate'),
+(4, 48446, 162, 'Wrynn\'s Legguards of Triumph', 'Triumphant Wrynn\'s Plate'),
+(4, 48454, 162, 'Wrynn\'s Pauldrons of Triumph', 'Triumphant Wrynn\'s Plate');
+
+-- Insert Armor Sets for Hellscream's Battlegear Item Set 868
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48860, 868, 'Hellscream\'s Battleplate', 'Hellscream\'s Battlegear'),
+(4, 48861, 868, 'Hellscream\'s Gauntlets', 'Hellscream\'s Battlegear'),
+(4, 48862, 868, 'Hellscream\'s Helmet', 'Hellscream\'s Battlegear'),
+(4, 48863, 868, 'Hellscream\'s Legplates', 'Hellscream\'s Battlegear'),
+(4, 48864, 868, 'Hellscream\'s Shoulderplates', 'Hellscream\'s Battlegear');
+
+-- Insert Armor Sets for Triumphant Hellscream's Battlegear Item Set 161
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48391, 161, 'Hellscream\'s Battleplate of Triumph', 'Triumphant Hellscream\'s Battlegear'),
+(4, 48392, 161, 'Hellscream\'s Gauntlets of Triumph', 'Triumphant Hellscream\'s Battlegear'),
+(4, 48393, 161, 'Hellscream\'s Helmet of Triumph', 'Triumphant Hellscream\'s Battlegear'),
+(4, 48394, 161, 'Hellscream\'s Legplates of Triumph', 'Triumphant Hellscream\'s Battlegear'),
+(4, 48395, 161, 'Hellscream\'s Shoulderplates of Triumph', 'Triumphant Hellscream\'s Battlegear');
+
+-- Insert Armor Sets for Hellscream's Plate Item Set 870
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48870, 870, 'Hellscream\'s Breastplate', 'Hellscream\'s Plate'),
+(4, 48871, 870, 'Hellscream\'s Greathelm', 'Hellscream\'s Plate'),
+(4, 48872, 870, 'Hellscream\'s Handguards', 'Hellscream\'s Plate'),
+(4, 48873, 870, 'Hellscream\'s Legguards', 'Hellscream\'s Plate'),
+(4, 48874, 870, 'Hellscream\'s Pauldrons', 'Hellscream\'s Plate');
+
+-- Insert Armor Sets for Triumphant Hellscream's Plate Item Set 163
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 48461, 163, 'Hellscream\'s Breastplate of Triumph', 'Triumphant Hellscream\'s Plate'),
+(4, 48463, 163, 'Hellscream\'s Greathelm of Triumph', 'Triumphant Hellscream\'s Plate'),
+(4, 48462, 163, 'Hellscream\'s Handguards of Triumph', 'Triumphant Hellscream\'s Plate'),
+(4, 48464, 163, 'Hellscream\'s Legguards of Triumph', 'Triumphant Hellscream\'s Plate'),
+(4, 48465, 163, 'Hellscream\'s Pauldrons of Triumph', 'Triumphant Hellscream\'s Plate');
+
+
+
+
+
+--[[ Tier 10 Sets ]]
+
+
+
+-- Insert Armor Sets for Scourgelord's Battlegear Item Set 897
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 51686, 897, 'Scourgelord Battleplate', 'Scourgelord\'s Battlegear'),
+(6, 51685, 897, 'Scourgelord Gauntlets', 'Scourgelord\'s Battlegear'),
+(6, 51684, 897, 'Scourgelord Helmet', 'Scourgelord\'s Battlegear'),
+(6, 51683, 897, 'Scourgelord Legplates', 'Scourgelord\'s Battlegear'),
+(6, 51682, 897, 'Scourgelord Shoulderplates', 'Scourgelord\'s Battlegear');
+
+-- Insert Armor Sets for Sanctified Scourgelord's Battlegear Item Set 261
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 51310, 261, 'Sanctified Scourgelord Battleplate', 'Sanctified Scourgelord\'s Battlegear'),
+(6, 51311, 261, 'Sanctified Scourgelord Gauntlets', 'Sanctified Scourgelord\'s Battlegear'),
+(6, 51312, 261, 'Sanctified Scourgelord Helmet', 'Sanctified Scourgelord\'s Battlegear'),
+(6, 51313, 261, 'Sanctified Scourgelord Legplates', 'Sanctified Scourgelord\'s Battlegear'),
+(6, 51314, 261, 'Sanctified Scourgelord Shoulderplates', 'Sanctified Scourgelord\'s Battlegear');
+
+-- Insert Armor Sets for Scourgelord's Plate Item Set 898
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 51691, 898, 'Scourgelord Pauldrons', 'Scourgelord\'s Plate'),
+(6, 51690, 898, 'Scourgelord Legguards', 'Scourgelord\'s Plate'),
+(6, 51689, 898, 'Scourgelord Faceguard', 'Scourgelord\'s Plate'),
+(6, 51688, 898, 'Scourgelord Handguards', 'Scourgelord\'s Plate'),
+(6, 51687, 898, 'Scourgelord Chestguard', 'Scourgelord\'s Plate');
+
+-- Insert Armor Sets for Sanctified Scourgelord's Plate Item Set 262
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(6, 51309, 262, 'Sanctified Scourgelord Pauldrons', 'Sanctified Scourgelord\'s Plate'),
+(6, 51308, 262, 'Sanctified Scourgelord Legguards', 'Sanctified Scourgelord\'s Plate'),
+(6, 51306, 262, 'Sanctified Scourgelord Faceguard', 'Sanctified Scourgelord\'s Plate'),
+(6, 51307, 262, 'Sanctified Scourgelord Handguards', 'Sanctified Scourgelord\'s Plate'),
+(6, 51305, 262, 'Sanctified Scourgelord Chestguard', 'Sanctified Scourgelord\'s Plate');
+
+-- Insert Armor Sets for Lasherweave Garb Item Set 887
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51696, 887, 'Lasherweave Robes', 'Lasherweave Garb'),
+(11, 51695, 887, 'Lasherweave Gauntlets', 'Lasherweave Garb'),
+(11, 51694, 887, 'Lasherweave Helmet', 'Lasherweave Garb'),
+(11, 51693, 887, 'Lasherweave Legplates', 'Lasherweave Garb'),
+(11, 51692, 887, 'Lasherweave Pauldrons', 'Lasherweave Garb');
+
+-- Insert Armor Sets for Sanctified Lasherweave Garb Item Set 251
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51300, 251, 'Sanctified Lasherweave Robes', 'Sanctified Lasherweave Garb'),
+(11, 51301, 251, 'Sanctified Lasherweave Gauntlets', 'Sanctified Lasherweave Garb'),
+(11, 51302, 251, 'Sanctified Lasherweave Helmet', 'Sanctified Lasherweave Garb'),
+(11, 51303, 251, 'Sanctified Lasherweave Legplates', 'Sanctified Lasherweave Garb'),
+(11, 51304, 251, 'Sanctified Lasherweave Pauldrons', 'Sanctified Lasherweave Garb');
+
+-- Insert Armor Sets for Lasherweave Regalia Item Set 888
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51706, 888, 'Lasherweave Mantle', 'Lasherweave Regalia'),
+(11, 51705, 888, 'Lasherweave Trousers', 'Lasherweave Regalia'),
+(11, 51704, 888, 'Lasherweave Cover', 'Lasherweave Regalia'),
+(11, 51703, 888, 'Lasherweave Gloves', 'Lasherweave Regalia'),
+(11, 51702, 888, 'Lasherweave Vestment', 'Lasherweave Regalia');
+
+-- Insert Armor Sets for Sanctified Lasherweave Regalia Item Set 252
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51292, 252, 'Sanctified Lasherweave Mantle', 'Sanctified Lasherweave Regalia'),
+(11, 51293, 252, 'Sanctified Lasherweave Trousers', 'Sanctified Lasherweave Regalia'),
+(11, 51290, 252, 'Sanctified Lasherweave Cover', 'Sanctified Lasherweave Regalia'),
+(11, 51291, 252, 'Sanctified Lasherweave Gloves', 'Sanctified Lasherweave Regalia'),
+(11, 51294, 252, 'Sanctified Lasherweave Vestment', 'Sanctified Lasherweave Regalia');
+
+-- Insert Armor Sets for Lasherweave Battlegear Item Set 889
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51701, 889, 'Lasherweave Shoulderpads', 'Lasherweave Battlegear'),
+(11, 51700, 889, 'Lasherweave Legguards', 'Lasherweave Battlegear'),
+(11, 51699, 889, 'Lasherweave Headguard', 'Lasherweave Battlegear'),
+(11, 51698, 889, 'Lasherweave Handgrips', 'Lasherweave Battlegear'),
+(11, 51697, 889, 'Lasherweave Raiment', 'Lasherweave Battlegear');
+
+-- Insert Armor Sets for Sanctified Lasherweave Battlegear Item Set 253
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 51299, 253, 'Sanctified Lasherweave Shoulderpads', 'Sanctified Lasherweave Battlegear'),
+(11, 51297, 253, 'Sanctified Lasherweave Legguards', 'Sanctified Lasherweave Battlegear'),
+(11, 51296, 253, 'Sanctified Lasherweave Headguard', 'Sanctified Lasherweave Battlegear'),
+(11, 51295, 253, 'Sanctified Lasherweave Handgrips', 'Sanctified Lasherweave Battlegear'),
+(11, 51298, 253, 'Sanctified Lasherweave Raiment', 'Sanctified Lasherweave Battlegear');
+
+-- Insert Armor Sets for Ahn'Kahar Blood Hunter's Battlegear Item Set 891
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 51752, 891, 'Ahn\'Kahar Blood Hunter\'s Tunic', 'Ahn\'Kahar Blood Hunter\'s Battlegear'),
+(3, 51751, 891, 'Ahn\'Kahar Blood Hunter\'s Handguards', 'Ahn\'Kahar Blood Hunter\'s Battlegear'),
+(3, 51750, 891, 'Ahn\'Kahar Blood Hunter\'s Headpiece', 'Ahn\'Kahar Blood Hunter\'s Battlegear'),
+(3, 51749, 891, 'Ahn\'Kahar Blood Hunter\'s Legguards', 'Ahn\'Kahar Blood Hunter\'s Battlegear'),
+(3, 51748, 891, 'Ahn\'Kahar Blood Hunter\'s Spaulders', 'Ahn\'Kahar Blood Hunter\'s Battlegear');
+
+-- Insert Armor Sets for Sanctified Ahn'Kahar Blood Hunter's Battlegear Item Set 259
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 51150, 259, 'Sanctified Ahn\'Kahar Blood Hunter\'s Tunic', 'Sanctified Ahn\'Kahar Blood Hunter\'s Battlegear'),
+(3, 51151, 259, 'Sanctified Ahn\'Kahar Blood Hunter\'s Handguards', 'Sanctified Ahn\'Kahar Blood Hunter\'s Battlegear'),
+(3, 51152, 259, 'Sanctified Ahn\'Kahar Blood Hunter\'s Headpiece', 'Sanctified Ahn\'Kahar Blood Hunter\'s Battlegear'),
+(3, 51153, 259, 'Sanctified Ahn\'Kahar Blood Hunter\'s Legguards', 'Sanctified Ahn\'Kahar Blood Hunter\'s Battlegear'),
+(3, 51154, 259, 'Sanctified Ahn\'Kahar Blood Hunter\'s Spaulders', 'Sanctified Ahn\'Kahar Blood Hunter\'s Battlegear');
+
+-- Bloodmage's Regalia Item Set 883
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 51716, 883, 'Bloodmage Gloves', 'Bloodmage\'s Regalia'),
+(8, 51715, 883, 'Bloodmage Hood', 'Bloodmage\'s Regalia'),
+(8, 51714, 883, 'Bloodmage Leggings', 'Bloodmage\'s Regalia'),
+(8, 51713, 883, 'Bloodmage Robe', 'Bloodmage\'s Regalia'),
+(8, 51712, 883, 'Bloodmage Shoulderpads', 'Bloodmage\'s Regalia');
+
+-- Sanctified Bloodmage's Regalia Item Set 247
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 51280, 247, 'Sanctified Bloodmage Gloves', 'Sanctified Bloodmage\'s Regalia'),
+(8, 51281, 247, 'Sanctified Bloodmage Hood', 'Sanctified Bloodmage\'s Regalia'),
+(8, 51282, 247, 'Sanctified Bloodmage Leggings', 'Sanctified Bloodmage\'s Regalia'),
+(8, 51283, 247, 'Sanctified Bloodmage Robe', 'Sanctified Bloodmage\'s Regalia'),
+(8, 51284, 247, 'Sanctified Bloodmage Shoulderpads', 'Sanctified Bloodmage\'s Regalia');
+
+-- Lightsworn Garb Item Set 899
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51726, 899, 'Lightsworn Spaulders', 'Lightsworn Garb'),
+(2, 51725, 899, 'Lightsworn Greaves', 'Lightsworn Garb'),
+(2, 51724, 899, 'Lightsworn Headpiece', 'Lightsworn Garb'),
+(2, 51723, 899, 'Lightsworn Gloves', 'Lightsworn Garb'),
+(2, 51722, 899, 'Lightsworn Tunic', 'Lightsworn Garb');
+
+-- Sanctified Lightsworn Garb Item Set 263
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51273, 263, 'Sanctified Lightsworn Spaulders', 'Sanctified Lightsworn Garb'),
+(2, 51271, 263, 'Sanctified Lightsworn Greaves', 'Sanctified Lightsworn Garb'),
+(2, 51272, 263, 'Sanctified Lightsworn Headpiece', 'Sanctified Lightsworn Garb'),
+(2, 51270, 263, 'Sanctified Lightsworn Gloves', 'Sanctified Lightsworn Garb'),
+(2, 51274, 263, 'Sanctified Lightsworn Tunic', 'Sanctified Lightsworn Garb');
+
+-- Lightsworn Plate Item Set 901
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51731, 901, 'Lightsworn Shoulderguards', 'Lightsworn Plate'),
+(2, 51730, 901, 'Lightsworn Legguards', 'Lightsworn Plate'),
+(2, 51729, 901, 'Lightsworn Faceguard', 'Lightsworn Plate'),
+(2, 51728, 901, 'Lightsworn Handguards', 'Lightsworn Plate'),
+(2, 51727, 901, 'Lightsworn Chestguard', 'Lightsworn Plate');
+
+-- Sanctified Lightsworn Plate Item Set 265
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51269, 265, 'Sanctified Lightsworn Shoulderguards', 'Sanctified Lightsworn Plate'),
+(2, 51268, 265, 'Sanctified Lightsworn Legguards', 'Sanctified Lightsworn Plate'),
+(2, 51266, 265, 'Sanctified Lightsworn Faceguard', 'Sanctified Lightsworn Plate'),
+(2, 51267, 265, 'Sanctified Lightsworn Handguards', 'Sanctified Lightsworn Plate'),
+(2, 51265, 265, 'Sanctified Lightsworn Chestguard', 'Sanctified Lightsworn Plate');
+
+-- Lightsworn Battlegear Item Set 900
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51721, 900, 'Lightsworn Shoulderplates', 'Lightsworn Battlegear'),
+(2, 51720, 900, 'Lightsworn Legplates', 'Lightsworn Battlegear'),
+(2, 51719, 900, 'Lightsworn Helmet', 'Lightsworn Battlegear'),
+(2, 51718, 900, 'Lightsworn Gauntlets', 'Lightsworn Battlegear'),
+(2, 51717, 900, 'Lightsworn Battleplate', 'Lightsworn Battlegear');
+
+-- Sanctified Lightsworn Battlegear Item Set 264
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51279, 264, 'Sanctified Lightsworn Shoulderplates', 'Sanctified Lightsworn Battlegear'),
+(2, 51278, 264, 'Sanctified Lightsworn Legplates', 'Sanctified Lightsworn Battlegear'),
+(2, 51277, 264, 'Sanctified Lightsworn Helmet', 'Sanctified Lightsworn Battlegear'),
+(2, 51276, 264, 'Sanctified Lightsworn Gauntlets', 'Sanctified Lightsworn Battlegear'),
+(2, 51275, 264, 'Sanctified Lightsworn Battleplate', 'Sanctified Lightsworn Battlegear');
+
+-- Crimson Acolyte's Regalia Item Set 886
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51741, 886, 'Crimson Acolyte Pants', 'Crimson Acolyte\'s Regalia'),
+(9, 51740, 886, 'Crimson Acolyte Raiments', 'Crimson Acolyte\'s Regalia'),
+(9, 51739, 886, 'Crimson Acolyte Mantle', 'Crimson Acolyte\'s Regalia'),
+(9, 51738, 886, 'Crimson Acolyte Handwraps', 'Crimson Acolyte\'s Regalia'),
+(9, 51737, 886, 'Crimson Acolyte Cowl', 'Crimson Acolyte\'s Regalia');
+
+-- Sanctified Crimson Acolyte's Regalia Item Set 250
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51258, 250, 'Sanctified Crimson Acolyte Pants', 'Sanctified Crimson Acolyte\'s Regalia'),
+(9, 51259, 250, 'Sanctified Crimson Acolyte Raiments', 'Sanctified Crimson Acolyte\'s Regalia'),
+(9, 51257, 250, 'Sanctified Crimson Acolyte Mantle', 'Sanctified Crimson Acolyte\'s Regalia'),
+(9, 51256, 250, 'Sanctified Crimson Acolyte Handwraps', 'Sanctified Crimson Acolyte\'s Regalia'),
+(9, 51255, 250, 'Sanctified Crimson Acolyte Cowl', 'Sanctified Crimson Acolyte\'s Regalia');
+
+-- Crimson Acolyte's Raiment Item Set 885
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51732, 885, 'Crimson Acolyte Leggings', 'Crimson Acolyte\'s Raiment'),
+(9, 51733, 885, 'Crimson Acolyte Robe', 'Crimson Acolyte\'s Raiment'),
+(9, 51734, 885, 'Crimson Acolyte Shoulderpads', 'Crimson Acolyte\'s Raiment'),
+(9, 51735, 885, 'Crimson Acolyte Gloves', 'Crimson Acolyte\'s Raiment'),
+(9, 51736, 885, 'Crimson Acolyte Hood', 'Crimson Acolyte\'s Raiment');
+
+-- Sanctified Crimson Acolyte's Raiment Item Set 249
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51262, 249, 'Sanctified Crimson Acolyte Leggings', 'Sanctified Crimson Acolyte\'s Raiment'),
+(9, 51263, 249, 'Sanctified Crimson Acolyte Robe', 'Sanctified Crimson Acolyte\'s Raiment'),
+(9, 51264, 249, 'Sanctified Crimson Acolyte Shoulderpads', 'Sanctified Crimson Acolyte\'s Raiment'),
+(9, 51260, 249, 'Sanctified Crimson Acolyte Gloves', 'Sanctified Crimson Acolyte\'s Raiment'),
+(9, 51261, 249, 'Sanctified Crimson Acolyte Hood', 'Sanctified Crimson Acolyte\'s Raiment');
+
+-- Shadowblade's Battlegear Item Set 890
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 51746, 890, 'Shadowblade Pauldrons', 'Shadowblade\'s Battlegear'),
+(4, 51745, 890, 'Shadowblade Helmet', 'Shadowblade\'s Battlegear'),
+(4, 51744, 890, 'Shadowblade Legplates', 'Shadowblade\'s Battlegear'),
+(4, 51743, 890, 'Shadowblade Breastplate', 'Shadowblade\'s Battlegear'),
+(4, 51742, 890, 'Shadowblade Gauntlets', 'Shadowblade\'s Battlegear');
+
+-- Sanctified Shadowblade's Battlegear Item Set 254
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 51254, 254, 'Sanctified Shadowblade Pauldrons', 'Sanctified Shadowblade\'s Battlegear'),
+(4, 51252, 254, 'Sanctified Shadowblade Helmet', 'Sanctified Shadowblade\'s Battlegear'),
+(4, 51253, 254, 'Sanctified Shadowblade Legplates', 'Sanctified Shadowblade\'s Battlegear'),
+(4, 51250, 254, 'Sanctified Shadowblade Breastplate', 'Sanctified Shadowblade\'s Battlegear'),
+(4, 51251, 254, 'Sanctified Shadowblade Gauntlets', 'Sanctified Shadowblade\'s Battlegear');
+
+-- Frost Witch's Garb Item Set 892
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51747, 892, 'Frost Witch\'s Tunic', 'Frost Witch\'s Garb'),
+(9, 51748, 892, 'Frost Witch\'s Handguards', 'Frost Witch\'s Garb'),
+(9, 51749, 892, 'Frost Witch\'s Headpiece', 'Frost Witch\'s Garb'),
+(9, 51750, 892, 'Frost Witch\'s Legguards', 'Frost Witch\'s Garb'),
+(9, 51751, 892, 'Frost Witch\'s Spaulders', 'Frost Witch\'s Garb');
+
+-- Sanctified Frost Witch's Garb Item Set 256
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51249, 256, 'Sanctified Frost Witch\'s Tunic', 'Sanctified Frost Witch\'s Garb'),
+(9, 51248, 256, 'Sanctified Frost Witch\'s Handguards', 'Sanctified Frost Witch\'s Garb'),
+(9, 51247, 256, 'Sanctified Frost Witch\'s Headpiece', 'Sanctified Frost Witch\'s Garb'),
+(9, 51246, 256, 'Sanctified Frost Witch\'s Legguards', 'Sanctified Frost Witch\'s Garb'),
+(9, 51245, 256, 'Sanctified Frost Witch\'s Spaulders', 'Sanctified Frost Witch\'s Garb');
+
+-- Frost Witch's Battlegear Item Set 894
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51752, 894, 'Frost Witch\'s Chestguard', 'Frost Witch\'s Battlegear'),
+(9, 51753, 894, 'Frost Witch\'s Grips', 'Frost Witch\'s Battlegear'),
+(9, 51754, 894, 'Frost Witch\'s Faceguard', 'Frost Witch\'s Battlegear'),
+(9, 51755, 894, 'Frost Witch\'s War-Kilt', 'Frost Witch\'s Battlegear'),
+(9, 51756, 894, 'Frost Witch\'s Shoulderguards', 'Frost Witch\'s Battlegear');
+
+-- Sanctified Frost Witch's Battlegear Item Set 258
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51244, 258, 'Sanctified Frost Witch\'s Chestguard', 'Sanctified Frost Witch\'s Battlegear'),
+(9, 51243, 258, 'Sanctified Frost Witch\'s Grips', 'Sanctified Frost Witch\'s Battlegear'),
+(9, 51242, 258, 'Sanctified Frost Witch\'s Faceguard', 'Sanctified Frost Witch\'s Battlegear'),
+(9, 51241, 258, 'Sanctified Frost Witch\'s War-Kilt', 'Sanctified Frost Witch\'s Battlegear'),
+(9, 51240, 258, 'Sanctified Frost Witch\'s Shoulderguards', 'Sanctified Frost Witch\'s Battlegear');
+
+-- Frost Witch's Regalia Item Set 893
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51757, 893, 'Frost Witch\'s Hauberk', 'Frost Witch\'s Regalia'),
+(9, 51758, 893, 'Frost Witch\'s Gloves', 'Frost Witch\'s Regalia'),
+(9, 51759, 893, 'Frost Witch\'s Helm', 'Frost Witch\'s Regalia'),
+(9, 51760, 893, 'Frost Witch\'s Kilt', 'Frost Witch\'s Regalia'),
+(9, 51761, 893, 'Frost Witch\'s Shoulderpads', 'Frost Witch\'s Regalia');
+
+-- Sanctified Frost Witch's Regalia Item Set 257
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51239, 257, 'Sanctified Frost Witch\'s Hauberk', 'Sanctified Frost Witch\'s Regalia'),
+(9, 51238, 257, 'Sanctified Frost Witch\'s Gloves', 'Sanctified Frost Witch\'s Regalia'),
+(9, 51237, 257, 'Sanctified Frost Witch\'s Helm', 'Sanctified Frost Witch\'s Regalia'),
+(9, 51236, 257, 'Sanctified Frost Witch\'s Kilt', 'Sanctified Frost Witch\'s Regalia'),
+(9, 51235, 257, 'Sanctified Frost Witch\'s Shoulderpads', 'Sanctified Frost Witch\'s Regalia');
+
+-- Dark Coven's Regalia Item Set 884
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51766, 884, 'Dark Coven Gloves', 'Dark Coven\'s Regalia'),
+(9, 51765, 884, 'Dark Coven Hood', 'Dark Coven\'s Regalia'),
+(9, 51764, 884, 'Dark Coven Leggings', 'Dark Coven\'s Regalia'),
+(9, 51763, 884, 'Dark Coven Robe', 'Dark Coven\'s Regalia'),
+(9, 51762, 884, 'Dark Coven Shoulderpads', 'Dark Coven\'s Regalia');
+
+-- Sanctified Dark Coven's Regalia Item Set 248
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 51230, 248, 'Sanctified Dark Coven Gloves', 'Sanctified Dark Coven\'s Regalia'),
+(9, 51231, 248, 'Sanctified Dark Coven Hood', 'Sanctified Dark Coven\'s Regalia'),
+(9, 51232, 248, 'Sanctified Dark Coven Leggings', 'Sanctified Dark Coven\'s Regalia'),
+(9, 51233, 248, 'Sanctified Dark Coven Robe', 'Sanctified Dark Coven\'s Regalia'),
+(9, 51234, 248, 'Sanctified Dark Coven Shoulderpads', 'Sanctified Dark Coven\'s Regalia');
+
+-- Ymirjar Lord's Battlegear Item Set 895
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51771, 895, 'Ymirjar Lord\'s Battleplate', 'Ymirjar Lord\'s Battlegear'),
+(2, 51770, 895, 'Ymirjar Lord\'s Gauntlets', 'Ymirjar Lord\'s Battlegear'),
+(2, 51769, 895, 'Ymirjar Lord\'s Helmet', 'Ymirjar Lord\'s Battlegear'),
+(2, 51768, 895, 'Ymirjar Lord\'s Legplates', 'Ymirjar Lord\'s Battlegear'),
+(2, 51767, 895, 'Ymirjar Lord\'s Shoulderplates', 'Ymirjar Lord\'s Battlegear');
+
+-- Sanctified Ymirjar Lord's Battlegear Item Set 259
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51225, 259, 'Sanctified Ymirjar Lord\'s Battleplate', 'Sanctified Ymirjar Lord\'s Battlegear'),
+(2, 51226, 259, 'Sanctified Ymirjar Lord\'s Gauntlets', 'Sanctified Ymirjar Lord\'s Battlegear'),
+(2, 51227, 259, 'Sanctified Ymirjar Lord\'s Helmet', 'Sanctified Ymirjar Lord\'s Battlegear'),
+(2, 51228, 259, 'Sanctified Ymirjar Lord\'s Legplates', 'Sanctified Ymirjar Lord\'s Battlegear'),
+(2, 51229, 259, 'Sanctified Ymirjar Lord\'s Shoulderplates', 'Sanctified Ymirjar Lord\'s Battlegear');
+
+-- Ymirjar Lord's Plate Item Set 896
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51776, 896, 'Ymirjar Lord\'s Pauldrons', 'Ymirjar Lord\'s Plate'),
+(2, 51775, 896, 'Ymirjar Lord\'s Legguards', 'Ymirjar Lord\'s Plate'),
+(2, 51774, 896, 'Ymirjar Lord\'s Greathelm', 'Ymirjar Lord\'s Plate'),
+(2, 51773, 896, 'Ymirjar Lord\'s Handguards', 'Ymirjar Lord\'s Plate'),
+(2, 51772, 896, 'Ymirjar Lord\'s Breastplate', 'Ymirjar Lord\'s Plate');
+
+-- Sanctified Ymirjar Lord's Plate Item Set 260
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 51224, 260, 'Sanctified Ymirjar Lord\'s Pauldrons', 'Sanctified Ymirjar Lord\'s Plate'),
+(2, 51223, 260, 'Sanctified Ymirjar Lord\'s Legguards', 'Sanctified Ymirjar Lord\'s Plate'),
+(2, 51221, 260, 'Sanctified Ymirjar Lord\'s Greathelm', 'Sanctified Ymirjar Lord\'s Plate'),
+(2, 51222, 260, 'Sanctified Ymirjar Lord\'s Handguards', 'Sanctified Ymirjar Lord\'s Plate'),
+(2, 51220, 260, 'Sanctified Ymirjar Lord\'s Breastplate', 'Sanctified Ymirjar Lord\'s Plate');
+
+
+
+
+
+--[[ Arathi Basin Sets ]]
+
+
+
+
+
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 20052, 471, 'Highlander\'s Leather Boots', 'The Highlander\'s Purpose'),
+(11, 20045, 471, 'Highlander\'s Leather Girdle', 'The Highlander\'s Purpose'),
+(11, 20059, 471, 'Highlander\'s Leather Shoulders', 'The Highlander\'s Purpose');
+
+-- Insert Armor Sets for The Defiler's Purpose Item Set 486
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 20186, 486, 'Defiler\'s Leather Boots', 'The Defiler\'s Purpose'),
+(11, 20190, 486, 'Defiler\'s Leather Girdle', 'The Defiler\'s Purpose'),
+(11, 20194, 486, 'Defiler\'s Leather Shoulders', 'The Defiler\'s Purpose');
+
+-- Insert Armor Sets for The Highlander's Will Item Set 472
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 20053, 472, 'Highlander\'s Lizardhide Boots', 'The Highlander\'s Will'),
+(11, 20046, 472, 'Highlander\'s Lizardhide Girdle', 'The Highlander\'s Will'),
+(11, 20060, 472, 'Highlander\'s Lizardhide Shoulders', 'The Highlander\'s Will');
+
+-- Insert Armor Sets for The Defiler's Will Item Set 488
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(11, 20167, 488, 'Defiler\'s Lizardhide Boots', 'The Defiler\'s Will'),
+(11, 20171, 488, 'Defiler\'s Lizardhide Girdle', 'The Defiler\'s Will'),
+(11, 20175, 488, 'Defiler\'s Lizardhide Shoulders', 'The Defiler\'s Will');
+
+-- Insert Armor Sets for The Highlander's Determination Item Set 469
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 20043, 469, 'Highlander\'s Chain Girdle', 'The Highlander\'s Determination'),
+(3, 20050, 469, 'Highlander\'s Chain Greaves', 'The Highlander\'s Determination'),
+(3, 20055, 469, 'Highlander\'s Chain Pauldrons', 'The Highlander\'s Determination');
+
+-- Insert Armor Sets for The Defiler's Determination Item Set (ID not provided)
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 20158, 0, 'Defiler\'s Chain Pauldrons', 'The Defiler\'s Determination'),
+(3, 20154, 0, 'Defiler\'s Chain Greaves', 'The Defiler\'s Determination'),
+(3, 20150, 0, 'Defiler\'s Chain Girdle', 'The Defiler\'s Determination');
+
+-- Insert Armor Sets for The Defiler's Fortitude Item Set 484
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(3, 20195, 484, 'Defiler\'s Mail Girdle', 'The Defiler\'s Fortitude'),
+(3, 20199, 484, 'Defiler\'s Mail Greaves', 'The Defiler\'s Fortitude'),
+(3, 20203, 484, 'Defiler\'s Mail Pauldrons', 'The Defiler\'s Fortitude');
+
+-- Insert Armor Sets for The Highlander's Intent Item Set 473
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 20054, 473, 'Highlander\'s Cloth Boots', 'The Highlander\'s Intent'),
+(8, 20047, 473, 'Highlander\'s Cloth Girdle', 'The Highlander\'s Intent'),
+(8, 20061, 473, 'Highlander\'s Epaulets', 'The Highlander\'s Intent');
+
+-- Insert Armor Sets for The Defiler's Intent Item Set 485
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(8, 20176, 485, 'Defiler\'s Epaulets', 'The Defiler\'s Intent'),
+(8, 20159, 485, 'Defiler\'s Cloth Boots', 'The Defiler\'s Intent'),
+(8, 20163, 485, 'Defiler\'s Cloth Girdle', 'The Defiler\'s Intent');
+
+-- Insert Armor Sets for The Highlander's Resolution Item Set 467
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 20041, 467, 'Highlander\'s Plate Girdle', 'The Highlander\'s Resolution'),
+(2, 20048, 467, 'Highlander\'s Plate Greaves', 'The Highlander\'s Resolution'),
+(2, 20057, 467, 'Highlander\'s Plate Spaulders', 'The Highlander\'s Resolution');
+
+-- Insert Armor Sets for The Highlander's Resolve Item Set 468
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(2, 20042, 468, 'Highlander\'s Lamellar Girdle', 'The Highlander\'s Resolve'),
+(2, 20049, 468, 'Highlander\'s Lamellar Greaves', 'The Highlander\'s Resolve'),
+(2, 20058, 468, 'Highlander\'s Lamellar Spaulders', 'The Highlander\'s Resolve');
+
+-- Insert Armor Sets for The Highlander's Intent Item Set 473
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 20054, 473, 'Highlander\'s Cloth Boots', 'The Highlander\'s Intent'),
+(5, 20047, 473, 'Highlander\'s Cloth Girdle', 'The Highlander\'s Intent'),
+(5, 20061, 473, 'Highlander\'s Epaulets', 'The Highlander\'s Intent');
+
+-- Insert Armor Sets for The Defiler's Intent Item Set 485
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(5, 20176, 485, 'Defiler\'s Epaulets', 'The Defiler\'s Intent'),
+(5, 20159, 485, 'Defiler\'s Cloth Boots', 'The Defiler\'s Intent'),
+(5, 20163, 485, 'Defiler\'s Cloth Girdle', 'The Defiler\'s Intent');
+
+-- Insert Armor Sets for The Highlander's Purpose Item Set 471
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 20052, 471, 'Highlander\'s Leather Boots', 'The Highlander\'s Purpose'),
+(4, 20045, 471, 'Highlander\'s Leather Girdle', 'The Highlander\'s Purpose'),
+(4, 20059, 471, 'Highlander\'s Leather Shoulders', 'The Highlander\'s Purpose');
+
+-- Insert Armor Sets for The Defiler's Purpose Item Set 486
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(4, 20186, 486, 'Defiler\'s Leather Boots', 'The Defiler\'s Purpose'),
+(4, 20190, 486, 'Defiler\'s Leather Girdle', 'The Defiler\'s Purpose'),
+(4, 20194, 486, 'Defiler\'s Leather Shoulders', 'The Defiler\'s Purpose');
+
+-- Insert Armor Sets for The Defiler's Determination Item Set 483
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 20158, 483, 'Defiler\'s Chain Pauldrons', 'The Defiler\'s Determination'),
+(7, 20154, 483, 'Defiler\'s Chain Greaves', 'The Defiler\'s Determination'),
+(7, 20150, 483, 'Defiler\'s Chain Girdle', 'The Defiler\'s Determination');
+
+-- Insert Armor Sets for The Defiler's Fortitude Item Set 484
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(7, 20195, 484, 'Defiler\'s Mail Girdle', 'The Defiler\'s Fortitude'),
+(7, 20199, 484, 'Defiler\'s Mail Greaves', 'The Defiler\'s Fortitude'),
+(7, 20203, 484, 'Defiler\'s Mail Pauldrons', 'The Defiler\'s Fortitude');
+
+-- Insert Armor Sets for The Highlander's Intent Item Set 473
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 20054, 473, 'Highlander\'s Cloth Boots', 'The Highlander\'s Intent'),
+(9, 20047, 473, 'Highlander\'s Cloth Girdle', 'The Highlander\'s Intent'),
+(9, 20061, 473, 'Highlander\'s Epaulets', 'The Highlander\'s Intent');
+
+-- Insert Armor Sets for The Defiler's Intent Item Set 485
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(9, 20176, 485, 'Defiler\'s Epaulets', 'The Defiler\'s Intent'),
+(9, 20159, 485, 'Defiler\'s Cloth Boots', 'The Defiler\'s Intent'),
+(9, 20163, 485, 'Defiler\'s Cloth Girdle', 'The Defiler\'s Intent');
+
+-- Insert Armor Sets for The Highlander's Resolution Item Set 467
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 20041, 467, 'Highlander\'s Plate Girdle', 'The Highlander\'s Resolution'),
+(1, 20048, 467, 'Highlander\'s Plate Greaves', 'The Highlander\'s Resolution'),
+(1, 20057, 467, 'Highlander\'s Plate Spaulders', 'The Highlander\'s Resolution');
+
+-- Insert Armor Sets for The Defiler's Resolution Item Set 487
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(1, 20204, 487, 'Defiler\'s Plate Girdle', 'The Defiler\'s Resolution'),
+(1, 20208, 487, 'Defiler\'s Plate Greaves', 'The Defiler\'s Resolution'),
+(1, 20212, 487, 'Defiler\'s Plate Spaulders', 'The Defiler\'s Resolution');
+
+
+
+
+
+--[[ Non-Class Sets ]]
+
+-- Insert Armor Sets for Defias Leather Item Set 161
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 10399, 161, 'Blackened Defias Armor', 'Defias Leather'),
+(0, 10403, 161, 'Blackened Defias Belt', 'Defias Leather'),
+(0, 10402, 161, 'Blackened Defias Boots', 'Defias Leather'),
+(0, 10401, 161, 'Blackened Defias Gloves', 'Defias Leather'),
+(0, 10400, 161, 'Blackened Defias Leggings', 'Defias Leather');
+
+-- Insert Armor Sets for Embrace of the Viper Item Set 162
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 10412, 162, 'Belt of the Fang', 'Embrace of the Viper'),
+(0, 10411, 162, 'Footpads of the Fang', 'Embrace of the Viper'),
+(0, 10413, 162, 'Gloves of the Fang', 'Embrace of the Viper'),
+(0, 10410, 162, 'Leggings of the Fang', 'Embrace of the Viper'),
+(0, 6473, 162, 'Armor of the Fang', 'Embrace of the Viper');
+
+-- Insert Armor Sets for Chain of the Scarlet Crusade Item Set 163
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 10329, 163, 'Scarlet Belt', 'Chain of the Scarlet Crusade'),
+(0, 10332, 163, 'Scarlet Boots', 'Chain of the Scarlet Crusade'),
+(0, 10328, 163, 'Scarlet Chestpiece', 'Chain of the Scarlet Crusade'),
+(0, 10331, 163, 'Scarlet Gauntlets', 'Chain of the Scarlet Crusade'),
+(0, 10330, 163, 'Scarlet Leggings', 'Chain of the Scarlet Crusade'),
+(0, 10333, 163, 'Scarlet Wristguards', 'Chain of the Scarlet Crusade');
+
+-- Insert Armor Sets for Green Dragon Mail Item Set 490
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 15045, 490, 'Green Dragonscale Breastplate', 'Green Dragon Mail'),
+(0, 15046, 490, 'Green Dragonscale Leggings', 'Green Dragon Mail'),
+(0, 20296, 490, 'Green Dragonscale Gauntlets', 'Green Dragon Mail');
+
+-- Insert Armor Sets for Ironfeather Armor Item Set 144
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 15066, 144, 'Ironfeather Breastplate', 'Ironfeather Armor'),
+(0, 15067, 144, 'Ironfeather Shoulders', 'Ironfeather Armor');
+
+-- Insert Armor Sets for Imperial Plate Item Set 321
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 12424, 321, 'Imperial Plate Belt', 'Imperial Plate'),
+(0, 12426, 321, 'Imperial Plate Boots', 'Imperial Plate'),
+(0, 12425, 321, 'Imperial Plate Bracers', 'Imperial Plate'),
+(0, 12422, 321, 'Imperial Plate Chest', 'Imperial Plate'),
+(0, 12427, 321, 'Imperial Plate Helm', 'Imperial Plate'),
+(0, 12429, 321, 'Imperial Plate Leggings', 'Imperial Plate'),
+(0, 12428, 321, 'Imperial Plate Shoulders', 'Imperial Plate');
+
+-- Insert Armor Sets for The Gladiator Item Set 1
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 11729, 1, 'Savage Gladiator Helm', 'The Gladiator'),
+(0, 11726, 1, 'Savage Gladiator Chain', 'The Gladiator'),
+(0, 11728, 1, 'Savage Gladiator Leggings', 'The Gladiator'),
+(0, 11731, 1, 'Savage Gladiator Greaves', 'The Gladiator'),
+(0, 11730, 1, 'Savage Gladiator Grips', 'The Gladiator');
+
+-- Insert Armor Sets for Volcanic Armor Item Set 141
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 15053, 141, 'Volcanic Breastplate', 'Volcanic Armor'),
+(0, 15054, 141, 'Volcanic Leggings', 'Volcanic Armor'),
+(0, 15055, 141, 'Volcanic Shoulders', 'Volcanic Armor');
+
+-- Insert Armor Sets for Blue Dragon Mail Item Set 491
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 15048, 491, 'Blue Dragonscale Breastplate', 'Blue Dragon Mail'),
+(0, 20295, 491, 'Blue Dragonscale Leggings', 'Blue Dragon Mail'),
+(0, 15049, 491, 'Blue Dragonscale Shoulders', 'Blue Dragon Mail');
+
+-- Insert Armor Sets for Devilsaur Armor Item Set 143
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 15062, 143, 'Devilsaur Leggings', 'Devilsaur Armor'),
+(0, 15063, 143, 'Devilsaur Gauntlets', 'Devilsaur Armor');
+
+-- Insert Armor Sets for Stormshroud Armor Item Set 142
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 15056, 142, 'Stormshroud Armor', 'Stormshroud Armor'),
+(0, 15057, 142, 'Stormshroud Pants', 'Stormshroud Armor'),
+(0, 15058, 142, 'Stormshroud Shoulders', 'Stormshroud Armor'),
+(0, 21278, 142, 'Stormshroud Gloves', 'Stormshroud Armor');
+
+-- Insert Armor Sets for Black Dragon Mail Item Set 489
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 16984, 489, 'Black Dragonscale Boots', 'Black Dragon Mail'),
+(0, 15050, 489, 'Black Dragonscale Breastplate', 'Black Dragon Mail'),
+(0, 15052, 489, 'Black Dragonscale Leggings', 'Black Dragon Mail'),
+(0, 15051, 489, 'Black Dragonscale Shoulders', 'Black Dragon Mail');
+
+-- Insert Armor Sets for The Postmaster Item Set 81
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 13390, 81, 'The Postmaster\'s Band', 'The Postmaster'),
+(0, 13388, 81, 'The Postmaster\'s Tunic', 'The Postmaster'),
+(0, 13391, 81, 'The Postmaster\'s Treads', 'The Postmaster'),
+(0, 13392, 81, 'The Postmaster\'s Seal', 'The Postmaster'),
+(0, 13389, 81, 'The Postmaster\'s Trousers', 'The Postmaster');
+
+-- Insert Armor Sets for Ironweave Battlesuit Item Set 520
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 22306, 520, 'Ironweave Belt', 'Ironweave Battlesuit'),
+(0, 22311, 520, 'Ironweave Boots', 'Ironweave Battlesuit'),
+(0, 22313, 520, 'Ironweave Bracers', 'Ironweave Battlesuit'),
+(0, 22302, 520, 'Ironweave Cowl', 'Ironweave Battlesuit'),
+(0, 22304, 520, 'Ironweave Gloves', 'Ironweave Battlesuit'),
+(0, 22305, 520, 'Ironweave Mantle', 'Ironweave Battlesuit'),
+(0, 22303, 520, 'Ironweave Pants', 'Ironweave Battlesuit'),
+(0, 22301, 520, 'Ironweave Robe', 'Ironweave Battlesuit');
+
+-- Insert Armor Sets for Regalia of Undead Cleansing Item Set 536
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 23091, 536, 'Bracers of Undead Cleansing', 'Regalia of Undead Cleansing'),
+(0, 23084, 536, 'Gloves of Undead Cleansing', 'Regalia of Undead Cleansing'),
+(0, 23085, 536, 'Robe of Undead Cleansing', 'Regalia of Undead Cleansing');
+
+-- Insert Armor Sets for Undead Slayer's Armor Item Set 534
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 23081, 534, 'Handwraps of Undead Slaying', 'Undead Slayer\'s Armor'),
+(0, 23089, 534, 'Tunic of Undead Slaying', 'Undead Slayer\'s Armor'),
+(0, 23093, 534, 'Wristwraps of Undead Slaying', 'Undead Slayer\'s Armor');
+
+-- Insert Armor Sets for Garb of the Undead Slayer Item Set 535
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 23088, 535, 'Chestguard of Undead Slaying', 'Garb of the Undead Slayer'),
+(0, 23082, 535, 'Handguards of Undead Slaying', 'Garb of the Undead Slayer'),
+(0, 23092, 535, 'Wristguards of Undead Slaying', 'Garb of the Undead Slayer');
+
+-- Insert Armor Sets for Battlegear of Undead Slaying Item Set 533
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 23090, 533, 'Bracers of Undead Slaying', 'Battlegear of Undead Slaying'),
+(0, 23087, 533, 'Breastplate of Undead Slaying', 'Battlegear of Undead Slaying'),
+(0, 23078, 533, 'Gauntlets of Undead Slaying', 'Battlegear of Undead Slaying');
+
+-- Insert Armor Sets for Blessed Regalia of Undead Cleansing Item Set 781
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 43073, 781, 'Blessed Gloves of Undead Cleansing', 'Blessed Regalia of Undead Cleansing'),
+(0, 43074, 781, 'Blessed Mantle of Undead Cleansing', 'Blessed Regalia of Undead Cleansing'),
+(0, 43075, 781, 'Blessed Trousers of Undead Cleansing', 'Blessed Regalia of Undead Cleansing'),
+(0, 43072, 781, 'Blessed Robe of Undead Cleansing', 'Blessed Regalia of Undead Cleansing');
+
+-- Insert Armor Sets for Undead Slayer's Blessed Armor Item Set 782
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 43078, 782, 'Blessed Grips of Undead Slaying', 'Undead Slayer\'s Blessed Armor'),
+(0, 43077, 782, 'Blessed Shoulderpads of Undead Slaying', 'Undead Slayer\'s Blessed Armor'),
+(0, 43079, 782, 'Blessed Leggings of Undead Slaying', 'Undead Slayer\'s Blessed Armor'),
+(0, 43076, 782, 'Blessed Tunic of Undead Slaying', 'Undead Slayer\'s Blessed Armor');
+
+-- Insert Armor Sets for Blessed Garb of the Undead Slayer Item Set 783
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 43082, 783, 'Blessed Handguards of Undead Slaying', 'Blessed Garb of the Undead Slayer'),
+(0, 43081, 783, 'Blessed Pauldrons of Undead Slaying', 'Blessed Garb of the Undead Slayer'),
+(0, 43083, 783, 'Blessed Greaves of Undead Slaying', 'Blessed Garb of the Undead Slayer'),
+(0, 43080, 783, 'Blessed Hauberk of Undead Slaying', 'Blessed Garb of the Undead Slayer');
+
+-- Insert Armor Sets for Blessed Battlegear of Undead Slaying Item Set 784
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 43070, 784, 'Blessed Gauntlets of Undead Slaying', 'Blessed Battlegear of Undead Slaying'),
+(0, 43068, 784, 'Blessed Spaulders of Undead Slaying', 'Blessed Battlegear of Undead Slaying'),
+(0, 43071, 784, 'Blessed Legplates of Undead Slaying', 'Blessed Battlegear of Undead Slaying'),
+(0, 43069, 784, 'Blessed Breastplate of Undead Slaying', 'Blessed Battlegear of Undead Slaying');
+
+-- Insert Armor Sets for Twilight Trappings Item Set 492
+INSERT INTO `black_market_armor_sets` (`class`, `item_id`, `item_set_id`, `name`, `set_name`) VALUES 
+(0, 20406, 492, 'Twilight Cultist Mantle', 'Twilight Trappings'),
+(0, 20408, 492, 'Twilight Cultist Cowl', 'Twilight Trappings'),
+(0, 20407, 492, 'Twilight Cultist Robe', 'Twilight Trappings');
